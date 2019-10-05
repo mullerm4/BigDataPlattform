@@ -1,0 +1,27 @@
+# Use an official Python runtime as a parent image
+FROM python:3.6-slim
+
+# Set the working directory to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+#COPY . /app
+COPY . /app
+
+# Install any needed packages specified in requirements.txt
+RUN pip install --trusted-host pypi.python.org -r requirements.txt
+
+# Make port 80 available to the world outside this container
+EXPOSE 80
+
+# Define environment variable
+ENV NAME con1
+
+# Run app.py when the container launches
+CMD ./simulate_user_uploads_1.sh
+
+CMD ./simulate_user_uploads_2.sh
+
+CMD ./simulate_user_uploads_5.sh
+
+CMD ./simulate_user_uploads_10.sh

@@ -1,13 +1,14 @@
 #to read data from data sources(files/external databases) of the tenant/user and then store the data by calling APIs ofmysimbdp-coredms
 
 from pymongo import MongoClient, monitoring
+from datetime import datetime
 import logging
 import pandas as pd
 import os
 import json
 import numpy as np
 import argparse
-import  time
+import time
 
 
 
@@ -63,6 +64,72 @@ class CommandLogger(monitoring.CommandListener):
                      "failed in {0.duration_micros} "
                      "microseconds".format(event))
 
+class ServerLogger(monitoring.ServerListener):
+
+    def opened(self, event):
+        logging.info("Server {0.server_address} added to topology "
+                     "{0.topology_id}".format(event))
+
+    def description_changed(self, event):
+        previous_server_type = event.previous_description.server_type
+        new_server_type = event.new_description.server_type
+        if new_server_type != previous_server_type:
+            # server_type_name was added in PyMongo 3.4
+            logging.info(
+                "Server {0.server_address} changed type from "
+                "{0.previous_description.server_type_name} to "
+                "{0.new_description.server_type_name}".format(event))
+
+    def closed(self, event):
+        logging.warning("Server {0.server_address} removed from topology "
+                        "{0.topology_id}".format(event))
+
+
+class HeartbeatLogger(monitoring.ServerHeartbeatListener):
+
+    def started(self, event):
+        logging.info("Heartbeat sent to server "
+                     "{0.connection_id}".format(event))
+
+    def succeeded(self, event):
+        # The reply.document attribute was added in PyMongo 3.4.
+        logging.info("Heartbeat to server {0.connection_id} "
+                     "succeeded with reply "
+                     "{0.reply.document}".format(event))
+
+    def failed(self, event):
+        logging.warning("Heartbeat to server {0.connection_id} "
+                        "failed with error {0.reply}".format(event))
+
+class TopologyLogger(monitoring.TopologyListener):
+
+    def opened(self, event):
+        logging.info("Topology with id {0.topology_id} "
+                     "opened".format(event))
+
+    def description_changed(self, event):
+        logging.info("Topology description updated for "
+                     "topology id {0.topology_id}".format(event))
+        previous_topology_type = event.previous_description.topology_type
+        new_topology_type = event.new_description.topology_type
+        if new_topology_type != previous_topology_type:
+            # topology_type_name was added in PyMongo 3.4
+            logging.info(
+                "Topology {0.topology_id} changed type from "
+                "{0.previous_description.topology_type_name} to "
+                "{0.new_description.topology_type_name}".format(event))
+        # The has_writable_server and has_readable_server methods
+        # were added in PyMongo 3.4.
+        if not event.new_description.has_writable_server():
+            logging.warning("No writable servers available.")
+        if not event.new_description.has_readable_server():
+            logging.warning("No readable servers available.")
+
+    def closed(self, event):
+        logging.info("Topology with id {0.topology_id} "
+                     "closed".format(event))
+
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Dataingest : Uploads source from user..')
@@ -75,14 +142,33 @@ if __name__ == "__main__":
     parser.add_argument('-drop', metavar='N', type=bool,
                         help='drop table if desired',
                        default=False)
+    parser.add_argument('-lp', metavar='N', type=str,
+                        help='specify log path',
+                        default=None)
+    parser.add_argument('-mode', metavar='N', type=str,
+                        help='Specify the test case. For example when 10 instances are running on the same time '
+                             'provide 10 as argumemt.',
+                        default=None)
+
+    args = parser.parse_args()
+
+    if args.lp == None:
+        args.lp = args.user + "_" + str(datetime.now().strftime("%H_%M_%S"))+".log"
 
 
+    logging.basicConfig(filename=args.lp,
+                        filemode='a',
+                        format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+                        datefmt='%H:%M:%S',
+                        level=logging.DEBUG)
 
     logging.info("Running Urban Planning")
 
-    args = parser.parse_args()
+
     filename = "2019.csv"
     monitoring.register(CommandLogger())
+    monitoring.register(ServerLogger())
+    monitoring.register(TopologyLogger())
 
     print("Establishing connection for user %s with password %s" %(args.user, args.p))
     mng_client = MongoDBClient.get_connection(args.user, args.p)
@@ -127,6 +213,10 @@ if __name__ == "__main__":
         finally:
             print()
             #print("---------------Progess rate %.2f %% of uploading %s documents -----------------" %((success * 100 / len_data), args.samp))
+    logging.info("Overall success rate for : %s %%" %(success *100 / len_data))
+    logging.info("Overall failure rate  for : %s %% for %s documents upload. " % ((failure * 100 / len_data), args.samp))
+    logging.info("Overall response time : %s seconds  for %s documents upload. " % (response, args.samp))
+
     print("Overall success rate for : %s %%" %(success *100 / len_data))
     print("Overall failure rate  for : %s %% for %s documents upload. "%((failure * 100 / len_data), args.samp))
     print("Overall response time : %s seconds  for %s documents upload. "%(response, args.samp))

@@ -143,20 +143,31 @@ if __name__ == "__main__":
                         help='drop table if desired',
                        default=False)
     parser.add_argument('-lp', metavar='N', type=str,
-                        help='specify log path',
-                        default=None)
-    parser.add_argument('-mode', metavar='N', type=str,
-                        help='Specify the test case. For example when 10 instances are running on the same time '
+                        help='specify log directory for diffrent test cases. For example when 10 instances are running on the same time '
                              'provide 10 as argumemt.',
                         default=None)
 
+    parser.add_argument('-dt', metavar='N', type=bool,
+                        help='drop table option',
+                        default=None)
+
+
+
+
+
     args = parser.parse_args()
 
-    if args.lp == None:
-        args.lp = args.user + "_" + str(datetime.now().strftime("%H_%M_%S"))+".log"
+    if args.lp is None:
+        args.lp = os.curdir
+    if not  os.path.exists(args.lp):
+        os.mkdir(args.lp)
 
 
-    logging.basicConfig(filename=args.lp,
+    filename = args.user + "_" + str(datetime.now().strftime("%H_%M_%S")) + ".log"
+    logfilepath = os.path.join(args.lp, filename)
+
+    print("Create log file %s in %s" %(filename, args.lp))
+    logging.basicConfig(filename= logfilepath,
                         filemode='a',
                         format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                         datefmt='%H:%M:%S',
@@ -172,10 +183,22 @@ if __name__ == "__main__":
 
     print("Establishing connection for user %s with password %s" %(args.user, args.p))
     mng_client = MongoDBClient.get_connection(args.user, args.p)
-    mng_db = mng_client['As1']  # Replace mongo db name
-    collection_name = filename # Replace mongo db collection name
 
+
+
+
+    mng_db = mng_client['As1']
+    collection_name = filename
     db_cm = mng_db[collection_name]
+    if args.dt:
+        mng_db.drop_collection(collection_name)
+        print("Dropped database for test cases.")
+        os.remove(logfilepath)
+        exit(0)
+
+
+
+
     cdir = os.path.dirname(__file__)
 
     # reading external source data
@@ -208,10 +231,9 @@ if __name__ == "__main__":
             db_cm.insert(json)
             fail = df.shape[0]
             failure += fail
-
-
         finally:
-            print()
+            pass
+            # this is to nasty, when 10 concurrent proccess are running
             #print("---------------Progess rate %.2f %% of uploading %s documents -----------------" %((success * 100 / len_data), args.samp))
     logging.info("Overall success rate for : %s %%" %(success *100 / len_data))
     logging.info("Overall failure rate  for : %s %% for %s documents upload. " % ((failure * 100 / len_data), args.samp))

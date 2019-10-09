@@ -1,0 +1,34 @@
+14:19:36,758 root INFO Topology with id 5d9dc2480b6c975c1d36e05c opened
+14:19:36,759 root INFO Topology description updated for topology id 5d9dc2480b6c975c1d36e05c
+14:19:36,759 root INFO Topology 5d9dc2480b6c975c1d36e05c changed type from Unknown to ReplicaSetNoPrimary
+14:19:36,759 root WARNING No writable servers available.
+14:19:36,759 root WARNING No readable servers available.
+14:19:36,759 root INFO Server ('cluster0-shard-00-02-ukbbs.gcp.mongodb.net', 27017) added to topology 5d9dc2480b6c975c1d36e05c
+14:19:36,759 root INFO Server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) added to topology 5d9dc2480b6c975c1d36e05c
+14:19:36,759 root INFO Server ('cluster0-shard-00-01-ukbbs.gcp.mongodb.net', 27017) added to topology 5d9dc2480b6c975c1d36e05c
+14:19:37,111 root INFO Command saslStart with request id 424238335 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,111 root INFO Command saslStart with request id 424238335 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,146 root INFO Command saslStart with request id 424238335 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 34914 microseconds
+14:19:37,146 root INFO Command saslStart with request id 424238335 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 34914 microseconds
+14:19:37,163 root INFO Command saslContinue with request id 719885386 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,163 root INFO Command saslContinue with request id 719885386 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,199 root INFO Command saslContinue with request id 719885386 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 35739 microseconds
+14:19:37,199 root INFO Command saslContinue with request id 719885386 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 35739 microseconds
+14:19:37,200 root INFO Command saslContinue with request id 1649760492 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,200 root INFO Command saslContinue with request id 1649760492 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,235 root INFO Command saslContinue with request id 1649760492 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 34394 microseconds
+14:19:37,235 root INFO Command saslContinue with request id 1649760492 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 34394 microseconds
+14:19:37,236 root INFO Command drop with request id 596516649 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,236 root INFO Command drop with request id 596516649 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,283 root INFO Command drop with request id 596516649 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 46675 microseconds
+14:19:37,283 root INFO Command drop with request id 596516649 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 46675 microseconds
+14:19:37,288 root INFO start insert 20 row and ollumns 
+14:19:37,289 root INFO Command insert with request id 1189641421 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,289 root INFO Command insert with request id 1189641421 started on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017)
+14:19:37,392 root INFO Command insert with request id 1189641421 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 103432 microseconds
+14:19:37,393 root INFO Command insert with request id 1189641421 on server ('cluster0-shard-00-00-ukbbs.gcp.mongodb.net', 27017) succeeded in 103432 microseconds
+14:19:37,393 root INFO succesfully inserted 20 rows and 18 collumns
+14:19:37,393 root INFO response time 0.11 seconds ---
+14:19:37,394 root INFO Overall success rate for : 100.0 %
+14:19:37,394 root INFO Overall failure rate  for : 0.0 % for 20 documents upload. 
+14:19:37,394 root INFO Overall response time : 0.10567021369934082 seconds  for 20 documents upload. 

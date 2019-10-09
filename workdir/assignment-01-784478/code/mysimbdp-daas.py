@@ -1,0 +1,297 @@
+#   key component to store and manage data .This component isa platform-as-a-service.
+#to read data from data sources(files/external databases) of the tenant/user and then store the data by calling APIs ofmysimbdp-coredms
+
+from pymongo import MongoClient, monitoring
+from datetime import datetime
+import logging
+import pandas as pd
+import os
+import json
+import numpy as np
+import argparse
+import time
+from aenum import Enum
+
+
+class Modes(Enum):
+    Insert = 1
+    Read = 2
+    Update = 3
+
+class MongoDBClient(object):
+    @staticmethod
+    def get_connection(user, password):
+        return MongoClient("mongodb+srv://%s:%s@cluster0-ukbbs.gcp.mongodb.net/test?retryWrites=true&w=majority" %(user, password), event_listeners=[CommandLogger()])
+
+
+
+class CSVInputHandler():
+    @staticmethod
+    def getdatafromCSV(file_name, samplesize=None):
+        if samplesize == None:
+            data = pd.read_csv(file_name)
+        else:
+            data = pd.read_csv(filename).sample(samplesize)
+        return data
+
+    @staticmethod
+    def getJsonfromDf(data):
+        header = data.head()
+        new_header = [str(head).replace('.', '_') for head in header]
+        data.columns = new_header
+
+        return json.loads(data.to_json(orient='records'))
+
+    @staticmethod
+    def getJsonfromCSV(filename, samplesize=None):
+
+        data = CSVInputHandler.getdatafromCSV(filename, samplesize)
+        return CSVInputHandler.getJsonfromDf(data)
+
+
+class CommandLogger(monitoring.CommandListener):
+
+    def started(self, event):
+        logging.info("Command {0.command_name} with request id "
+                     "{0.request_id} started on server "
+                     "{0.connection_id}".format(event))
+
+    def succeeded(self, event):
+        logging.info("Command {0.command_name} with request id "
+                     "{0.request_id} on server {0.connection_id} "
+                     "succeeded in {0.duration_micros} "
+                     "microseconds".format(event))
+
+    def failed(self, event):
+        logging.info("Command {0.command_name} with request id "
+                     "{0.request_id} on server {0.connection_id} "
+                     "failed in {0.duration_micros} "
+                     "microseconds".format(event))
+
+class ServerLogger(monitoring.ServerListener):
+
+    def opened(self, event):
+        logging.info("Server {0.server_address} added to topology "
+                     "{0.topology_id}".format(event))
+
+    def description_changed(self, event):
+        previous_server_type = event.previous_description.server_type
+        new_server_type = event.new_description.server_type
+        if new_server_type != previous_server_type:
+            # server_type_name was added in PyMongo 3.4
+            logging.info(
+                "Server {0.server_address} changed type from "
+                "{0.previous_description.server_type_name} to "
+                "{0.new_description.server_type_name}".format(event))
+
+    def closed(self, event):
+        logging.warning("Server {0.server_address} removed from topology "
+                        "{0.topology_id}".format(event))
+
+
+class HeartbeatLogger(monitoring.ServerHeartbeatListener):
+
+    def started(self, event):
+        logging.info("Heartbeat sent to server "
+                     "{0.connection_id}".format(event))
+
+    def succeeded(self, event):
+        # The reply.document attribute was added in PyMongo 3.4.
+        logging.info("Heartbeat to server {0.connection_id} "
+                     "succeeded with reply "
+                     "{0.reply.document}".format(event))
+
+    def failed(self, event):
+        logging.warning("Heartbeat to server {0.connection_id} "
+                        "failed with error {0.reply}".format(event))
+
+class TopologyLogger(monitoring.TopologyListener):
+
+    def opened(self, event):
+        logging.info("Topology with id {0.topology_id} "
+                     "opened".format(event))
+
+    def description_changed(self, event):
+        logging.info("Topology description updated for "
+                     "topology id {0.topology_id}".format(event))
+        previous_topology_type = event.previous_description.topology_type
+        new_topology_type = event.new_description.topology_type
+        if new_topology_type != previous_topology_type:
+            # topology_type_name was added in PyMongo 3.4
+            logging.info(
+                "Topology {0.topology_id} changed type from "
+                "{0.previous_description.topology_type_name} to "
+                "{0.new_description.topology_type_name}".format(event))
+        # The has_writable_server and has_readable_server methods
+        # were added in PyMongo 3.4.
+        if not event.new_description.has_writable_server():
+            logging.warning("No writable servers available.")
+        if not event.new_description.has_readable_server():
+            logging.warning("No readable servers available.")
+
+    def closed(self, event):
+        logging.info("Topology with id {0.topology_id} "
+                     "closed".format(event))
+
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Dataingest : Uploads source from user..')
+    parser.add_argument('-user', metavar='N', type=str,
+                        help='username', default='new_user_42')
+    parser.add_argument('-p', metavar='N', type=str,
+                        help='password of the user', default='new_user_42')
+    parser.add_argument('-lp', metavar='N', type=str,
+                        help='specify log directory for diffrent test cases. For example when 10 instances are running on the same time '
+                             'provide 10 as argumemt.',
+                        default=None)
+    parser.add_argument('-ins', metavar='N', type=str,
+                        help='push data to MongoDB to make sure that is not empty',
+                        default=None)
+
+    parser.add_argument('-read', metavar='N', type=str,
+                        help='read data from the MongoDB based on a json querry',
+                        default=None)
+    parser.add_argument('-update', metavar='N', type=str,
+                        help='Specify how the documents should be updated, which are filtered by the read argument querry',
+                        default=None)
+
+    args = parser.parse_args()
+
+    if args.lp is None:
+        args.lp = os.curdir
+    if not  os.path.exists(args.lp):
+        os.mkdir(args.lp)
+
+    mode = None
+    filename = "default.log"
+    if args.ins is not None:
+        mode = Modes.Insert
+        filename = "Insert_performance_"+args.user + "_" + str(datetime.now().strftime("%H_%M_%S")) + ".log"
+    elif args.read is not None and args.update is None:
+        mode = Modes.Read
+        filename = "Read_performance_"+ args.user + "_" + str(datetime.now().strftime("%H_%M_%S")) + ".log"
+    elif args.update is not None:
+        mode = Modes.Update
+        filename = "Update performnace" + args.user + "_" + str(datetime.now().strftime("%H_%M_%S")) + ".log"
+
+
+    logfilepath = os.path.join(args.lp, filename)
+
+    print("Create log file %s in %s" %(filename, args.lp))
+    logging.basicConfig(filename= logfilepath,
+                        filemode='a',
+                        format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
+                        datefmt='%H:%M:%S',
+                        level=logging.DEBUG)
+
+    monitoring.register(CommandLogger())
+    monitoring.register(ServerLogger())
+    monitoring.register(TopologyLogger())
+
+    print("Establishing connection for user %s with password %s" %(args.user, args.p))
+    mng_client = MongoDBClient.get_connection(args.user, args.p)
+
+    mng_db = mng_client['As1']
+    collection_name = "2019.csv"
+    db_cm = mng_db[collection_name]
+
+
+    # insert operations
+    if mode is Modes.Insert:
+
+        data = pd.read_csv(args.ins)
+        mng_db.drop_collection(collection_name)
+        print("Dropped database for test cases.")
+
+        success = 0
+        failure = 0
+        len_data  = len(data)
+        response = 0
+        print("Trying to upload %s documents" % len_data)
+        for g, df in data.groupby(np.arange(len_data) // 100):
+            try:
+                json_data = CSVInputHandler.getJsonfromDf(df)
+                logging.info("start insert %s row and % collumns " % (df.shape[0], df.shape[1]))
+                start_time = time.time()
+
+
+                db_cm.insert(json_data)
+                logging.info("succesfully inserted %s rows and %s collumns" % (df.shape[0], df.shape[1]))
+                resp = time.time()-start_time
+                response+=resp
+                logging.info("response time %.2f seconds ---" % (resp))
+                suc = df.shape[0]
+                success += suc
+
+            except:
+                logging.info("failed to upload. Retry ")
+                logging.info("start insert %s rows and % collumns " % (df.shape[0], df.shape[1]))
+                db_cm.insert(json)
+                fail = df.shape[0]
+                failure += fail
+            finally:
+                pass
+                # this is to nasty, when 10 concurrent proccess are running
+                #print("---------------Progess rate %.2f %% of uploading %s documents -----------------" %((success * 100 / len_data), len_data))
+        logging.info("Overall success rate for : %s %%" %(success *100 / len_data))
+        logging.info("Overall failure rate  for : %s %% for %s documents upload. " % ((failure * 100 / len_data), len_data))
+        logging.info("Overall response time : %s seconds  for %s documents upload. " % (response, len_data))
+
+        print("Overall success rate for : %s %%" %(success *100 / len_data))
+        print("Overall failure rate  for : %s %% for %s documents upload. "%((failure * 100 / len_data), len_data))
+        print("Overall response time : %s seconds  for %s documents upload. "%(response, len_data))
+
+
+    # read operation using querries
+    elif Modes.Read:
+        json_read_able = args.read.replace("'", "\"")
+        query = json.loads(json_read_able)
+
+        print("Querying result for query %s" %(query))
+        #new_query = {"sample_purpose_label": "WATER QUALITY OPERATOR SELF MONITORING COMPLIANCE DATA"}
+
+        quer_str = "Querrying the following querry %s" %(query)
+        print(quer_str)
+        logging.info(quer_str)
+        start_time = time.time()
+        result = db_cm.find(query)
+        duration = time.time() -start_time
+
+        time_str = "Querry time takes %.4f seconds" %duration
+        print(time_str)
+        logging.info(time_str)
+        #new_query_2 ={"sample_purpose_label":  { "$gt": "S" } }
+
+        #new_query_23= {"determinand_notation": { "$gt": 400 }}
+
+        count_str = "Found %s results according to the querry" %(result.count())
+        print(count_str)
+        logging.info(count_str)
+        for x in result:
+            print(x)
+            logging.info(x)
+
+    #special type of write operation
+    elif mode is Modes.Update:
+
+        json_read_able = args.update.replace("'", "\"")
+        update_query = json.loads(json_read_able)
+
+        json_read_able = args.read.replace("'", "\"")
+        item_query = json.loads(json_read_able)
+
+        # new_query = {"sample_purpose_label": "WATER QUALITY OPERATOR SELF MONITORING COMPLIANCE DATA"}
+
+        upd_str = "Update documents with %s which fits the query %s" % (update_query, item_query)
+        print(upd_str)
+        logging.info(upd_str)
+        start_time = time.time()
+        db_cm.update_one(item_query, update_query)
+        duration = time.time() - start_time
+
+        time_str = "Update query takes %.4f seconds" % duration
+        print(time_str)
+        logging.info(time_str)
+
+

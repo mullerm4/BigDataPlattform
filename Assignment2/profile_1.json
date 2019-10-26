@@ -1,0 +1,11 @@
+{
+  "suportedformats": [
+    ".csv",
+    ".pdf",
+    ".jpeg"
+    ],
+  "numberoffiles": 5,
+  
+  "sizelimit": 4096
+  
+} 

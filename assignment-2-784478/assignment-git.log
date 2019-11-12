@@ -1,0 +1,53 @@
+commit c36a00b2944c7b706ef4d795fa5f6bf49a7b1531 (HEAD)
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Thu Oct 31 23:54:06 2019 +0200
+
+    final submission version
+
+commit 2a6521fed3badc194ac99848388077209899c43b (HEAD)
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Thu Oct 31 10:43:33 2019 +0200
+
+    fetch-data and mqttingest done
+
+commit 3c2cf4ed5f79c526f6f3fd50dea04203cbb11556
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Thu Oct 31 09:59:12 2019 +0200
+
+    final batchmanager
+
+commit 086e69d78fcbcd3528dda99c7ebd9510db097b54
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Thu Oct 31 09:58:28 2019 +0200
+
+    final batchmanager
+
+commit 9d8284b2a367ce2e2e7c4e436fd9a4bb1da5c1cf (master)
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Tue Oct 29 01:01:46 2019 +0200
+
+    add structure from assignment-template guidline
+
+commit 81c9b7eaadcb7c389097bef0c1511f4b7af0bb71
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Mon Oct 28 16:40:05 2019 +0200
+
+    part 1 on local implemented
+
+commit 3b068bd9f6b01c664a0bac0348e971001f7e7a84
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Mon Oct 28 16:39:25 2019 +0200
+
+    part 1 on local implemented
+
+commit 01e7d0450240df67eec7d576d3e09c9c7750c1ab (origin/master)
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Sat Oct 26 14:52:14 2019 +0300
+
+    add profiles and customer app
+
+commit c4c1c84e2beeeb6bf666b3cacee6f76c70766c80
+Author: Müller Moritz <moritz.muller@aalto.fi>
+Date:   Sat Oct 26 14:51:13 2019 +0300
+
+    Committing impelentation of exercise1

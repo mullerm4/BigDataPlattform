@@ -1,0 +1,1364 @@
+17:55:41,612 root INFO Topology 5dbb201de9e073080bde376c changed type from Unknown to Single
+17:55:41,612 root WARNING No writable servers available.
+18:42:12,184 root INFO File ingestions: 1 , succeeded: 1, failures: 0
+18:42:12,184 root INFO average rate in KB: 2580.7051573824447
+18:42:12,185 root INFO average rate in MB: 2.5202198802562936
+18:43:12,200 root INFO File ingestions: 2 , succeeded: 2, failures: 0
+18:43:12,200 root INFO average rate in KB: 3213.2446289004274
+18:43:12,200 root INFO average rate in MB: 3.1379342079105736
+18:43:42,229 root INFO File ingestions: 3 , succeeded: 3, failures: 0
+18:43:42,229 root INFO average rate in KB: 2813.6324225017997
+18:43:42,229 root INFO average rate in MB: 2.747687912599414
+18:45:57,910 root WARNING No writable servers available.
+18:45:57,910 root INFO File ingestions: 4 , succeeded: 4, failures: 0
+18:45:57,911 root WARNING No readable servers available.
+18:45:57,911 root INFO average rate in KB: 1946.25987612915
+18:45:57,911 root INFO Server ('database', 27017) added to topology 5dbb2be58d67433333dcc095
+18:45:57,911 root INFO average rate in MB: 1.900644410282373
+18:45:57,911 root INFO Server ('database', 27017) added to topology 5dbb2be58d67433333dcc095
+18:48:28,186 root INFO Topology description updated for topology id 5dbb2c7c8d67433333dcc09b
+18:48:28,186 root INFO Topology 5dbb2c7c8d67433333dcc09b changed type from Unknown to Single
+18:48:28,186 root INFO File ingestions: 5 , succeeded: 5, failures: 0
+18:48:28,186 root WARNING No writable servers available.
+18:48:28,186 root INFO average rate in KB: 2186.456996888104
+18:48:28,186 root WARNING No readable servers available.
+18:48:28,186 root INFO average rate in MB: 2.1352119110235392
+18:48:28,187 root INFO Topology description updated for topology id 5dbb2c7c8d67433333dcc09b
+18:50:12,307 root INFO File ingestions: 6 , succeeded: 6, failures: 0
+18:50:12,307 root INFO average rate in KB: 1849.6302383394627
+18:50:12,307 root INFO average rate in MB: 1.8062795296283816
+18:50:42,470 root WARNING No writable servers available.
+18:50:42,471 root INFO File ingestions: 7 , succeeded: 7, failures: 0
+18:50:42,471 root WARNING No readable servers available.
+18:50:42,472 root INFO average rate in KB: 1143.2838647602491
+18:50:42,473 root INFO Server ('database', 27017) added to topology 5dbb2d028d67433333dcc0a1
+18:50:42,474 root INFO average rate in MB: 1.1164881491799308
+18:50:42,474 root INFO Server ('database', 27017) added to topology 5dbb2d028d67433333dcc0a1
+18:51:58,243 root INFO File ingestions: 8 , succeeded: 8, failures: 0
+18:51:58,243 root INFO Server ('database', 27017) added to topology 5dbb2d4e8d67433333dcc0a7
+18:51:58,243 root INFO average rate in KB: 1357.1311738796885
+18:51:58,243 root INFO Server ('database', 27017) added to topology 5dbb2d4e8d67433333dcc0a7
+18:51:58,243 root INFO average rate in MB: 1.3253234119918833
+18:51:58,243 root INFO Server ('database', 27017) added to topology 5dbb2d4e8d67433333dcc0a7
+18:53:12,183 root WARNING No readable servers available.
+18:53:12,184 root INFO File ingestions: 9 , succeeded: 9, failures: 0
+18:53:12,184 root INFO Topology description updated for topology id 5dbb2d988d67433333dcc0ab
+18:53:12,184 root INFO average rate in KB: 1299.2730487743472
+18:53:12,184 root INFO average rate in MB: 1.2688213366936985
+18:53:12,184 root INFO Topology 5dbb2d988d67433333dcc0ab changed type from Unknown to Single
+18:54:12,182 root WARNING No readable servers available.
+18:54:12,182 root INFO Topology description updated for topology id 5dbb2dd48d67433333dcc0b1
+18:54:12,182 root INFO File ingestions: 10 , succeeded: 10, failures: 0
+18:54:12,182 root INFO Topology 5dbb2dd48d67433333dcc0b1 changed type from Unknown to Single
+18:54:12,183 root INFO average rate in KB: 1351.972050044036
+18:54:12,183 root WARNING No writable servers available.
+18:54:12,183 root INFO average rate in MB: 1.320285205121129
+18:54:12,183 root WARNING No readable servers available.
+18:54:42,241 root INFO Topology description updated for topology id 5dbb2df28d67433333dcc0b3
+18:54:42,241 root INFO File ingestions: 11 , succeeded: 11, failures: 0
+18:54:42,241 root INFO Topology 5dbb2df28d67433333dcc0b3 changed type from Unknown to Single
+18:54:42,241 root INFO average rate in KB: 1193.2087251323974
+18:54:42,241 root WARNING No writable servers available.
+18:54:42,241 root INFO average rate in MB: 1.1652428956371068
+18:54:42,242 root WARNING No readable servers available.
+18:54:57,683 root INFO Topology description updated for topology id 5dbb2e018d67433333dcc0b5
+18:54:57,683 root INFO Topology 5dbb2e018d67433333dcc0b5 changed type from Unknown to Single
+18:54:57,683 root INFO File ingestions: 12 , succeeded: 12, failures: 0
+18:54:57,683 root WARNING No writable servers available.
+18:54:57,683 root INFO average rate in KB: 1127.915885308721
+18:54:57,683 root WARNING No readable servers available.
+18:54:57,683 root INFO average rate in MB: 1.101480356746798
+18:54:57,684 root INFO Topology description updated for topology id 5dbb2e018d67433333dcc0b5
+18:55:42,576 root WARNING No writable servers available.
+18:55:42,576 root WARNING No readable servers available.
+18:55:42,576 root INFO File ingestions: 13 , succeeded: 13, failures: 0
+18:55:42,576 root INFO Topology description updated for topology id 5dbb2e2e8d67433333dcc0b7
+18:55:42,576 root INFO average rate in KB: 773.5007892210828
+18:55:42,577 root INFO Topology 5dbb2e2e8d67433333dcc0b7 changed type from Unknown to Single
+18:55:42,577 root INFO average rate in MB: 0.7553718644737136
+18:55:42,577 root WARNING No writable servers available.
+18:55:58,200 root WARNING No writable servers available.
+18:55:58,200 root WARNING No readable servers available.
+18:55:58,200 root INFO File ingestions: 14 , succeeded: 14, failures: 0
+18:55:58,200 root INFO Topology description updated for topology id 5dbb2e3e8d67433333dcc0b9
+18:55:58,200 root INFO average rate in KB: 1671.0906528717783
+18:55:58,200 root INFO Topology 5dbb2e3e8d67433333dcc0b9 changed type from Unknown to Single
+18:55:58,200 root INFO average rate in MB: 1.631924465695096
+18:55:58,200 root WARNING No writable servers available.
+18:56:42,187 root INFO Topology 5dbb2e6a8d67433333dcc0bf changed type from Unknown to Single
+18:56:42,187 root WARNING No writable servers available.
+18:56:42,187 root WARNING No readable servers available.
+18:56:42,187 root INFO File ingestions: 15 , succeeded: 15, failures: 0
+18:56:42,187 root INFO Topology description updated for topology id 5dbb2e6a8d67433333dcc0bf
+18:56:42,187 root INFO average rate in KB: 1303.004605450385
+18:56:42,187 root INFO Topology 5dbb2e6a8d67433333dcc0bf changed type from Unknown to Single
+18:56:42,187 root INFO average rate in MB: 1.2724654350101416
+18:56:42,187 root WARNING No writable servers available.
+18:58:42,152 root INFO Topology description updated for topology id 5dbb2ee28d67433333dcc0c5
+18:58:42,152 root INFO File ingestions: 16 , succeeded: 16, failures: 0
+18:58:42,152 root INFO Topology 5dbb2ee28d67433333dcc0c5 changed type from Unknown to Single
+18:58:42,152 root INFO average rate in KB: 1801.2979399238147
+18:58:42,152 root WARNING No writable servers available.
+18:58:42,152 root INFO average rate in MB: 1.7590800194568503
+18:58:42,152 root WARNING No readable servers available.
+18:59:12,157 root WARNING No readable servers available.
+18:59:12,157 root INFO Topology description updated for topology id 5dbb2f008d67433333dcc0c7
+18:59:12,158 root INFO File ingestions: 17 , succeeded: 17, failures: 0
+18:59:12,158 root INFO Topology 5dbb2f008d67433333dcc0c7 changed type from Unknown to Single
+18:59:12,158 root INFO average rate in KB: 1682.9571333943154
+18:59:12,158 root WARNING No writable servers available.
+18:59:12,158 root INFO average rate in MB: 1.6435128255803861
+18:59:12,158 root WARNING No readable servers available.
+19:00:12,219 root INFO Topology 5dbb2f3c8d67433333dcc0cb changed type from Unknown to Single
+19:00:12,219 root WARNING No writable servers available.
+19:00:12,219 root INFO File ingestions: 18 , succeeded: 18, failures: 0
+19:00:12,219 root WARNING No readable servers available.
+19:00:12,219 root INFO average rate in KB: 1081.0480368060926
+19:00:12,219 root INFO Topology description updated for topology id 5dbb2f3c8d67433333dcc0cb
+19:00:12,219 root INFO average rate in MB: 1.0557109734434498
+19:00:12,219 root INFO Topology 5dbb2f3c8d67433333dcc0cb changed type from Unknown to Single
+19:00:27,579 root INFO Topology description updated for topology id 5dbb2f4b8d67433333dcc0cd
+19:00:27,579 root INFO Topology 5dbb2f4b8d67433333dcc0cd changed type from Unknown to Single
+19:00:27,579 root INFO File ingestions: 19 , succeeded: 19, failures: 0
+19:00:27,579 root WARNING No writable servers available.
+19:00:27,579 root INFO average rate in KB: 1426.6047867942273
+19:00:27,579 root WARNING No readable servers available.
+19:00:27,579 root INFO average rate in MB: 1.3931687371037376
+19:00:27,579 root INFO Topology description updated for topology id 5dbb2f4b8d67433333dcc0cd
+19:00:57,569 root WARNING No writable servers available.
+19:00:57,569 root INFO File ingestions: 20 , succeeded: 20, failures: 0
+19:00:57,569 root WARNING No readable servers available.
+19:00:57,569 root INFO average rate in KB: 1404.999961322218
+19:00:57,569 root INFO Topology description updated for topology id 5dbb2f698d67433333dcc0cf
+19:00:57,569 root INFO average rate in MB: 1.3720702747287286
+19:00:57,569 root INFO Topology 5dbb2f698d67433333dcc0cf changed type from Unknown to Single
+19:01:57,678 root INFO Topology 5dbb2fa58d67433333dcc0d3 changed type from Unknown to Single
+19:01:57,678 root WARNING No writable servers available.
+19:01:57,679 root INFO File ingestions: 21 , succeeded: 21, failures: 0
+19:01:57,679 root WARNING No readable servers available.
+19:01:57,679 root INFO average rate in KB: 1188.9674688592575
+19:01:57,679 root INFO Topology description updated for topology id 5dbb2fa58d67433333dcc0d3
+19:01:57,679 root INFO average rate in MB: 1.1611010438078686
+19:01:57,679 root INFO Topology 5dbb2fa58d67433333dcc0d3 changed type from Unknown to Single
+19:02:27,573 root INFO Topology 5dbb2fc38d67433333dcc0d5 changed type from Unknown to Single
+19:02:27,573 root WARNING No writable servers available.
+19:02:27,573 root INFO File ingestions: 22 , succeeded: 22, failures: 0
+19:02:27,573 root WARNING No readable servers available.
+19:02:27,573 root INFO average rate in KB: 1723.3831751015068
+19:02:27,573 root INFO Topology description updated for topology id 5dbb2fc38d67433333dcc0d5
+19:02:27,573 root INFO average rate in MB: 1.6829913819350653
+19:02:27,573 root INFO Topology 5dbb2fc38d67433333dcc0d5 changed type from Unknown to Single
+19:03:42,161 root INFO Topology 5dbb300e8d67433333dcc0d9 changed type from Unknown to Single
+19:03:42,161 root WARNING No writable servers available.
+19:03:42,161 root INFO File ingestions: 23 , succeeded: 23, failures: 0
+19:03:42,161 root WARNING No readable servers available.
+19:03:42,161 root INFO average rate in KB: 1849.89080750642
+19:03:42,161 root INFO Topology description updated for topology id 5dbb300e8d67433333dcc0d9
+19:03:42,161 root INFO average rate in MB: 1.8065339917054883
+19:03:42,161 root INFO Topology 5dbb300e8d67433333dcc0d9 changed type from Unknown to Single
+19:04:57,756 root INFO Topology description updated for topology id 5dbb30598d67433333dcc0dd
+19:04:57,756 root INFO File ingestions: 24 , succeeded: 24, failures: 0
+19:04:57,756 root INFO Topology 5dbb30598d67433333dcc0dd changed type from Unknown to Single
+19:04:57,756 root INFO average rate in KB: 1298.0434980548441
+19:04:57,756 root WARNING No writable servers available.
+19:04:57,756 root INFO average rate in MB: 1.2676206035691837
+19:04:57,756 root WARNING No readable servers available.
+19:05:12,220 root WARNING No readable servers available.
+19:05:12,220 root INFO Topology description updated for topology id 5dbb30688d67433333dcc0df
+19:05:12,220 root INFO File ingestions: 25 , succeeded: 25, failures: 0
+19:05:12,220 root INFO Topology 5dbb30688d67433333dcc0df changed type from Unknown to Single
+19:05:12,220 root INFO average rate in KB: 1491.4971639605737
+19:05:12,220 root WARNING No writable servers available.
+19:05:12,220 root INFO average rate in MB: 1.4565401991802478
+19:05:12,220 root WARNING No readable servers available.
+19:05:27,634 root WARNING No readable servers available.
+19:05:27,634 root INFO Topology description updated for topology id 5dbb30778d67433333dcc0e1
+19:05:27,634 root INFO File ingestions: 26 , succeeded: 26, failures: 0
+19:05:27,634 root INFO Topology 5dbb30778d67433333dcc0e1 changed type from Unknown to Single
+19:05:27,634 root INFO average rate in KB: 1020.5736265384425
+19:05:27,634 root WARNING No writable servers available.
+19:05:27,634 root INFO average rate in MB: 0.9966539321664477
+19:05:27,634 root WARNING No readable servers available.
+19:06:42,217 root INFO Topology description updated for topology id 5dbb30c28d67433333dcc0e5
+19:06:42,218 root INFO Topology 5dbb30c28d67433333dcc0e5 changed type from Unknown to Single
+19:06:42,218 root WARNING No writable servers available.
+19:06:42,218 root INFO File ingestions: 27 , succeeded: 27, failures: 0
+19:06:42,218 root WARNING No readable servers available.
+19:06:42,218 root INFO average rate in KB: 795.3901056496284
+19:06:42,218 root INFO Topology description updated for topology id 5dbb30c28d67433333dcc0e5
+19:06:42,218 root INFO average rate in MB: 0.7767481500484652
+19:06:42,218 root INFO Topology 5dbb30c28d67433333dcc0e5 changed type from Unknown to Single
+19:08:57,668 root INFO Topology 5dbb31498d67433333dcc0ef changed type from Unknown to Single
+19:08:57,668 root INFO File ingestions: 28 , succeeded: 28, failures: 0
+19:08:57,668 root WARNING No writable servers available.
+19:08:57,668 root INFO average rate in KB: 961.7276747909225
+19:08:57,668 root WARNING No readable servers available.
+19:08:57,668 root INFO average rate in MB: 0.9391871824130102
+19:08:57,668 root INFO Topology description updated for topology id 5dbb31498d67433333dcc0ef
+19:09:12,215 root WARNING No readable servers available.
+19:09:12,215 root INFO Topology description updated for topology id 5dbb31588d67433333dcc0f1
+19:09:12,215 root INFO File ingestions: 29 , succeeded: 29, failures: 0
+19:09:12,215 root INFO Topology 5dbb31588d67433333dcc0f1 changed type from Unknown to Single
+19:09:12,215 root INFO average rate in KB: 1190.3336982771486
+19:09:12,215 root WARNING No writable servers available.
+19:09:12,216 root INFO average rate in MB: 1.162435252223778
+19:09:12,216 root WARNING No readable servers available.
+19:09:27,569 root WARNING No writable servers available.
+19:09:27,569 root WARNING No readable servers available.
+19:09:27,569 root INFO File ingestions: 30 , succeeded: 30, failures: 0
+19:09:27,569 root INFO Topology description updated for topology id 5dbb31678d67433333dcc0f3
+19:09:27,569 root INFO average rate in KB: 1070.8163764693586
+19:09:27,569 root INFO Topology 5dbb31678d67433333dcc0f3 changed type from Unknown to Single
+19:09:27,569 root INFO average rate in MB: 1.045719117645858
+19:09:27,569 root WARNING No writable servers available.
+19:09:57,677 root WARNING No writable servers available.
+19:09:57,677 root WARNING No readable servers available.
+19:09:57,677 root INFO File ingestions: 31 , succeeded: 31, failures: 0
+19:09:57,677 root INFO Topology description updated for topology id 5dbb31858d67433333dcc0f7
+19:09:57,677 root INFO average rate in KB: 922.6402373610774
+19:09:57,677 root INFO Topology 5dbb31858d67433333dcc0f7 changed type from Unknown to Single
+19:09:57,677 root INFO average rate in MB: 0.9010158567979272
+19:09:57,677 root WARNING No writable servers available.
+19:13:12,224 root INFO Topology 5dbb32488d67433333dcc0ff changed type from Unknown to Single
+19:13:12,224 root INFO File ingestions: 32 , succeeded: 32, failures: 0
+19:13:12,224 root WARNING No writable servers available.
+19:13:12,224 root INFO average rate in KB: 736.7651985621719
+19:13:12,224 root WARNING No readable servers available.
+19:13:12,224 root INFO average rate in MB: 0.719497264220871
+19:13:12,224 root INFO Topology description updated for topology id 5dbb32488d67433333dcc0ff
+19:16:12,249 root INFO File ingestions: 33 , succeeded: 33, failures: 0
+19:16:12,249 root INFO average rate in KB: 628.0906350115712
+19:16:12,249 root INFO Topology 5dbb32fc8d67433333dcc107 changed type from Unknown to Single
+19:16:12,249 root INFO average rate in MB: 0.6133697607534875
+19:16:12,249 root WARNING No writable servers available.
+19:19:27,544 root INFO Topology 5dbb33bf8d67433333dcc10b changed type from Unknown to Single
+19:19:27,544 root WARNING No writable servers available.
+19:19:27,544 root INFO File ingestions: 34 , succeeded: 34, failures: 0
+19:19:27,544 root WARNING No readable servers available.
+19:19:27,544 root INFO average rate in KB: 942.1759168830224
+19:19:27,544 root INFO Topology description updated for topology id 5dbb33bf8d67433333dcc10b
+19:19:27,544 root INFO average rate in MB: 0.9200936688310766
+19:19:27,544 root INFO Topology 5dbb33bf8d67433333dcc10b changed type from Unknown to Single
+19:19:57,530 root WARNING No writable servers available.
+19:19:57,530 root WARNING No readable servers available.
+19:19:57,530 root INFO File ingestions: 35 , succeeded: 35, failures: 0
+19:19:57,530 root INFO Topology description updated for topology id 5dbb33dd8d67433333dcc10d
+19:19:57,530 root INFO average rate in KB: 852.0031838455373
+19:19:57,530 root INFO Topology 5dbb33dd8d67433333dcc10d changed type from Unknown to Single
+19:19:57,530 root INFO average rate in MB: 0.8320343592241575
+19:19:57,530 root WARNING No writable servers available.
+19:22:12,185 root INFO Topology 5dbb34648d67433333dcc115 changed type from Unknown to Single
+19:22:12,185 root WARNING No writable servers available.
+19:22:12,186 root INFO File ingestions: 36 , succeeded: 36, failures: 0
+19:22:12,186 root WARNING No readable servers available.
+19:22:12,186 root INFO average rate in KB: 994.1781748859191
+19:22:12,186 root INFO Topology description updated for topology id 5dbb34648d67433333dcc115
+19:22:12,186 root INFO average rate in MB: 0.9708771239120304
+19:22:12,186 root INFO Topology 5dbb34648d67433333dcc115 changed type from Unknown to Single
+19:23:27,469 root INFO Topology 5dbb34af8d67433333dcc119 changed type from Unknown to Single
+19:23:27,469 root WARNING No writable servers available.
+19:23:27,469 root INFO File ingestions: 37 , succeeded: 37, failures: 0
+19:23:27,469 root WARNING No readable servers available.
+19:23:27,469 root INFO average rate in KB: 933.4569368274636
+19:23:27,469 root INFO Topology description updated for topology id 5dbb34af8d67433333dcc119
+19:23:27,470 root INFO average rate in MB: 0.9115790398705699
+19:23:27,470 root INFO Topology 5dbb34af8d67433333dcc119 changed type from Unknown to Single
+19:25:12,176 root WARNING No writable servers available.
+19:25:12,176 root INFO File ingestions: 38 , succeeded: 38, failures: 0
+19:25:12,176 root WARNING No readable servers available.
+19:25:12,177 root INFO average rate in KB: 962.944877613869
+19:25:12,177 root INFO Topology description updated for topology id 5dbb35188d67433333dcc11d
+19:25:12,177 root INFO average rate in MB: 0.940375857044794
+19:25:12,177 root INFO Topology 5dbb35188d67433333dcc11d changed type from Unknown to Single
+19:25:57,444 root INFO Topology 5dbb35458d67433333dcc11f changed type from Unknown to Single
+19:25:57,444 root WARNING No writable servers available.
+19:25:57,444 root INFO File ingestions: 39 , succeeded: 39, failures: 0
+19:25:57,444 root WARNING No readable servers available.
+19:25:57,445 root INFO average rate in KB: 912.2271503592292
+19:25:57,445 root INFO Topology description updated for topology id 5dbb35458d67433333dcc11f
+19:25:57,445 root INFO average rate in MB: 0.8908468265226848
+19:25:57,445 root INFO Topology 5dbb35458d67433333dcc11f changed type from Unknown to Single
+19:26:12,177 root INFO File ingestions: 40 , succeeded: 40, failures: 0
+19:26:12,177 root INFO average rate in KB: 917.160024743016
+19:26:12,177 root INFO average rate in MB: 0.8956640866631016
+19:26:12,177 root INFO Topology 5dbb35548d67433333dcc121 changed type from Unknown to Single
+19:27:12,176 root INFO Topology description updated for topology id 5dbb35908d67433333dcc123
+19:27:12,176 root INFO Topology 5dbb35908d67433333dcc123 changed type from Unknown to Single
+19:27:12,176 root INFO File ingestions: 41 , succeeded: 41, failures: 0
+19:27:12,176 root WARNING No writable servers available.
+19:27:12,176 root INFO average rate in KB: 781.2402253078019
+19:27:12,176 root WARNING No readable servers available.
+19:27:12,176 root INFO average rate in MB: 0.7629299075271503
+19:27:12,176 root INFO Topology description updated for topology id 5dbb35908d67433333dcc123
+19:27:27,615 root WARNING No readable servers available.
+19:27:27,615 root INFO Topology description updated for topology id 5dbb359f8d67433333dcc125
+19:27:27,615 root INFO File ingestions: 42 , succeeded: 42, failures: 0
+19:27:27,615 root INFO Topology 5dbb359f8d67433333dcc125 changed type from Unknown to Single
+19:27:27,615 root INFO average rate in KB: 997.4161977755674
+19:27:27,615 root WARNING No writable servers available.
+19:27:27,615 root INFO average rate in MB: 0.9740392556402026
+19:27:27,615 root WARNING No readable servers available.
+19:28:42,274 root INFO Topology description updated for topology id 5dbb35ea8d67433333dcc127
+19:28:42,274 root INFO File ingestions: 43 , succeeded: 43, failures: 0
+19:28:42,275 root INFO Topology 5dbb35ea8d67433333dcc127 changed type from Unknown to Single
+19:28:42,275 root INFO average rate in KB: 757.2643047360912
+19:28:42,275 root WARNING No writable servers available.
+19:28:42,275 root INFO average rate in MB: 0.739515922593839
+19:28:42,275 root WARNING No readable servers available.
+19:30:12,179 root WARNING No writable servers available.
+19:30:12,179 root WARNING No readable servers available.
+19:30:12,179 root INFO File ingestions: 44 , succeeded: 44, failures: 0
+19:30:12,179 root INFO Topology description updated for topology id 5dbb36448d67433333dcc12d
+19:30:12,179 root INFO average rate in KB: 728.1945884890099
+19:30:12,179 root INFO Topology 5dbb36448d67433333dcc12d changed type from Unknown to Single
+19:30:12,179 root INFO average rate in MB: 0.7111275278212987
+19:30:12,179 root WARNING No writable servers available.
+19:30:27,568 root WARNING No writable servers available.
+19:30:27,568 root WARNING No readable servers available.
+19:30:27,568 root INFO File ingestions: 45 , succeeded: 45, failures: 0
+19:30:27,568 root INFO Topology description updated for topology id 5dbb36538d67433333dcc12f
+19:30:27,568 root INFO average rate in KB: 850.4618126090234
+19:30:27,568 root INFO Topology 5dbb36538d67433333dcc12f changed type from Unknown to Single
+19:30:27,568 root INFO average rate in MB: 0.8305291138759994
+19:30:27,568 root WARNING No writable servers available.
+19:33:42,177 root INFO Topology 5dbb37168d67433333dcc139 changed type from Unknown to Single
+19:33:42,177 root WARNING No writable servers available.
+19:33:42,177 root INFO File ingestions: 46 , succeeded: 46, failures: 0
+19:33:42,177 root WARNING No readable servers available.
+19:33:42,177 root INFO average rate in KB: 1050.5193636103654
+19:33:42,178 root INFO Topology description updated for topology id 5dbb37168d67433333dcc139
+19:33:42,178 root INFO average rate in MB: 1.0258978160257475
+19:33:42,178 root INFO Topology 5dbb37168d67433333dcc139 changed type from Unknown to Single
+19:33:57,509 root WARNING No writable servers available.
+19:33:57,509 root WARNING No readable servers available.
+19:33:57,509 root INFO File ingestions: 47 , succeeded: 47, failures: 0
+19:33:57,509 root INFO Topology description updated for topology id 5dbb37258d67433333dcc13b
+19:33:57,509 root INFO average rate in KB: 702.2112708600995
+19:33:57,509 root INFO Topology 5dbb37258d67433333dcc13b changed type from Unknown to Single
+19:33:57,509 root INFO average rate in MB: 0.6857531941993159
+19:33:57,509 root WARNING No writable servers available.
+19:34:42,165 root WARNING No writable servers available.
+19:34:42,166 root WARNING No readable servers available.
+19:34:42,166 root INFO File ingestions: 48 , succeeded: 48, failures: 0
+19:34:42,166 root INFO Topology description updated for topology id 5dbb37528d67433333dcc13f
+19:34:42,166 root INFO average rate in KB: 666.2042311526652
+19:34:42,166 root INFO Topology 5dbb37528d67433333dcc13f changed type from Unknown to Single
+19:34:42,166 root INFO average rate in MB: 0.6505900694850246
+19:34:42,166 root WARNING No writable servers available.
+19:35:12,190 root INFO Topology description updated for topology id 5dbb37708d67433333dcc141
+19:35:12,190 root INFO Topology 5dbb37708d67433333dcc141 changed type from Unknown to Single
+19:35:12,190 root INFO File ingestions: 49 , succeeded: 49, failures: 0
+19:35:12,190 root WARNING No writable servers available.
+19:35:12,190 root INFO average rate in KB: 799.1881985899356
+19:35:12,190 root WARNING No readable servers available.
+19:35:12,190 root INFO average rate in MB: 0.780457225185484
+19:35:12,190 root INFO Topology description updated for topology id 5dbb37708d67433333dcc141
+19:35:42,204 root WARNING No readable servers available.
+19:35:42,204 root INFO Topology description updated for topology id 5dbb378e8d67433333dcc145
+19:35:42,204 root INFO File ingestions: 50 , succeeded: 50, failures: 0
+19:35:42,204 root INFO Topology 5dbb378e8d67433333dcc145 changed type from Unknown to Single
+19:35:42,204 root INFO average rate in KB: 863.2804625456113
+19:35:42,204 root WARNING No writable servers available.
+19:35:42,204 root INFO average rate in MB: 0.8430473267046985
+19:35:42,204 root WARNING No readable servers available.
+19:37:12,208 root INFO Topology 5dbb37e88d67433333dcc14d changed type from Unknown to Single
+19:37:12,209 root WARNING No writable servers available.
+19:37:12,209 root INFO File ingestions: 51 , succeeded: 51, failures: 0
+19:37:12,209 root WARNING No readable servers available.
+19:37:12,209 root INFO average rate in KB: 807.3356433060924
+19:37:12,209 root INFO Topology description updated for topology id 5dbb37e88d67433333dcc14d
+19:37:12,209 root INFO average rate in MB: 0.7884137141661058
+19:37:12,209 root INFO Topology 5dbb37e88d67433333dcc14d changed type from Unknown to Single
+19:38:42,196 root WARNING No writable servers available.
+19:38:42,196 root WARNING No readable servers available.
+19:38:42,196 root INFO File ingestions: 52 , succeeded: 52, failures: 0
+19:38:42,196 root INFO Topology description updated for topology id 5dbb38428d67433333dcc151
+19:38:42,196 root INFO average rate in KB: 862.499686527113
+19:38:42,196 root INFO Topology 5dbb38428d67433333dcc151 changed type from Unknown to Single
+19:38:42,196 root INFO average rate in MB: 0.8422848501241338
+19:38:42,196 root WARNING No writable servers available.
+19:42:42,169 root INFO Topology 5dbb39328d67433333dcc15b changed type from Unknown to Single
+19:42:42,169 root WARNING No writable servers available.
+19:42:42,169 root INFO File ingestions: 53 , succeeded: 53, failures: 0
+19:42:42,169 root WARNING No readable servers available.
+19:42:42,169 root INFO average rate in KB: 619.7054051854686
+19:42:42,169 root INFO Topology description updated for topology id 5dbb39328d67433333dcc15b
+19:42:42,169 root INFO average rate in MB: 0.6051810597514342
+19:42:42,169 root INFO Topology 5dbb39328d67433333dcc15b changed type from Unknown to Single
+19:42:57,524 root INFO Topology 5dbb39418d67433333dcc15d changed type from Unknown to Single
+19:42:57,524 root WARNING No writable servers available.
+19:42:57,524 root INFO File ingestions: 54 , succeeded: 54, failures: 0
+19:42:57,524 root WARNING No readable servers available.
+19:42:57,525 root INFO average rate in KB: 646.0115710563525
+19:42:57,525 root INFO Topology description updated for topology id 5dbb39418d67433333dcc15d
+19:42:57,525 root INFO average rate in MB: 0.6308706748597193
+19:42:57,525 root INFO Topology 5dbb39418d67433333dcc15d changed type from Unknown to Single
+19:43:42,206 root INFO Topology description updated for topology id 5dbb396e8d67433333dcc161
+19:43:42,206 root INFO Topology 5dbb396e8d67433333dcc161 changed type from Unknown to Single
+19:43:42,206 root INFO File ingestions: 55 , succeeded: 55, failures: 0
+19:43:42,206 root WARNING No writable servers available.
+19:43:42,206 root INFO average rate in KB: 868.9479880125683
+19:43:42,206 root WARNING No readable servers available.
+19:43:42,206 root INFO average rate in MB: 0.8485820195435237
+19:43:42,206 root INFO Topology description updated for topology id 5dbb396e8d67433333dcc161
+19:43:57,560 root WARNING No readable servers available.
+19:43:57,560 root INFO Topology description updated for topology id 5dbb397d8d67433333dcc163
+19:43:57,560 root INFO File ingestions: 56 , succeeded: 56, failures: 0
+19:43:57,560 root INFO Topology 5dbb397d8d67433333dcc163 changed type from Unknown to Single
+19:43:57,560 root INFO average rate in KB: 554.4009799393092
+19:43:57,560 root WARNING No writable servers available.
+19:43:57,560 root INFO average rate in MB: 0.5414072069719816
+19:43:57,561 root WARNING No readable servers available.
+19:44:42,206 root INFO Topology description updated for topology id 5dbb39aa8d67433333dcc165
+19:44:42,206 root INFO Topology 5dbb39aa8d67433333dcc165 changed type from Unknown to Single
+19:44:42,206 root INFO File ingestions: 57 , succeeded: 57, failures: 0
+19:44:42,206 root WARNING No writable servers available.
+19:44:42,207 root INFO average rate in KB: 572.7376296826948
+19:44:42,207 root WARNING No readable servers available.
+19:44:42,207 root INFO average rate in MB: 0.5593140914870066
+19:44:42,207 root INFO Topology description updated for topology id 5dbb39aa8d67433333dcc165
+19:45:57,484 root WARNING No readable servers available.
+19:45:57,484 root INFO Topology description updated for topology id 5dbb39f58d67433333dcc169
+19:45:57,484 root INFO File ingestions: 58 , succeeded: 58, failures: 0
+19:45:57,484 root INFO Topology 5dbb39f58d67433333dcc169 changed type from Unknown to Single
+19:45:57,484 root INFO average rate in KB: 678.1462464015522
+19:45:57,485 root WARNING No writable servers available.
+19:45:57,485 root INFO average rate in MB: 0.6622521937515158
+19:45:57,485 root WARNING No readable servers available.
+19:46:12,169 root WARNING No writable servers available.
+19:46:12,169 root WARNING No readable servers available.
+19:46:12,169 root INFO File ingestions: 59 , succeeded: 59, failures: 0
+19:46:12,169 root INFO Topology description updated for topology id 5dbb3a048d67433333dcc16b
+19:46:12,169 root INFO average rate in KB: 599.7984548141611
+19:46:12,169 root INFO Topology 5dbb3a048d67433333dcc16b changed type from Unknown to Single
+19:46:12,169 root INFO average rate in MB: 0.5857406785294542
+19:46:12,169 root WARNING No writable servers available.
+19:46:27,595 root WARNING No readable servers available.
+19:46:27,595 root INFO Topology description updated for topology id 5dbb3a138d67433333dcc16d
+19:46:27,595 root INFO File ingestions: 60 , succeeded: 60, failures: 0
+19:46:27,595 root INFO Topology 5dbb3a138d67433333dcc16d changed type from Unknown to Single
+19:46:27,595 root INFO average rate in KB: 615.3078627132593
+19:46:27,595 root WARNING No writable servers available.
+19:46:27,595 root INFO average rate in MB: 0.6008865846809173
+19:46:27,595 root WARNING No readable servers available.
+19:46:42,208 root INFO Topology description updated for topology id 5dbb3a228d67433333dcc16f
+19:46:42,209 root INFO Topology 5dbb3a228d67433333dcc16f changed type from Unknown to Single
+19:46:42,209 root INFO File ingestions: 61 , succeeded: 61, failures: 0
+19:46:42,209 root WARNING No writable servers available.
+19:46:42,209 root INFO average rate in KB: 444.77590860461805
+19:46:42,209 root WARNING No readable servers available.
+19:46:42,209 root INFO average rate in MB: 0.4343514732466973
+19:46:42,209 root INFO Topology description updated for topology id 5dbb3a228d67433333dcc16f
+19:47:42,169 root WARNING No writable servers available.
+19:47:42,169 root WARNING No readable servers available.
+19:47:42,169 root INFO File ingestions: 62 , succeeded: 62, failures: 0
+19:47:42,169 root INFO Topology description updated for topology id 5dbb3a5e8d67433333dcc171
+19:47:42,169 root INFO average rate in KB: 768.5729791084739
+19:47:42,169 root INFO Topology 5dbb3a5e8d67433333dcc171 changed type from Unknown to Single
+19:47:42,169 root INFO average rate in MB: 0.750559549910619
+19:47:42,169 root WARNING No writable servers available.
+19:47:57,615 root WARNING No writable servers available.
+19:47:57,615 root WARNING No readable servers available.
+19:47:57,615 root INFO File ingestions: 63 , succeeded: 63, failures: 0
+19:47:57,615 root INFO Topology description updated for topology id 5dbb3a6d8d67433333dcc173
+19:47:57,615 root INFO average rate in KB: 782.4996121749222
+19:47:57,615 root INFO Topology 5dbb3a6d8d67433333dcc173 changed type from Unknown to Single
+19:47:57,615 root INFO average rate in MB: 0.7641597775145724
+19:47:57,615 root WARNING No writable servers available.
+19:48:57,506 root WARNING No readable servers available.
+19:48:57,506 root INFO Topology description updated for topology id 5dbb3aa98d67433333dcc177
+19:48:57,506 root INFO File ingestions: 64 , succeeded: 64, failures: 0
+19:48:57,506 root INFO Topology 5dbb3aa98d67433333dcc177 changed type from Unknown to Single
+19:48:57,506 root INFO average rate in KB: 655.6007414585456
+19:48:57,506 root WARNING No writable servers available.
+19:48:57,506 root INFO average rate in MB: 0.6402350990806109
+19:48:57,506 root WARNING No readable servers available.
+19:49:42,188 root WARNING No writable servers available.
+19:49:42,188 root WARNING No readable servers available.
+19:49:42,188 root INFO File ingestions: 65 , succeeded: 65, failures: 0
+19:49:42,188 root INFO Topology description updated for topology id 5dbb3ad68d67433333dcc17d
+19:49:42,188 root INFO average rate in KB: 481.8167958117661
+19:49:42,188 root INFO Topology 5dbb3ad68d67433333dcc17d changed type from Unknown to Single
+19:49:42,188 root INFO average rate in MB: 0.47052421465992783
+19:49:42,189 root WARNING No writable servers available.
+19:49:57,501 root INFO Topology 5dbb3ae58d67433333dcc17f changed type from Unknown to Single
+19:49:57,501 root WARNING No writable servers available.
+19:49:57,501 root INFO File ingestions: 66 , succeeded: 66, failures: 0
+19:49:57,501 root WARNING No readable servers available.
+19:49:57,501 root INFO average rate in KB: 453.84738587747626
+19:49:57,502 root INFO Topology description updated for topology id 5dbb3ae58d67433333dcc17f
+19:49:57,502 root INFO average rate in MB: 0.4432103377709729
+19:49:57,502 root INFO Topology 5dbb3ae58d67433333dcc17f changed type from Unknown to Single
+19:53:12,194 root INFO Topology description updated for topology id 5dbb3ba88d67433333dcc185
+19:53:12,195 root INFO File ingestions: 67 , succeeded: 67, failures: 0
+19:53:12,195 root INFO Topology 5dbb3ba88d67433333dcc185 changed type from Unknown to Single
+19:53:12,195 root INFO average rate in KB: 425.50879419740323
+19:53:12,195 root WARNING No writable servers available.
+19:53:12,195 root INFO average rate in MB: 0.4155359318334016
+19:53:12,195 root WARNING No readable servers available.
+19:53:27,587 root WARNING No writable servers available.
+19:53:27,587 root WARNING No readable servers available.
+19:53:27,587 root INFO File ingestions: 68 , succeeded: 68, failures: 0
+19:53:27,587 root INFO Topology description updated for topology id 5dbb3bb78d67433333dcc187
+19:53:27,587 root INFO average rate in KB: 755.1105268024309
+19:53:27,587 root INFO Topology 5dbb3bb78d67433333dcc187 changed type from Unknown to Single
+19:53:27,587 root INFO average rate in MB: 0.7374126238304989
+19:53:27,587 root WARNING No writable servers available.
+19:54:12,214 root INFO Topology 5dbb3be48d67433333dcc189 changed type from Unknown to Single
+19:54:12,214 root WARNING No writable servers available.
+19:54:12,214 root INFO File ingestions: 69 , succeeded: 69, failures: 0
+19:54:12,214 root WARNING No readable servers available.
+19:54:12,214 root INFO average rate in KB: 638.2734549628639
+19:54:12,214 root INFO Topology description updated for topology id 5dbb3be48d67433333dcc189
+19:54:12,214 root INFO average rate in MB: 0.6233139208621717
+19:54:12,214 root INFO Topology 5dbb3be48d67433333dcc189 changed type from Unknown to Single
+19:56:27,468 root INFO Topology 5dbb3c6b8d67433333dcc193 changed type from Unknown to Single
+19:56:27,468 root WARNING No writable servers available.
+19:56:27,468 root INFO File ingestions: 70 , succeeded: 70, failures: 0
+19:56:27,468 root WARNING No readable servers available.
+19:56:27,468 root INFO average rate in KB: 760.8694037471589
+19:56:27,468 root INFO Topology description updated for topology id 5dbb3c6b8d67433333dcc193
+19:56:27,468 root INFO average rate in MB: 0.7430365270968349
+19:56:27,468 root INFO Topology 5dbb3c6b8d67433333dcc193 changed type from Unknown to Single
+19:56:57,622 root INFO Topology 5dbb3c898d67433333dcc197 changed type from Unknown to Single
+19:56:57,622 root WARNING No writable servers available.
+19:56:57,622 root INFO File ingestions: 71 , succeeded: 71, failures: 0
+19:56:57,622 root WARNING No readable servers available.
+19:56:57,622 root INFO average rate in KB: 583.0255073317753
+19:56:57,622 root INFO Topology description updated for topology id 5dbb3c898d67433333dcc197
+19:56:57,622 root INFO average rate in MB: 0.5693608470036868
+19:56:57,623 root INFO Topology 5dbb3c898d67433333dcc197 changed type from Unknown to Single
+19:57:12,142 root WARNING No writable servers available.
+19:57:12,142 root WARNING No readable servers available.
+19:57:12,142 root INFO File ingestions: 72 , succeeded: 72, failures: 0
+19:57:12,142 root INFO Topology description updated for topology id 5dbb3c988d67433333dcc199
+19:57:12,142 root INFO average rate in KB: 688.507204027455
+19:57:12,143 root INFO Topology 5dbb3c988d67433333dcc199 changed type from Unknown to Single
+19:57:12,143 root INFO average rate in MB: 0.6723703164330616
+19:57:12,143 root WARNING No writable servers available.
+19:58:12,207 root WARNING No writable servers available.
+19:58:12,207 root WARNING No readable servers available.
+19:58:12,207 root INFO File ingestions: 73 , succeeded: 73, failures: 0
+19:58:12,207 root INFO Topology description updated for topology id 5dbb3cd48d67433333dcc19d
+19:58:12,207 root INFO average rate in KB: 858.2376426277992
+19:58:12,207 root INFO Topology 5dbb3cd48d67433333dcc19d changed type from Unknown to Single
+19:58:12,207 root INFO average rate in MB: 0.8381226978787102
+19:58:12,207 root WARNING No writable servers available.
+19:59:12,201 root INFO Topology 5dbb3d108d67433333dcc1a1 changed type from Unknown to Single
+19:59:12,202 root WARNING No writable servers available.
+19:59:12,202 root INFO File ingestions: 74 , succeeded: 74, failures: 0
+19:59:12,202 root WARNING No readable servers available.
+19:59:12,202 root INFO average rate in KB: 725.4029838448766
+19:59:12,202 root INFO Topology description updated for topology id 5dbb3d108d67433333dcc1a1
+19:59:12,202 root INFO average rate in MB: 0.7084013514110123
+19:59:12,202 root INFO Topology 5dbb3d108d67433333dcc1a1 changed type from Unknown to Single
+20:01:42,209 root INFO Topology description updated for topology id 5dbb3da68d67433333dcc1a7
+20:01:42,209 root INFO Topology 5dbb3da68d67433333dcc1a7 changed type from Unknown to Single
+20:01:42,209 root INFO File ingestions: 75 , succeeded: 75, failures: 0
+20:01:42,209 root WARNING No writable servers available.
+20:01:42,209 root INFO average rate in KB: 704.4527709273603
+20:01:42,209 root WARNING No readable servers available.
+20:01:42,209 root INFO average rate in MB: 0.6879421591087503
+20:01:42,209 root INFO Topology description updated for topology id 5dbb3da68d67433333dcc1a7
+20:04:12,145 root INFO Topology 5dbb3e3c8d67433333dcc1ad changed type from Unknown to Single
+20:04:12,145 root WARNING No writable servers available.
+20:04:12,145 root INFO File ingestions: 76 , succeeded: 76, failures: 0
+20:04:12,145 root WARNING No readable servers available.
+20:04:12,145 root INFO average rate in KB: 653.0161125904859
+20:04:12,145 root INFO Topology description updated for topology id 5dbb3e3c8d67433333dcc1ad
+20:04:12,145 root INFO average rate in MB: 0.6377110474516464
+20:04:12,145 root INFO Topology 5dbb3e3c8d67433333dcc1ad changed type from Unknown to Single
+20:05:27,561 root WARNING No readable servers available.
+20:05:27,561 root INFO Topology description updated for topology id 5dbb3e878d67433333dcc1af
+20:05:27,561 root INFO File ingestions: 77 , succeeded: 77, failures: 0
+20:05:27,561 root INFO Topology 5dbb3e878d67433333dcc1af changed type from Unknown to Single
+20:05:27,561 root INFO average rate in KB: 830.6726048070765
+20:05:27,561 root WARNING No writable servers available.
+20:05:27,561 root INFO average rate in MB: 0.8112037156319106
+20:05:27,562 root WARNING No readable servers available.
+20:07:42,208 root INFO Topology description updated for topology id 5dbb3f0e8d67433333dcc1b7
+20:07:42,208 root INFO Topology 5dbb3f0e8d67433333dcc1b7 changed type from Unknown to Single
+20:07:42,208 root INFO File ingestions: 78 , succeeded: 78, failures: 0
+20:07:42,208 root WARNING No writable servers available.
+20:07:42,208 root INFO average rate in KB: 717.6487806589851
+20:07:42,208 root WARNING No readable servers available.
+20:07:42,208 root INFO average rate in MB: 0.7008288873622901
+20:07:42,208 root INFO Topology description updated for topology id 5dbb3f0e8d67433333dcc1b7
+20:07:57,612 root WARNING No readable servers available.
+20:07:57,612 root INFO Topology description updated for topology id 5dbb3f1d8d67433333dcc1b9
+20:07:57,612 root INFO File ingestions: 79 , succeeded: 79, failures: 0
+20:07:57,613 root INFO Topology 5dbb3f1d8d67433333dcc1b9 changed type from Unknown to Single
+20:07:57,613 root INFO average rate in KB: 659.562728369684
+20:07:57,613 root WARNING No writable servers available.
+20:07:57,613 root INFO average rate in MB: 0.6441042269235195
+20:07:57,613 root WARNING No readable servers available.
+20:10:57,614 root INFO Topology description updated for topology id 5dbb3fd18d67433333dcc1c7
+20:10:57,614 root INFO Topology 5dbb3fd18d67433333dcc1c7 changed type from Unknown to Single
+20:10:57,614 root INFO File ingestions: 80 , succeeded: 80, failures: 0
+20:10:57,614 root WARNING No writable servers available.
+20:10:57,614 root INFO average rate in KB: 455.7888409551657
+20:10:57,614 root WARNING No readable servers available.
+20:10:57,614 root INFO average rate in MB: 0.445106289995279
+20:10:57,615 root INFO Topology description updated for topology id 5dbb3fd18d67433333dcc1c7
+20:11:27,559 root WARNING No readable servers available.
+20:11:27,559 root INFO Topology description updated for topology id 5dbb3fef8d67433333dcc1c9
+20:11:27,559 root INFO File ingestions: 81 , succeeded: 81, failures: 0
+20:11:27,559 root INFO Topology 5dbb3fef8d67433333dcc1c9 changed type from Unknown to Single
+20:11:27,560 root INFO average rate in KB: 422.10160338047905
+20:11:27,560 root WARNING No writable servers available.
+20:11:27,560 root INFO average rate in MB: 0.41220859705124907
+20:11:27,560 root WARNING No readable servers available.
+20:12:27,651 root WARNING No writable servers available.
+20:12:27,651 root WARNING No readable servers available.
+20:12:27,651 root INFO File ingestions: 82 , succeeded: 82, failures: 0
+20:12:27,651 root INFO Topology description updated for topology id 5dbb402b8d67433333dcc1cb
+20:12:27,651 root INFO average rate in KB: 377.6387438176066
+20:12:27,651 root INFO Topology 5dbb402b8d67433333dcc1cb changed type from Unknown to Single
+20:12:27,651 root INFO average rate in MB: 0.36878783575938145
+20:12:27,651 root WARNING No writable servers available.
+20:12:57,546 root WARNING No readable servers available.
+20:12:57,546 root INFO Topology description updated for topology id 5dbb40498d67433333dcc1cd
+20:12:57,546 root INFO File ingestions: 83 , succeeded: 83, failures: 0
+20:12:57,546 root INFO Topology 5dbb40498d67433333dcc1cd changed type from Unknown to Single
+20:12:57,546 root INFO average rate in KB: 544.7884448835657
+20:12:57,546 root WARNING No writable servers available.
+20:12:57,546 root INFO average rate in MB: 0.5320199657066071
+20:12:57,546 root WARNING No readable servers available.
+20:14:27,618 root WARNING No writable servers available.
+20:14:27,618 root WARNING No readable servers available.
+20:14:27,618 root INFO File ingestions: 84 , succeeded: 84, failures: 0
+20:14:27,618 root INFO Topology description updated for topology id 5dbb40a38d67433333dcc1d1
+20:14:27,618 root INFO average rate in KB: 618.794125139489
+20:14:27,618 root INFO Topology 5dbb40a38d67433333dcc1d1 changed type from Unknown to Single
+20:14:27,618 root INFO average rate in MB: 0.6042911378315322
+20:14:27,618 root WARNING No writable servers available.
+20:15:12,203 root WARNING No writable servers available.
+20:15:12,203 root WARNING No readable servers available.
+20:15:12,203 root INFO File ingestions: 85 , succeeded: 85, failures: 0
+20:15:12,203 root INFO Topology description updated for topology id 5dbb40d08d67433333dcc1d3
+20:15:12,203 root INFO average rate in KB: 782.8338026209091
+20:15:12,204 root INFO average rate in MB: 0.7644861353719815
+20:15:12,204 root INFO Topology 5dbb40d08d67433333dcc1d3 changed type from Unknown to Single
+20:15:42,213 root INFO Topology 5dbb40ee8d67433333dcc1d5 changed type from Unknown to Single
+20:15:42,213 root WARNING No writable servers available.
+20:15:42,213 root INFO File ingestions: 86 , succeeded: 86, failures: 0
+20:15:42,213 root WARNING No readable servers available.
+20:15:42,213 root INFO average rate in KB: 499.1351642788892
+20:15:42,213 root INFO Topology description updated for topology id 5dbb40ee8d67433333dcc1d5
+20:15:42,213 root INFO average rate in MB: 0.4874366838661027
+20:15:42,213 root INFO Topology 5dbb40ee8d67433333dcc1d5 changed type from Unknown to Single
+20:15:57,622 root WARNING No writable servers available.
+20:15:57,622 root WARNING No readable servers available.
+20:15:57,622 root INFO File ingestions: 87 , succeeded: 87, failures: 0
+20:15:57,622 root INFO Topology description updated for topology id 5dbb40fd8d67433333dcc1d7
+20:15:57,622 root INFO average rate in KB: 607.7818520238532
+20:15:57,622 root INFO Topology 5dbb40fd8d67433333dcc1d7 changed type from Unknown to Single
+20:15:57,622 root INFO average rate in MB: 0.5935369648670441
+20:15:57,623 root WARNING No writable servers available.
+20:16:57,653 root INFO Topology 5dbb41398d67433333dcc1d9 changed type from Unknown to Single
+20:16:57,653 root INFO File ingestions: 88 , succeeded: 88, failures: 0
+20:16:57,653 root WARNING No writable servers available.
+20:16:57,653 root INFO average rate in KB: 367.54354269064385
+20:16:57,653 root WARNING No readable servers available.
+20:16:57,653 root INFO average rate in MB: 0.3589292409088319
+20:16:57,653 root INFO Topology description updated for topology id 5dbb41398d67433333dcc1d9
+20:17:27,508 root WARNING No readable servers available.
+20:17:27,508 root INFO Topology description updated for topology id 5dbb41578d67433333dcc1db
+20:17:27,508 root INFO File ingestions: 89 , succeeded: 89, failures: 0
+20:17:27,509 root INFO Topology 5dbb41578d67433333dcc1db changed type from Unknown to Single
+20:17:27,509 root INFO average rate in KB: 571.979837527112
+20:17:27,509 root WARNING No writable servers available.
+20:17:27,509 root INFO average rate in MB: 0.5585740600850703
+20:17:27,509 root WARNING No readable servers available.
+20:17:42,189 root WARNING No readable servers available.
+20:17:42,189 root INFO Topology description updated for topology id 5dbb41668d67433333dcc1dd
+20:17:42,189 root INFO File ingestions: 90 , succeeded: 90, failures: 0
+20:17:42,189 root INFO Topology 5dbb41668d67433333dcc1dd changed type from Unknown to Single
+20:17:42,189 root INFO average rate in KB: 416.03356211412097
+20:17:42,190 root WARNING No writable servers available.
+20:17:42,190 root INFO average rate in MB: 0.40628277550207126
+20:17:42,190 root WARNING No readable servers available.
+20:19:27,497 root WARNING No readable servers available.
+20:19:27,497 root INFO Topology description updated for topology id 5dbb41cf8d67433333dcc1e7
+20:19:27,497 root INFO File ingestions: 91 , succeeded: 91, failures: 0
+20:19:27,497 root INFO Topology 5dbb41cf8d67433333dcc1e7 changed type from Unknown to Single
+20:19:27,497 root INFO average rate in KB: 601.3045628824026
+20:19:27,497 root WARNING No writable servers available.
+20:19:27,497 root INFO average rate in MB: 0.5872114871898463
+20:19:27,497 root WARNING No readable servers available.
+20:19:42,212 root INFO Topology description updated for topology id 5dbb41de8d67433333dcc1e9
+20:19:42,212 root INFO Topology 5dbb41de8d67433333dcc1e9 changed type from Unknown to Single
+20:19:42,212 root INFO File ingestions: 92 , succeeded: 92, failures: 0
+20:19:42,212 root WARNING No writable servers available.
+20:19:42,212 root INFO average rate in KB: 618.229604607123
+20:19:42,212 root WARNING No readable servers available.
+20:19:42,212 root INFO average rate in MB: 0.6037398482491435
+20:19:42,212 root INFO Topology description updated for topology id 5dbb41de8d67433333dcc1e9
+20:21:12,212 root INFO Topology 5dbb42388d67433333dcc1eb changed type from Unknown to Single
+20:21:12,212 root WARNING No writable servers available.
+20:21:12,212 root INFO File ingestions: 93 , succeeded: 93, failures: 0
+20:21:12,212 root WARNING No readable servers available.
+20:21:12,212 root INFO average rate in KB: 474.2210766470788
+20:21:12,212 root INFO Topology description updated for topology id 5dbb42388d67433333dcc1eb
+20:21:12,212 root INFO average rate in MB: 0.4631065201631629
+20:21:12,212 root INFO Topology 5dbb42388d67433333dcc1eb changed type from Unknown to Single
+20:21:42,213 root WARNING No writable servers available.
+20:21:42,213 root WARNING No readable servers available.
+20:21:42,213 root INFO File ingestions: 94 , succeeded: 94, failures: 0
+20:21:42,213 root INFO Topology description updated for topology id 5dbb42568d67433333dcc1ed
+20:21:42,213 root INFO average rate in KB: 373.4625413592029
+20:21:42,213 root INFO Topology 5dbb42568d67433333dcc1ed changed type from Unknown to Single
+20:21:42,213 root INFO average rate in MB: 0.36470951304609656
+20:21:42,213 root WARNING No writable servers available.
+20:22:27,501 root WARNING No writable servers available.
+20:22:27,501 root WARNING No readable servers available.
+20:22:27,501 root INFO File ingestions: 95 , succeeded: 95, failures: 0
+20:22:27,501 root INFO Topology description updated for topology id 5dbb42838d67433333dcc1f1
+20:22:27,501 root INFO average rate in KB: 372.69174511320966
+20:22:27,501 root INFO Topology 5dbb42838d67433333dcc1f1 changed type from Unknown to Single
+20:22:27,501 root INFO average rate in MB: 0.3639567823371188
+20:22:27,501 root WARNING No writable servers available.
+20:24:12,215 root INFO Topology 5dbb42ec8d67433333dcc1f5 changed type from Unknown to Single
+20:24:12,215 root WARNING No writable servers available.
+20:24:12,215 root INFO File ingestions: 96 , succeeded: 96, failures: 0
+20:24:12,215 root WARNING No readable servers available.
+20:24:12,215 root INFO average rate in KB: 453.5485366047626
+20:24:12,215 root INFO Topology description updated for topology id 5dbb42ec8d67433333dcc1f5
+20:24:12,216 root INFO average rate in MB: 0.4429184927780885
+20:24:12,216 root INFO Topology 5dbb42ec8d67433333dcc1f5 changed type from Unknown to Single
+20:24:27,469 root WARNING No writable servers available.
+20:24:27,469 root WARNING No readable servers available.
+20:24:27,469 root INFO File ingestions: 97 , succeeded: 97, failures: 0
+20:24:27,469 root INFO Topology description updated for topology id 5dbb42fb8d67433333dcc1f7
+20:24:27,469 root INFO average rate in KB: 286.58516023611554
+20:24:27,470 root INFO average rate in MB: 0.2798683205430816
+20:24:27,469 root INFO Topology 5dbb42fb8d67433333dcc1f7 changed type from Unknown to Single
+20:24:42,208 root WARNING No writable servers available.
+20:24:42,208 root WARNING No readable servers available.
+20:24:42,208 root INFO File ingestions: 98 , succeeded: 98, failures: 0
+20:24:42,208 root INFO Topology description updated for topology id 5dbb430a8d67433333dcc1f9
+20:24:42,208 root INFO average rate in KB: 220.5425438025486
+20:24:42,209 root INFO Topology 5dbb430a8d67433333dcc1f9 changed type from Unknown to Single
+20:24:42,209 root INFO average rate in MB: 0.21537357793217637
+20:24:42,209 root WARNING No writable servers available.
+20:25:27,473 root WARNING No writable servers available.
+20:25:27,473 root WARNING No readable servers available.
+20:25:27,473 root INFO File ingestions: 99 , succeeded: 99, failures: 0
+20:25:27,473 root INFO Topology description updated for topology id 5dbb43378d67433333dcc1fd
+20:25:27,474 root INFO average rate in KB: 450.4300399159927
+20:25:27,474 root INFO Topology 5dbb43378d67433333dcc1fd changed type from Unknown to Single
+20:25:27,474 root INFO average rate in MB: 0.43987308585546164
+20:25:27,474 root WARNING No writable servers available.
+20:26:42,221 root INFO Topology description updated for topology id 5dbb43828d67433333dcc201
+20:26:42,221 root INFO File ingestions: 100 , succeeded: 100, failures: 0
+20:26:42,221 root INFO Topology 5dbb43828d67433333dcc201 changed type from Unknown to Single
+20:26:42,221 root INFO average rate in KB: 394.6091350033953
+20:26:42,221 root WARNING No writable servers available.
+20:26:42,221 root INFO average rate in MB: 0.3853604834017532
+20:26:42,221 root WARNING No readable servers available.
+20:27:27,633 root INFO Topology 5dbb43af8d67433333dcc203 changed type from Unknown to Single
+20:27:27,633 root WARNING No writable servers available.
+20:27:27,633 root INFO File ingestions: 101 , succeeded: 101, failures: 0
+20:27:27,633 root WARNING No readable servers available.
+20:27:27,633 root INFO average rate in KB: 527.2767436995035
+20:27:27,633 root INFO Topology description updated for topology id 5dbb43af8d67433333dcc203
+20:27:27,633 root INFO average rate in MB: 0.5149186950190464
+20:27:27,633 root INFO Topology 5dbb43af8d67433333dcc203 changed type from Unknown to Single
+20:28:57,511 root WARNING No readable servers available.
+20:28:57,512 root INFO File ingestions: 102 , succeeded: 102, failures: 0
+20:28:57,512 root INFO Topology description updated for topology id 5dbb44098d67433333dcc20d
+20:28:57,512 root INFO average rate in KB: 357.1140406757682
+20:28:57,512 root INFO Topology 5dbb44098d67433333dcc20d changed type from Unknown to Single
+20:28:57,512 root INFO average rate in MB: 0.3487441803474299
+20:28:57,512 root WARNING No writable servers available.
+20:29:12,257 root INFO Topology 5dbb44188d67433333dcc20f changed type from Unknown to Single
+20:29:12,257 root WARNING No writable servers available.
+20:29:12,257 root INFO File ingestions: 103 , succeeded: 103, failures: 0
+20:29:12,257 root WARNING No readable servers available.
+20:29:12,257 root INFO average rate in KB: 341.48333298788816
+20:29:12,257 root INFO Topology description updated for topology id 5dbb44188d67433333dcc20f
+20:29:12,257 root INFO average rate in MB: 0.33347981737098453
+20:29:12,258 root INFO Topology 5dbb44188d67433333dcc20f changed type from Unknown to Single
+20:29:27,657 root INFO Topology 5dbb44278d67433333dcc211 changed type from Unknown to Single
+20:29:27,657 root WARNING No writable servers available.
+20:29:27,657 root INFO File ingestions: 104 , succeeded: 104, failures: 0
+20:29:27,657 root WARNING No readable servers available.
+20:29:27,657 root INFO average rate in KB: 436.59637285117964
+20:29:27,657 root INFO Topology description updated for topology id 5dbb44278d67433333dcc211
+20:29:27,657 root INFO average rate in MB: 0.4263636453624801
+20:29:27,657 root INFO Topology 5dbb44278d67433333dcc211 changed type from Unknown to Single
+20:31:57,556 root INFO Topology description updated for topology id 5dbb44bd8d67433333dcc21b
+20:31:57,556 root INFO Topology 5dbb44bd8d67433333dcc21b changed type from Unknown to Single
+20:31:57,556 root INFO File ingestions: 105 , succeeded: 105, failures: 0
+20:31:57,556 root WARNING No writable servers available.
+20:31:57,557 root INFO average rate in KB: 367.6148348948103
+20:31:57,557 root WARNING No readable servers available.
+20:31:57,557 root INFO average rate in MB: 0.3589988622019632
+20:31:57,557 root INFO Topology description updated for topology id 5dbb44bd8d67433333dcc21b
+20:32:12,225 root WARNING No readable servers available.
+20:32:12,226 root INFO Topology description updated for topology id 5dbb44cc8d67433333dcc21d
+20:32:12,226 root INFO File ingestions: 106 , succeeded: 106, failures: 0
+20:32:12,226 root INFO Topology 5dbb44cc8d67433333dcc21d changed type from Unknown to Single
+20:32:12,226 root INFO average rate in KB: 378.8430728725234
+20:32:12,226 root WARNING No writable servers available.
+20:32:12,226 root INFO average rate in MB: 0.36996393835207364
+20:32:12,226 root WARNING No readable servers available.
+20:33:57,655 root INFO Topology 5dbb45358d67433333dcc223 changed type from Unknown to Single
+20:33:57,655 root WARNING No writable servers available.
+20:33:57,655 root INFO File ingestions: 107 , succeeded: 107, failures: 0
+20:33:57,655 root WARNING No readable servers available.
+20:33:57,655 root INFO average rate in KB: 416.49075866889086
+20:33:57,656 root INFO Topology description updated for topology id 5dbb45358d67433333dcc223
+20:33:57,656 root INFO average rate in MB: 0.40672925651258873
+20:33:57,656 root INFO Topology 5dbb45358d67433333dcc223 changed type from Unknown to Single
+20:34:27,529 root WARNING No writable servers available.
+20:34:27,529 root WARNING No readable servers available.
+20:34:27,530 root INFO File ingestions: 108 , succeeded: 108, failures: 0
+20:34:27,530 root INFO Topology description updated for topology id 5dbb45538d67433333dcc225
+20:34:27,530 root INFO average rate in KB: 466.89876757110414
+20:34:27,530 root INFO Topology 5dbb45538d67433333dcc225 changed type from Unknown to Single
+20:34:27,530 root INFO average rate in MB: 0.4559558277061564
+20:34:27,530 root WARNING No writable servers available.
+20:36:57,634 root WARNING No readable servers available.
+20:36:57,634 root INFO Topology description updated for topology id 5dbb45e98d67433333dcc22f
+20:36:57,634 root INFO Topology 5dbb45e98d67433333dcc22f changed type from Unknown to Single
+20:36:57,634 root INFO File ingestions: 109 , succeeded: 109, failures: 0
+20:36:57,635 root WARNING No writable servers available.
+20:36:57,635 root INFO average rate in KB: 257.5297851206904
+20:36:57,635 root WARNING No readable servers available.
+20:36:57,635 root INFO average rate in MB: 0.2514939307819242
+20:36:57,635 root INFO Topology description updated for topology id 5dbb45e98d67433333dcc22f
+20:37:43,61 root WARNING No readable servers available.
+20:37:43,61 root INFO Topology description updated for topology id 5dbb46168d67433333dcc233
+20:37:43,62 root INFO File ingestions: 110 , succeeded: 110, failures: 0
+20:37:43,62 root INFO Topology 5dbb46168d67433333dcc233 changed type from Unknown to Single
+20:37:43,62 root INFO average rate in KB: 159.66929068146982
+20:37:43,62 root WARNING No writable servers available.
+20:37:43,62 root INFO average rate in MB: 0.15592704168112287
+20:37:43,63 root WARNING No readable servers available.
+20:37:58,405 root WARNING No readable servers available.
+20:37:58,405 root INFO Topology description updated for topology id 5dbb46268d67433333dcc235
+20:37:58,405 root INFO File ingestions: 111 , succeeded: 111, failures: 0
+20:37:58,405 root INFO Topology 5dbb46268d67433333dcc235 changed type from Unknown to Single
+20:37:58,405 root INFO average rate in KB: 209.89830721508133
+20:37:58,405 root WARNING No writable servers available.
+20:37:58,405 root INFO average rate in MB: 0.20497881563972786
+20:37:58,405 root WARNING No readable servers available.
+20:38:57,902 root INFO Topology 5dbb46618d67433333dcc237 changed type from Unknown to Single
+20:38:57,902 root WARNING No writable servers available.
+20:38:57,903 root WARNING No readable servers available.
+20:38:57,903 root INFO Topology description updated for topology id 5dbb46618d67433333dcc237
+20:38:57,903 root INFO Topology 5dbb46618d67433333dcc237 changed type from Unknown to Single
+20:38:57,903 root WARNING No writable servers available.
+20:38:57,903 root WARNING No readable servers available.
+20:38:57,903 root INFO Topology description updated for topology id 5dbb46618d67433333dcc237
+20:38:57,903 root INFO Topology 5dbb46618d67433333dcc237 changed type from Unknown to Single
+20:38:57,903 root WARNING No writable servers available.
+20:38:57,903 root INFO File ingestions: 112 , succeeded: 112, failures: 0
+20:38:57,904 root WARNING No readable servers available.
+20:38:57,904 root INFO average rate in KB: 305.0364781915762
+20:38:57,904 root INFO Topology description updated for topology id 5dbb46618d67433333dcc237
+20:38:57,904 root INFO average rate in MB: 0.2978871857339611
+20:38:57,904 root INFO Topology 5dbb46618d67433333dcc237 changed type from Unknown to Single
+20:44:12,237 root WARNING No writable servers available.
+20:44:12,237 root INFO File ingestions: 113 , succeeded: 113, failures: 0
+20:44:12,240 root WARNING No readable servers available.
+20:44:12,241 root INFO average rate in KB: 290.28067375718894
+20:44:12,241 root INFO Topology description updated for topology id 5dbb479c8d67433333dcc24a
+20:44:12,241 root INFO average rate in MB: 0.2834772204660048
+20:44:12,242 root INFO Topology 5dbb479c8d67433333dcc24a changed type from Unknown to Single
+20:44:27,996 root WARNING No readable servers available.
+20:44:27,996 root INFO Topology description updated for topology id 5dbb47ab8d67433333dcc24c
+20:44:27,996 root INFO File ingestions: 114 , succeeded: 114, failures: 0
+20:44:27,996 root INFO Topology 5dbb47ab8d67433333dcc24c changed type from Unknown to Single
+20:44:27,996 root INFO average rate in KB: 209.0772725313935
+20:44:27,996 root WARNING No writable servers available.
+20:44:27,996 root INFO average rate in MB: 0.20417702395643897
+20:44:27,997 root WARNING No readable servers available.
+20:46:12,512 root INFO Topology 5dbb48148d67433333dcc254 changed type from Unknown to Single
+20:46:12,512 root WARNING No writable servers available.
+20:46:12,512 root INFO File ingestions: 115 , succeeded: 115, failures: 0
+20:46:12,512 root WARNING No readable servers available.
+20:46:12,512 root INFO average rate in KB: 169.8416062523749
+20:46:12,512 root INFO Topology description updated for topology id 5dbb48148d67433333dcc254
+20:46:12,512 root INFO average rate in MB: 0.16586094360583487
+20:46:12,512 root INFO Topology 5dbb48148d67433333dcc254 changed type from Unknown to Single
+20:47:57,892 root INFO Topology 5dbb487d8d67433333dcc25a changed type from Unknown to Single
+20:47:57,892 root WARNING No writable servers available.
+20:47:57,892 root INFO File ingestions: 116 , succeeded: 116, failures: 0
+20:47:57,892 root WARNING No readable servers available.
+20:47:57,892 root INFO average rate in KB: 410.6912444177849
+20:47:57,892 root INFO Topology description updated for topology id 5dbb487d8d67433333dcc25a
+20:47:57,892 root INFO average rate in MB: 0.40106566837674307
+20:47:57,892 root INFO Topology 5dbb487d8d67433333dcc25a changed type from Unknown to Single
+20:48:12,311 root INFO Topology 5dbb488c8d67433333dcc25c changed type from Unknown to Single
+20:48:12,311 root WARNING No writable servers available.
+20:48:12,311 root INFO File ingestions: 117 , succeeded: 117, failures: 0
+20:48:12,311 root WARNING No readable servers available.
+20:48:12,311 root INFO average rate in KB: 266.90707418124305
+20:48:12,311 root INFO Topology description updated for topology id 5dbb488c8d67433333dcc25c
+20:48:12,311 root INFO average rate in MB: 0.26065143963012016
+20:48:12,311 root INFO Topology 5dbb488c8d67433333dcc25c changed type from Unknown to Single
+20:49:12,283 root WARNING No writable servers available.
+20:49:12,283 root WARNING No readable servers available.
+20:49:12,283 root INFO File ingestions: 118 , succeeded: 118, failures: 0
+20:49:12,283 root INFO Topology description updated for topology id 5dbb48c88d67433333dcc25e
+20:49:12,283 root INFO average rate in KB: 364.4136158458192
+20:49:12,283 root INFO Topology 5dbb48c88d67433333dcc25e changed type from Unknown to Single
+20:49:12,283 root INFO average rate in MB: 0.3558726717244328
+20:49:12,283 root WARNING No writable servers available.
+20:50:12,272 root INFO Topology description updated for topology id 5dbb49048d67433333dcc260
+20:50:12,272 root INFO Topology 5dbb49048d67433333dcc260 changed type from Unknown to Single
+20:50:12,272 root INFO File ingestions: 119 , succeeded: 119, failures: 0
+20:50:12,272 root WARNING No writable servers available.
+20:50:12,272 root INFO average rate in KB: 286.13486328369976
+20:50:12,272 root WARNING No readable servers available.
+20:50:12,273 root INFO average rate in MB: 0.27942857742548805
+20:50:12,273 root INFO Topology description updated for topology id 5dbb49048d67433333dcc260
+20:52:13,948 root WARNING No readable servers available.
+20:52:13,948 root INFO Topology description updated for topology id 5dbb497d8d67433333dcc268
+20:52:13,948 root INFO File ingestions: 120 , succeeded: 120, failures: 0
+20:52:13,948 root INFO Topology 5dbb497d8d67433333dcc268 changed type from Unknown to Single
+20:52:13,948 root INFO average rate in KB: 252.37572785000242
+20:52:13,948 root WARNING No writable servers available.
+20:52:13,948 root INFO average rate in MB: 0.246460671728518
+20:52:13,948 root WARNING No readable servers available.
+20:52:42,618 root WARNING No readable servers available.
+20:52:42,618 root INFO Topology description updated for topology id 5dbb499a8d67433333dcc26a
+20:52:42,618 root INFO File ingestions: 121 , succeeded: 121, failures: 0
+20:52:42,618 root INFO Topology 5dbb499a8d67433333dcc26a changed type from Unknown to Single
+20:52:42,618 root INFO average rate in KB: 143.3075621488095
+20:52:42,618 root WARNING No writable servers available.
+20:52:42,618 root INFO average rate in MB: 0.13994879116094677
+20:52:42,619 root WARNING No readable servers available.
+20:52:57,759 root INFO Topology 5dbb49a98d67433333dcc26c changed type from Unknown to Single
+20:52:57,759 root WARNING No writable servers available.
+20:52:57,759 root INFO File ingestions: 122 , succeeded: 122, failures: 0
+20:52:57,759 root WARNING No readable servers available.
+20:52:57,759 root INFO average rate in KB: 170.3512953287243
+20:52:57,759 root INFO Topology description updated for topology id 5dbb49a98d67433333dcc26c
+20:52:57,759 root INFO average rate in MB: 0.16635868684445732
+20:52:57,759 root INFO Topology 5dbb49a98d67433333dcc26c changed type from Unknown to Single
+20:57:27,912 root WARNING No writable servers available.
+20:57:27,912 root WARNING No readable servers available.
+20:57:27,912 root INFO File ingestions: 123 , succeeded: 123, failures: 0
+20:57:27,912 root INFO Topology description updated for topology id 5dbb4ab78d67433333dcc278
+20:57:27,912 root INFO average rate in KB: 331.8136743484544
+20:57:27,912 root INFO Topology 5dbb4ab78d67433333dcc278 changed type from Unknown to Single
+20:57:27,912 root INFO average rate in MB: 0.3240367913559125
+20:57:27,912 root WARNING No writable servers available.
+20:57:57,606 root INFO Topology 5dbb4ad58d67433333dcc27c changed type from Unknown to Single
+20:57:57,606 root WARNING No writable servers available.
+20:57:57,606 root INFO File ingestions: 124 , succeeded: 124, failures: 0
+20:57:57,606 root WARNING No readable servers available.
+20:57:57,606 root INFO average rate in KB: 237.11590377909954
+20:57:57,606 root INFO Topology description updated for topology id 5dbb4ad58d67433333dcc27c
+20:57:57,606 root INFO average rate in MB: 0.2315584997842769
+20:57:57,607 root INFO Topology 5dbb4ad58d67433333dcc27c changed type from Unknown to Single
+20:59:57,551 root WARNING No readable servers available.
+20:59:57,551 root INFO Topology description updated for topology id 5dbb4b4d8d67433333dcc280
+20:59:57,552 root INFO File ingestions: 125 , succeeded: 125, failures: 0
+20:59:57,552 root INFO Topology 5dbb4b4d8d67433333dcc280 changed type from Unknown to Single
+20:59:57,552 root INFO average rate in KB: 300.42031109036657
+20:59:57,552 root WARNING No writable servers available.
+20:59:57,552 root INFO average rate in MB: 0.2933792100491861
+20:59:57,552 root WARNING No readable servers available.
+21:00:42,210 root INFO Topology 5dbb4b7a8d67433333dcc282 changed type from Unknown to Single
+21:00:42,210 root INFO File ingestions: 126 , succeeded: 126, failures: 0
+21:00:42,210 root WARNING No writable servers available.
+21:00:42,211 root INFO average rate in KB: 444.71238839074965
+21:00:42,211 root WARNING No readable servers available.
+21:00:42,211 root INFO average rate in MB: 0.43428944178784146
+21:00:42,211 root INFO Topology description updated for topology id 5dbb4b7a8d67433333dcc282
+21:01:27,488 root INFO Topology description updated for topology id 5dbb4ba78d67433333dcc284
+21:01:27,488 root INFO Topology 5dbb4ba78d67433333dcc284 changed type from Unknown to Single
+21:01:27,488 root INFO File ingestions: 127 , succeeded: 127, failures: 0
+21:01:27,488 root WARNING No writable servers available.
+21:01:27,488 root INFO average rate in KB: 371.23840626292997
+21:01:27,488 root WARNING No readable servers available.
+21:01:27,488 root INFO average rate in MB: 0.36253750611614255
+21:01:27,488 root INFO Topology description updated for topology id 5dbb4ba78d67433333dcc284
+21:03:12,291 root WARNING No writable servers available.
+21:03:12,291 root WARNING No readable servers available.
+21:03:12,291 root INFO File ingestions: 128 , succeeded: 128, failures: 0
+21:03:12,292 root INFO Topology description updated for topology id 5dbb4c108d67433333dcc286
+21:03:12,292 root INFO average rate in KB: 302.5741348133406
+21:03:12,292 root INFO Topology 5dbb4c108d67433333dcc286 changed type from Unknown to Single
+21:03:12,292 root INFO average rate in MB: 0.29548255352865294
+21:03:12,292 root WARNING No writable servers available.
+21:03:27,749 root INFO Topology description updated for topology id 5dbb4c1f8d67433333dcc288
+21:03:27,749 root INFO Topology 5dbb4c1f8d67433333dcc288 changed type from Unknown to Single
+21:03:27,749 root INFO File ingestions: 129 , succeeded: 129, failures: 0
+21:03:27,749 root WARNING No writable servers available.
+21:03:27,750 root INFO average rate in KB: 289.3797973462591
+21:03:27,750 root WARNING No readable servers available.
+21:03:27,750 root INFO average rate in MB: 0.2825974583459562
+21:03:27,750 root INFO Topology description updated for topology id 5dbb4c1f8d67433333dcc288
+21:04:57,624 root WARNING No readable servers available.
+21:04:57,624 root INFO Topology description updated for topology id 5dbb4c798d67433333dcc28c
+21:04:57,624 root INFO File ingestions: 130 , succeeded: 130, failures: 0
+21:04:57,624 root INFO Topology 5dbb4c798d67433333dcc28c changed type from Unknown to Single
+21:04:57,624 root INFO average rate in KB: 264.9978945804273
+21:04:57,624 root WARNING No writable servers available.
+21:04:57,624 root INFO average rate in MB: 0.25878700642619856
+21:04:57,624 root WARNING No readable servers available.
+21:05:12,168 root WARNING No readable servers available.
+21:05:12,168 root INFO Topology description updated for topology id 5dbb4c888d67433333dcc28e
+21:05:12,168 root INFO File ingestions: 131 , succeeded: 131, failures: 0
+21:05:12,168 root INFO Topology 5dbb4c888d67433333dcc28e changed type from Unknown to Single
+21:05:12,168 root INFO average rate in KB: 386.5068468902294
+21:05:12,168 root WARNING No writable servers available.
+21:05:12,168 root INFO average rate in MB: 0.37744809266623963
+21:05:12,168 root WARNING No readable servers available.
+21:05:27,623 root INFO Topology description updated for topology id 5dbb4c978d67433333dcc290
+21:05:27,623 root INFO Topology 5dbb4c978d67433333dcc290 changed type from Unknown to Single
+21:05:27,623 root INFO File ingestions: 132 , succeeded: 132, failures: 0
+21:05:27,623 root WARNING No writable servers available.
+21:05:27,623 root INFO average rate in KB: 284.5622157691298
+21:05:27,623 root WARNING No readable servers available.
+21:05:27,623 root INFO average rate in MB: 0.2778927888370408
+21:05:27,623 root INFO Topology description updated for topology id 5dbb4c978d67433333dcc290
+21:06:27,971 root INFO Topology description updated for topology id 5dbb4cd38d67433333dcc294
+21:06:27,971 root INFO Topology 5dbb4cd38d67433333dcc294 changed type from Unknown to Single
+21:06:27,971 root INFO File ingestions: 133 , succeeded: 133, failures: 0
+21:06:27,971 root WARNING No writable servers available.
+21:06:27,971 root INFO average rate in KB: 156.10640268875628
+21:06:27,971 root WARNING No readable servers available.
+21:06:27,971 root INFO average rate in MB: 0.15244765887573855
+21:06:27,971 root INFO Topology description updated for topology id 5dbb4cd38d67433333dcc294
+21:06:42,955 root WARNING No writable servers available.
+21:06:42,955 root WARNING No readable servers available.
+21:06:42,956 root INFO File ingestions: 134 , succeeded: 134, failures: 0
+21:06:42,956 root INFO Topology description updated for topology id 5dbb4ce28d67433333dcc296
+21:06:42,956 root INFO average rate in KB: 194.22266647847775
+21:06:42,956 root INFO Topology 5dbb4ce28d67433333dcc296 changed type from Unknown to Single
+21:06:42,956 root INFO average rate in MB: 0.18967057273288843
+21:06:42,956 root WARNING No writable servers available.
+21:07:12,305 root INFO Topology 5dbb4d008d67433333dcc29a changed type from Unknown to Single
+21:07:12,305 root WARNING No writable servers available.
+21:07:12,305 root INFO File ingestions: 135 , succeeded: 135, failures: 0
+21:07:12,305 root WARNING No readable servers available.
+21:07:12,305 root INFO average rate in KB: 199.9494367415131
+21:07:12,305 root INFO Topology description updated for topology id 5dbb4d008d67433333dcc29a
+21:07:12,305 root INFO average rate in MB: 0.19526312181788388
+21:07:12,305 root INFO Topology 5dbb4d008d67433333dcc29a changed type from Unknown to Single
+21:07:58,119 root INFO Topology 5dbb4d2d8d67433333dcc29c changed type from Unknown to Single
+21:07:58,119 root WARNING No writable servers available.
+21:07:58,119 root INFO File ingestions: 136 , succeeded: 136, failures: 0
+21:07:58,119 root WARNING No readable servers available.
+21:07:58,119 root INFO average rate in KB: 195.7509122972156
+21:07:58,119 root INFO Topology description updated for topology id 5dbb4d2d8d67433333dcc29c
+21:07:58,119 root INFO average rate in MB: 0.1911630002902496
+21:07:58,119 root INFO Topology 5dbb4d2d8d67433333dcc29c changed type from Unknown to Single
+21:08:42,304 root INFO Topology description updated for topology id 5dbb4d5a8d67433333dcc29e
+21:08:42,304 root INFO Topology 5dbb4d5a8d67433333dcc29e changed type from Unknown to Single
+21:08:42,304 root INFO File ingestions: 137 , succeeded: 137, failures: 0
+21:08:42,304 root WARNING No writable servers available.
+21:08:42,304 root INFO average rate in KB: 167.61648248703042
+21:08:42,304 root WARNING No readable servers available.
+21:08:42,304 root INFO average rate in MB: 0.16368797117874065
+21:08:42,305 root INFO Topology description updated for topology id 5dbb4d5a8d67433333dcc29e
+21:09:12,189 root INFO Topology 5dbb4d788d67433333dcc2a0 changed type from Unknown to Single
+21:09:12,189 root WARNING No writable servers available.
+21:09:12,189 root INFO File ingestions: 138 , succeeded: 138, failures: 0
+21:09:12,189 root WARNING No readable servers available.
+21:09:12,190 root INFO average rate in KB: 278.4561903031924
+21:09:12,190 root INFO Topology description updated for topology id 5dbb4d788d67433333dcc2a0
+21:09:12,190 root INFO average rate in MB: 0.2719298733429613
+21:09:12,190 root INFO Topology 5dbb4d788d67433333dcc2a0 changed type from Unknown to Single
+21:09:27,753 root INFO Topology 5dbb4d878d67433333dcc2a2 changed type from Unknown to Single
+21:09:27,753 root WARNING No writable servers available.
+21:09:27,753 root INFO File ingestions: 139 , succeeded: 139, failures: 0
+21:09:27,754 root WARNING No readable servers available.
+21:09:27,754 root INFO average rate in KB: 385.3835136026378
+21:09:27,754 root INFO Topology description updated for topology id 5dbb4d878d67433333dcc2a2
+21:09:27,754 root INFO average rate in MB: 0.37635108750257595
+21:09:27,754 root INFO Topology 5dbb4d878d67433333dcc2a2 changed type from Unknown to Single
+21:11:28,155 root WARNING No readable servers available.
+21:11:28,155 root INFO Topology description updated for topology id 5dbb4dff8d67433333dcc2a4
+21:11:28,155 root INFO File ingestions: 140 , succeeded: 140, failures: 0
+21:11:28,155 root INFO Topology 5dbb4dff8d67433333dcc2a4 changed type from Unknown to Single
+21:11:28,155 root INFO average rate in KB: 262.0129004239067
+21:11:28,156 root WARNING No writable servers available.
+21:11:28,156 root INFO average rate in MB: 0.25587197307022136
+21:11:28,156 root WARNING No readable servers available.
+21:12:42,302 root WARNING No writable servers available.
+21:12:42,302 root WARNING No readable servers available.
+21:12:42,302 root INFO File ingestions: 141 , succeeded: 141, failures: 0
+21:12:42,302 root INFO Topology description updated for topology id 5dbb4e4a8d67433333dcc2a8
+21:12:42,302 root INFO average rate in KB: 184.3922546098233
+21:12:42,302 root INFO Topology 5dbb4e4a8d67433333dcc2a8 changed type from Unknown to Single
+21:12:42,302 root INFO average rate in MB: 0.18007056114240558
+21:12:42,303 root WARNING No writable servers available.
+21:14:42,360 root WARNING No writable servers available.
+21:14:42,360 root WARNING No readable servers available.
+21:14:42,361 root INFO File ingestions: 142 , succeeded: 142, failures: 0
+21:14:42,361 root INFO Topology description updated for topology id 5dbb4ec28d67433333dcc2ae
+21:14:42,361 root INFO average rate in KB: 229.24280343566267
+21:14:42,361 root INFO Topology 5dbb4ec28d67433333dcc2ae changed type from Unknown to Single
+21:14:42,361 root INFO average rate in MB: 0.22386992523013932
+21:14:42,361 root WARNING No writable servers available.
+21:15:12,300 root WARNING No writable servers available.
+21:15:12,300 root WARNING No readable servers available.
+21:15:12,300 root INFO File ingestions: 143 , succeeded: 143, failures: 0
+21:15:12,300 root INFO Topology description updated for topology id 5dbb4ee08d67433333dcc2b0
+21:15:12,300 root INFO average rate in KB: 265.1127098654333
+21:15:12,301 root INFO Topology 5dbb4ee08d67433333dcc2b0 changed type from Unknown to Single
+21:15:12,301 root INFO average rate in MB: 0.2588991307279622
+21:15:12,301 root WARNING No writable servers available.
+21:15:42,321 root WARNING No readable servers available.
+21:15:42,321 root INFO Topology description updated for topology id 5dbb4efe8d67433333dcc2b2
+21:15:42,321 root INFO File ingestions: 144 , succeeded: 144, failures: 0
+21:15:42,321 root INFO Topology 5dbb4efe8d67433333dcc2b2 changed type from Unknown to Single
+21:15:42,322 root INFO average rate in KB: 353.655588306043
+21:15:42,322 root WARNING No writable servers available.
+21:15:42,322 root INFO average rate in MB: 0.3453667854551201
+21:15:42,322 root WARNING No readable servers available.
+21:16:12,297 root INFO Topology 5dbb4f1c8d67433333dcc2b6 changed type from Unknown to Single
+21:16:12,297 root WARNING No writable servers available.
+21:16:12,297 root INFO File ingestions: 145 , succeeded: 145, failures: 0
+21:16:12,297 root WARNING No readable servers available.
+21:16:12,297 root INFO average rate in KB: 362.26257939024856
+21:16:12,297 root INFO Topology description updated for topology id 5dbb4f1c8d67433333dcc2b6
+21:16:12,297 root INFO average rate in MB: 0.3537720501857896
+21:16:12,298 root INFO Topology 5dbb4f1c8d67433333dcc2b6 changed type from Unknown to Single
+21:16:28,237 root WARNING No writable servers available.
+21:16:28,237 root WARNING No readable servers available.
+21:16:28,237 root INFO File ingestions: 146 , succeeded: 146, failures: 0
+21:16:28,237 root INFO Topology description updated for topology id 5dbb4f2b8d67433333dcc2b8
+21:16:28,237 root INFO average rate in KB: 243.63766530177716
+21:16:28,237 root INFO Topology 5dbb4f2b8d67433333dcc2b8 changed type from Unknown to Single
+21:16:28,238 root INFO average rate in MB: 0.23792740752126676
+21:16:28,238 root WARNING No writable servers available.
+21:17:14,724 root INFO Topology 5dbb4f5a8d67433333dcc2bc changed type from Unknown to Single
+21:17:14,724 root WARNING No writable servers available.
+21:17:14,724 root INFO File ingestions: 147 , succeeded: 147, failures: 0
+21:17:14,724 root WARNING No readable servers available.
+21:17:14,725 root INFO average rate in KB: 127.53732427963268
+21:17:14,725 root INFO Topology description updated for topology id 5dbb4f5a8d67433333dcc2bc
+21:17:14,725 root INFO average rate in MB: 0.1245481682418288
+21:17:14,725 root INFO Topology 5dbb4f5a8d67433333dcc2bc changed type from Unknown to Single
+21:17:30,865 root WARNING No readable servers available.
+21:17:30,865 root INFO File ingestions: 148 , succeeded: 148, failures: 0
+21:17:30,866 root INFO Topology description updated for topology id 5dbb4f6a8d67433333dcc2be
+21:17:30,866 root INFO average rate in KB: 105.94369801674488
+21:17:30,866 root INFO Topology 5dbb4f6a8d67433333dcc2be changed type from Unknown to Single
+21:17:30,866 root INFO average rate in MB: 0.10346064259447742
+21:17:30,866 root WARNING No writable servers available.
+21:18:01,294 root INFO Topology 5dbb4f888d67433333dcc2c0 changed type from Unknown to Single
+21:18:01,294 root INFO File ingestions: 149 , succeeded: 149, failures: 0
+21:18:01,295 root WARNING No writable servers available.
+21:18:01,295 root INFO average rate in KB: 95.49790644241106
+21:18:01,295 root WARNING No readable servers available.
+21:18:01,295 root INFO average rate in MB: 0.09325967426016706
+21:18:01,295 root INFO Topology description updated for topology id 5dbb4f888d67433333dcc2c0
+21:18:12,389 root INFO Topology 5dbb4f948d67433333dcc2c2 changed type from Unknown to Single
+21:18:12,390 root WARNING No writable servers available.
+21:18:12,390 root INFO File ingestions: 150 , succeeded: 150, failures: 0
+21:18:12,390 root WARNING No readable servers available.
+21:18:12,390 root INFO average rate in KB: 126.28029220089442
+21:18:12,390 root INFO Topology description updated for topology id 5dbb4f948d67433333dcc2c2
+21:18:12,390 root INFO average rate in MB: 0.12332059785243596
+21:18:12,390 root INFO Topology 5dbb4f948d67433333dcc2c2 changed type from Unknown to Single
+21:19:44,787 root INFO File ingestions: 151 , succeeded: 151, failures: 0
+21:19:44,787 root INFO average rate in KB: 96.03805505328751
+21:19:44,788 root WARNING No readable servers available.
+21:19:44,788 root INFO average rate in MB: 0.09378716313797608
+21:19:44,788 root INFO Topology description updated for topology id 5dbb4ff08d67433333dcc2c9
+21:20:31,296 root WARNING No readable servers available.
+21:20:31,297 root INFO Topology description updated for topology id 5dbb501e8d67433333dcc2cf
+21:20:31,298 root INFO Topology 5dbb501e8d67433333dcc2cf changed type from Unknown to Single
+21:20:31,298 root INFO File ingestions: 152 , succeeded: 152, failures: 0
+21:20:31,298 root WARNING No writable servers available.
+21:20:31,299 root INFO average rate in KB: 70.30984488029112
+21:20:31,300 root WARNING No readable servers available.
+21:20:31,300 root INFO average rate in MB: 0.0686619578909093
+21:20:31,300 root INFO Topology description updated for topology id 5dbb501e8d67433333dcc2cf
+21:21:14,643 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,643 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,644 root WARNING No writable servers available.
+21:21:14,644 root WARNING No readable servers available.
+21:21:14,644 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,644 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,644 root WARNING No writable servers available.
+21:21:14,644 root WARNING No readable servers available.
+21:21:14,644 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,644 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,644 root WARNING No writable servers available.
+21:21:14,644 root WARNING No readable servers available.
+21:21:14,645 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,645 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,645 root WARNING No writable servers available.
+21:21:14,645 root WARNING No readable servers available.
+21:21:14,645 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,645 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,646 root WARNING No writable servers available.
+21:21:14,646 root WARNING No readable servers available.
+21:21:14,647 root INFO File ingestions: 153 , succeeded: 153, failures: 0
+21:21:14,647 root INFO Topology description updated for topology id 5dbb504a8d67433333dcc2d1
+21:21:14,647 root INFO average rate in KB: 46.51061861805651
+21:21:14,648 root INFO Topology 5dbb504a8d67433333dcc2d1 changed type from Unknown to Single
+21:21:14,648 root INFO average rate in MB: 0.04542052599419581
+21:21:14,648 root WARNING No writable servers available.
+21:21:28,5 root WARNING No writable servers available.
+21:21:28,5 root WARNING No readable servers available.
+21:21:28,5 root INFO File ingestions: 154 , succeeded: 154, failures: 0
+21:21:28,5 root INFO Topology description updated for topology id 5dbb50578d67433333dcc2d3
+21:21:28,5 root INFO average rate in KB: 152.98412170098092
+21:21:28,5 root INFO Topology 5dbb50578d67433333dcc2d3 changed type from Unknown to Single
+21:21:28,5 root INFO average rate in MB: 0.14939855634861418
+21:21:28,5 root WARNING No writable servers available.
+21:22:13,183 root INFO Topology description updated for topology id 5dbb50848d67433333dcc2d7
+21:22:13,183 root INFO Topology 5dbb50848d67433333dcc2d7 changed type from Unknown to Single
+21:22:13,183 root INFO File ingestions: 155 , succeeded: 155, failures: 0
+21:22:13,183 root WARNING No writable servers available.
+21:22:13,183 root INFO average rate in KB: 101.02030903117202
+21:22:13,184 root WARNING No readable servers available.
+21:22:13,184 root INFO average rate in MB: 0.09865264553825392
+21:22:13,184 root INFO Topology description updated for topology id 5dbb50848d67433333dcc2d7
+21:24:30,836 root INFO Topology description updated for topology id 5dbb510e8d67433333dcc2db
+21:24:30,836 root INFO Topology 5dbb510e8d67433333dcc2db changed type from Unknown to Single
+21:24:30,836 root INFO File ingestions: 156 , succeeded: 156, failures: 0
+21:24:30,836 root WARNING No writable servers available.
+21:24:30,836 root INFO average rate in KB: 100.62289765297363
+21:24:30,836 root WARNING No readable servers available.
+21:24:30,836 root INFO average rate in MB: 0.09826454848923206
+21:24:30,836 root INFO Topology description updated for topology id 5dbb510e8d67433333dcc2db
+21:25:30,348 root WARNING No readable servers available.
+21:25:30,348 root INFO Topology description updated for topology id 5dbb514a8d67433333dcc2e0
+21:25:30,348 root INFO File ingestions: 157 , succeeded: 157, failures: 0
+21:25:30,348 root INFO Topology 5dbb514a8d67433333dcc2e0 changed type from Unknown to Single
+21:25:30,348 root INFO average rate in KB: 283.39623417150113
+21:25:30,348 root WARNING No writable servers available.
+21:25:30,349 root INFO average rate in MB: 0.2767541349331066
+21:25:30,349 root WARNING No readable servers available.
+21:27:42,852 root WARNING No readable servers available.
+21:27:42,852 root INFO Topology description updated for topology id 5dbb51ce8d67433333dcc2e6
+21:27:42,853 root INFO File ingestions: 158 , succeeded: 158, failures: 0
+21:27:42,853 root INFO Topology 5dbb51ce8d67433333dcc2e6 changed type from Unknown to Single
+21:27:42,853 root INFO average rate in KB: 176.8363255227163
+21:27:42,853 root WARNING No writable servers available.
+21:27:42,853 root INFO average rate in MB: 0.17269172414327763
+21:27:42,853 root WARNING No readable servers available.
+21:27:57,799 root WARNING No readable servers available.
+21:27:57,799 root INFO File ingestions: 159 , succeeded: 159, failures: 0
+21:27:57,803 root INFO Topology description updated for topology id 5dbb51dd8d67433333dcc2e8
+21:27:57,803 root INFO average rate in KB: 235.16508691182003
+21:27:57,803 root INFO Topology 5dbb51dd8d67433333dcc2e8 changed type from Unknown to Single
+21:27:57,803 root INFO average rate in MB: 0.22965340518732424
+21:27:57,803 root WARNING No writable servers available.
+21:28:12,321 root INFO Topology description updated for topology id 5dbb51ec8d67433333dcc2ea
+21:28:12,321 root INFO Topology 5dbb51ec8d67433333dcc2ea changed type from Unknown to Single
+21:28:12,321 root INFO File ingestions: 160 , succeeded: 160, failures: 0
+21:28:12,321 root WARNING No writable servers available.
+21:28:12,321 root INFO average rate in KB: 138.86475387411812
+21:28:12,321 root WARNING No readable servers available.
+21:28:12,322 root INFO average rate in MB: 0.13561011120519348
+21:28:12,322 root INFO Topology description updated for topology id 5dbb51ec8d67433333dcc2ea
+21:29:27,653 root WARNING No readable servers available.
+21:29:27,653 root INFO Topology description updated for topology id 5dbb52378d67433333dcc2f2
+21:29:27,653 root INFO File ingestions: 161 , succeeded: 161, failures: 0
+21:29:27,653 root INFO Topology 5dbb52378d67433333dcc2f2 changed type from Unknown to Single
+21:29:27,653 root INFO average rate in KB: 188.16512378149378
+21:29:27,653 root WARNING No writable servers available.
+21:29:27,653 root INFO average rate in MB: 0.18375500369286502
+21:29:27,653 root WARNING No readable servers available.
+21:29:57,697 root WARNING No writable servers available.
+21:29:57,697 root WARNING No readable servers available.
+21:29:57,697 root INFO File ingestions: 162 , succeeded: 162, failures: 0
+21:29:57,697 root INFO Topology description updated for topology id 5dbb52558d67433333dcc2f4
+21:29:57,697 root INFO average rate in KB: 349.9039294808236
+21:29:57,697 root INFO Topology 5dbb52558d67433333dcc2f4 changed type from Unknown to Single
+21:29:57,697 root INFO average rate in MB: 0.3417030561336168
+21:29:57,697 root WARNING No writable servers available.
+21:30:12,275 root WARNING No readable servers available.
+21:30:12,275 root INFO File ingestions: 163 , succeeded: 163, failures: 0
+21:30:12,275 root INFO Topology description updated for topology id 5dbb52648d67433333dcc2f6
+21:30:12,275 root INFO average rate in KB: 253.7169216962101
+21:30:12,275 root INFO Topology 5dbb52648d67433333dcc2f6 changed type from Unknown to Single
+21:30:12,275 root INFO average rate in MB: 0.24777043134395518
+21:30:12,275 root WARNING No writable servers available.
+21:31:12,195 root INFO Topology description updated for topology id 5dbb52a08d67433333dcc2fa
+21:31:12,195 root INFO Topology 5dbb52a08d67433333dcc2fa changed type from Unknown to Single
+21:31:12,195 root INFO File ingestions: 164 , succeeded: 164, failures: 0
+21:31:12,195 root WARNING No writable servers available.
+21:31:12,195 root INFO average rate in KB: 264.20899325394913
+21:31:12,195 root WARNING No readable servers available.
+21:31:12,195 root INFO average rate in MB: 0.2580165949745597
+21:31:12,195 root INFO Topology description updated for topology id 5dbb52a08d67433333dcc2fa
+21:31:27,650 root INFO Topology description updated for topology id 5dbb52af8d67433333dcc2fc
+21:31:27,650 root INFO Topology 5dbb52af8d67433333dcc2fc changed type from Unknown to Single
+21:31:27,650 root INFO File ingestions: 165 , succeeded: 165, failures: 0
+21:31:27,650 root WARNING No writable servers available.
+21:31:27,651 root INFO average rate in KB: 231.23166784558686
+21:31:27,651 root WARNING No readable servers available.
+21:31:27,651 root INFO average rate in MB: 0.2258121756304559
+21:31:27,651 root INFO Topology description updated for topology id 5dbb52af8d67433333dcc2fc
+21:31:57,792 root INFO File ingestions: 166 , succeeded: 166, failures: 0
+21:31:57,792 root INFO average rate in KB: 136.44245415402276
+21:31:57,792 root INFO average rate in MB: 0.13324458413478785
+21:32:12,293 root INFO Topology description updated for topology id 5dbb52dc8d67433333dcc300
+21:32:12,293 root INFO Topology 5dbb52dc8d67433333dcc300 changed type from Unknown to Single
+21:32:12,293 root INFO File ingestions: 167 , succeeded: 167, failures: 0
+21:32:12,293 root WARNING No writable servers available.
+21:32:12,293 root INFO average rate in KB: 215.4934975465747
+21:32:12,293 root WARNING No readable servers available.
+21:32:12,293 root INFO average rate in MB: 0.21044286869782686
+21:32:12,293 root INFO Topology description updated for topology id 5dbb52dc8d67433333dcc300
+21:32:27,676 root INFO Topology description updated for topology id 5dbb52eb8d67433333dcc302
+21:32:27,676 root INFO Topology 5dbb52eb8d67433333dcc302 changed type from Unknown to Single
+21:32:27,676 root WARNING No writable servers available.
+21:32:27,677 root INFO File ingestions: 168 , succeeded: 168, failures: 0
+21:32:27,677 root WARNING No readable servers available.
+21:32:27,677 root INFO average rate in KB: 152.41149327742
+21:32:27,677 root INFO Topology description updated for topology id 5dbb52eb8d67433333dcc302
+21:32:27,677 root INFO average rate in MB: 0.14883934890373046
+21:32:27,677 root INFO Topology 5dbb52eb8d67433333dcc302 changed type from Unknown to Single
+21:33:42,280 root INFO Topology description updated for topology id 5dbb53368d67433333dcc306
+21:33:42,280 root INFO Topology 5dbb53368d67433333dcc306 changed type from Unknown to Single
+21:33:42,280 root INFO File ingestions: 169 , succeeded: 169, failures: 0
+21:33:42,280 root WARNING No writable servers available.
+21:33:42,280 root INFO average rate in KB: 157.45796959530838
+21:33:42,280 root WARNING No readable servers available.
+21:33:42,280 root INFO average rate in MB: 0.15376754843291834
+21:33:42,280 root INFO Topology description updated for topology id 5dbb53368d67433333dcc306
+21:34:27,775 root WARNING No writable servers available.
+21:34:27,775 root WARNING No readable servers available.
+21:34:27,775 root INFO File ingestions: 170 , succeeded: 170, failures: 0
+21:34:27,776 root INFO Topology description updated for topology id 5dbb53638d67433333dcc30a
+21:34:27,776 root INFO average rate in KB: 120.4622384149543
+21:34:27,776 root INFO Topology 5dbb53638d67433333dcc30a changed type from Unknown to Single
+21:34:27,776 root INFO average rate in MB: 0.11763890470210381
+21:34:27,776 root WARNING No writable servers available.
+21:34:57,809 root WARNING No readable servers available.
+21:34:57,809 root INFO Topology description updated for topology id 5dbb53818d67433333dcc30c
+21:34:57,809 root INFO File ingestions: 171 , succeeded: 171, failures: 0
+21:34:57,810 root INFO Topology 5dbb53818d67433333dcc30c changed type from Unknown to Single
+21:34:57,810 root INFO average rate in KB: 171.98523142564989
+21:34:57,810 root WARNING No writable servers available.
+21:34:57,810 root INFO average rate in MB: 0.16795432756411122
+21:34:57,810 root WARNING No readable servers available.
+21:37:12,293 root WARNING No readable servers available.
+21:37:12,293 root INFO Topology description updated for topology id 5dbb54088d67433333dcc310
+21:37:12,293 root INFO File ingestions: 172 , succeeded: 172, failures: 0
+21:37:12,293 root INFO Topology 5dbb54088d67433333dcc310 changed type from Unknown to Single
+21:37:12,293 root INFO average rate in KB: 143.25516827725005
+21:37:12,293 root WARNING No writable servers available.
+21:37:12,293 root INFO average rate in MB: 0.139897625270752
+21:37:12,293 root WARNING No readable servers available.
+21:37:42,762 root WARNING No writable servers available.
+21:37:42,762 root WARNING No readable servers available.
+21:37:42,763 root INFO File ingestions: 173 , succeeded: 173, failures: 0
+21:37:42,763 root INFO Topology description updated for topology id 5dbb54268d67433333dcc314
+21:37:42,763 root INFO average rate in KB: 123.66170684675492
+21:37:42,763 root INFO Topology 5dbb54268d67433333dcc314 changed type from Unknown to Single
+21:37:42,763 root INFO average rate in MB: 0.1207633855925341
+21:37:42,763 root WARNING No writable servers available.
+21:38:12,261 root INFO Topology 5dbb54448d67433333dcc316 changed type from Unknown to Single
+21:38:12,261 root WARNING No writable servers available.
+21:38:12,261 root INFO File ingestions: 174 , succeeded: 174, failures: 0
+21:38:12,261 root WARNING No readable servers available.
+21:38:12,261 root INFO average rate in KB: 87.77458414273181
+21:38:12,261 root INFO Topology description updated for topology id 5dbb54448d67433333dcc316
+21:38:12,261 root INFO average rate in MB: 0.08571736732688653
+21:38:12,261 root INFO Topology 5dbb54448d67433333dcc316 changed type from Unknown to Single

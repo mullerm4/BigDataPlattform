@@ -1,0 +1,5 @@
+pyyaml
+apscheduler
+pandas
+minio
+paho-mqtt

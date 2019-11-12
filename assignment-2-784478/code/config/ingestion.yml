@@ -1,0 +1,62 @@
+reddit:
+  types:
+    comment:
+  fields:
+    - author:
+        type: str
+    - link_id:
+        type: str
+    - created_utc:
+        type: int
+    - subreddit:
+        type: str
+    - archived:
+        type: bool
+        default: 0
+    - score:
+        type: int
+    - controversiality:
+        type: int
+        default: 0
+    - ups:
+        type: int
+    - body:
+        type: str
+    - edited:
+        type: int
+        default: 0
+twitter:
+  type:
+    post:
+  fields:
+    - ups:
+        type: int
+    - author:
+        type: str
+    - link_id:
+        type: str
+    - created_utc:
+        type: int
+    - body:
+        type: str
+    - archived:
+        type: bool
+        default: 0
+    - edited:
+        type: int
+        default: 0
+
+whatsapp:
+  type:
+    message:
+  fields:
+    - author:
+        type: str
+    - created_utc:
+        type: int
+    - body:
+        type: str
+    - edited:
+        type: int
+        default: 0
+

@@ -1,0 +1,81 @@
+version: "3.7"
+
+services:
+  client:
+    build: ../data/client/
+    volumes:
+      - ../data/database.csv:/reddit-comments/database.csv
+      - client-input-directory:/data/
+      - ./config:/config/
+    environment:
+      - TZ=Europe/Berlin
+    depends_on:
+      - mqtt
+    networks:
+      - users
+    deploy:
+      replicas: 50
+
+  database:
+    image: mongo:4.0
+    ports:
+      - 27017:27017
+    networks:
+      - dms
+    command: --bind_ip_all --smallfiles
+    environment:
+      - TZ=Europe/Berlin
+
+  mqtt:
+    image: eclipse-mosquitto
+    depends_on:
+      - database
+    restart: "always"
+    networks:
+      - users
+      - edge
+
+
+  fetch-data:
+    build: fetchdata
+    volumes:
+      - client-input-directory:/data/
+      - ingest:/stage/
+      - ./config:/config/
+    networks:
+      - dms
+
+  batch-ingest:
+    build:
+      batchingest-manager
+    depends_on:
+      - database
+    networks:
+      - dms
+    volumes:
+      - ingest:/stage/
+      - ./config:/config/
+      - logs:/logs/
+
+  mqtt-ingest:
+    depends_on:
+      - mqtt
+    networks:
+      - dms
+      - edge
+    build:
+      clientstreamingestapp
+    volumes:
+      - logs:/logs/
+
+
+networks:
+  dms:
+  users:
+  edge:
+
+volumes:
+  client-input-directory:
+  ingest:
+  logs:
+

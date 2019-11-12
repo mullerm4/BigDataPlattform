@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="236585f2-06d2-4e83-956b-98bcc5ef4fa2" name="Default Changelist" comment="add fetch to compose, set monio client to secure=False , added profiles manager and clients">
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/code/clientstreamingestapp/code/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/code/clientstreamingestapp/code/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/data/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/reports/Assignment-1-Deployment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/reports/Assignment-1-Design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/reports/Report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/selfgrading.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-2-784478/submitter.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentGuideline.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/AssignmentGuideline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-git.log" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/assignment-git.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/batchingest-manager/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/batchingest-manager/code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/code/clientbatchingestapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/batchingest-manager/code/clientbatchingestapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/code/customer_apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/code/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/batchingest-manager/code/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/code/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/batchingest-manager/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/batchingest-manager/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cleanup_docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/config/ingestion.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/config/ingestion.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/config/profile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/config/profile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fetchdata/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/fetchdata/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fetchdata/code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/fetchdata/code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fetchdata/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/fetchdata/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mqttingest/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/clientstreamingestapp/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mqttingest/code/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mqttingest/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/code/clientstreamingestapp/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/client/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/data/client/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/client/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/data/client/code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/client/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/data/client/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/database.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/data/database.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/minio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/samples/10_29_2019_23:53:57.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/samples/10_29_2019_23:54:30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/storage.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demolink.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/performance.log" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-2-784478/demolink.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfgrading.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submitter.csv" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="assignment-2-784627" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="40ab045faa438abcad3d6331695958942417c56f" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Sq0baWZN3ZRX61cZWdYzPW5Xym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Assignment2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/fetchdata" />
+      <recent name="$PROJECT_DIR$/code/fetchdata/code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reports" />
+      <recent name="$PROJECT_DIR$/code/clientstreamingestapp/code" />
+      <recent name="$PROJECT_DIR$/code/batchingestmanager" />
+      <recent name="$PROJECT_DIR$/code/batchingestmanager/code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/batchingestmanager/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/batchingestmanager/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/fetchdata/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/fetchdata/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="assignment-2-784478" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="236585f2-06d2-4e83-956b-98bcc5ef4fa2" name="Default Changelist" comment="" />
+      <created>1572275890169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572275890169</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add fetch to compose, set monio client to secure=False , added profiles manager and clients">
+      <created>1572305029369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572305029369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final batch ingestmanager">
+      <created>1572508708488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572508708488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final batchmanager">
+      <created>1572508752906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572508752906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fetch-data and mqttingest done">
+      <created>1572511413924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572511413924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/moritz/PycharmProjects/BDP/max_repo/big_data/assignment-2-784627" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add fetch to compose, set monio client to secure=False , added profiles manager and clients" />
+    <MESSAGE value="final batch ingestmanager" />
+    <MESSAGE value="final batchmanager" />
+    <MESSAGE value="fetch-data and mqttingest done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetch-data and mqttingest done" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="os.curdir" language="Python" />
+        <watch expression="import os" language="Python" />
+        <watch expression="os.listdir(os.curdir)" language="Python" />
+        <watch expression="os.get_curdir()" language="Python" />
+        <watch expression="listdir()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

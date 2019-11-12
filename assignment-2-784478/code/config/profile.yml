@@ -1,0 +1,9 @@
+no-files: 42
+max-size: 40000
+suportedformats:
+  - "json"
+  - "yaml"
+  - "yml"
+  - "txt"
+
+

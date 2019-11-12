@@ -1,0 +1,916 @@
+17:09:12,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006933689117431641 seconds, number _of_messages: 3
+17:09:27,779 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024108588695526123 seconds, number _of_messages: 6
+17:09:42,780 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004938728641718626 seconds, number _of_messages: 12
+17:09:57,778 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032487669377587736 seconds, number _of_messages: 15
+17:10:12,782 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002488346085556259 seconds, number _of_messages: 21
+17:10:27,782 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002557661531568556 seconds, number _of_messages: 24
+17:10:42,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020119123533088867 seconds, number _of_messages: 30
+17:10:57,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001820968748066809 seconds, number _of_messages: 33
+17:11:12,778 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002689095946043326 seconds, number _of_messages: 39
+17:11:27,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021118487680814656 seconds, number _of_messages: 42
+17:11:42,778 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002960572897402045 seconds, number _of_messages: 48
+17:11:57,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036329192741473013 seconds, number _of_messages: 51
+17:12:12,776 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031960739487530035 seconds, number _of_messages: 57
+17:12:27,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005663433842287973 seconds, number _of_messages: 60
+17:12:42,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005646702510187193 seconds, number _of_messages: 66
+17:12:57,778 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003029703704276329 seconds, number _of_messages: 69
+17:13:12,776 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005654959002009262 seconds, number _of_messages: 75
+17:13:27,779 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003507811342536314 seconds, number _of_messages: 78
+17:13:42,780 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020390966055737637 seconds, number _of_messages: 84
+17:13:57,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024003860667092935 seconds, number _of_messages: 87
+17:14:12,777 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020107550504846238 seconds, number _of_messages: 93
+17:14:43,780 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002841472625732422 seconds, number _of_messages: 3
+17:14:58,782 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002957373857498169 seconds, number _of_messages: 6
+17:15:13,781 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00544515298679471 seconds, number _of_messages: 12
+17:15:28,781 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.009480852691922337 seconds, number _of_messages: 15
+17:15:43,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.031019212970022636 seconds, number _of_messages: 21
+17:15:58,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.01245594051590615 seconds, number _of_messages: 24
+17:16:13,784 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.013285532597935301 seconds, number _of_messages: 30
+17:16:28,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.012096600607563568 seconds, number _of_messages: 33
+17:16:43,787 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.016847259626964876 seconds, number _of_messages: 39
+17:16:58,792 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.043409810317826786 seconds, number _of_messages: 42
+17:17:13,783 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.02175708465671279 seconds, number _of_messages: 48
+17:17:28,781 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.02217858514797655 seconds, number _of_messages: 51
+17:17:57,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017554163932800293 seconds, number _of_messages: 3
+17:18:12,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018199309706687927 seconds, number _of_messages: 6
+17:18:27,478 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0030190286925062537 seconds, number _of_messages: 12
+17:18:42,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020365036762086675 seconds, number _of_messages: 15
+17:18:57,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005000351799708369 seconds, number _of_messages: 21
+17:19:12,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020245312319673303 seconds, number _of_messages: 24
+17:19:27,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019175056347413566 seconds, number _of_messages: 30
+17:19:42,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019232213960235778 seconds, number _of_messages: 33
+17:19:57,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026395118802570823 seconds, number _of_messages: 39
+17:20:12,486 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002958593226594025 seconds, number _of_messages: 42
+17:20:27,484 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028387130774731794 seconds, number _of_messages: 48
+17:20:42,476 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030165143494516036 seconds, number _of_messages: 51
+17:20:57,476 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002027635195113578 seconds, number _of_messages: 57
+17:21:33,137 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005535602569580078 seconds, number _of_messages: 3
+17:21:48,139 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003481060266494751 seconds, number _of_messages: 6
+17:22:03,140 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019830004312098026 seconds, number _of_messages: 12
+17:22:18,139 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018238814664073288 seconds, number _of_messages: 15
+17:22:33,139 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024371032168346574 seconds, number _of_messages: 21
+17:22:48,139 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004212348215901329 seconds, number _of_messages: 24
+17:23:03,141 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026083769983475946 seconds, number _of_messages: 30
+17:23:18,141 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020514525794290694 seconds, number _of_messages: 33
+17:23:33,139 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018855572333921107 seconds, number _of_messages: 39
+17:24:03,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004752486944198608 seconds, number _of_messages: 3
+17:24:18,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002258341759443283 seconds, number _of_messages: 6
+17:24:33,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001838159456383437 seconds, number _of_messages: 12
+17:24:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025293171274825 seconds, number _of_messages: 15
+17:25:03,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001981603819672273 seconds, number _of_messages: 21
+17:25:18,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0042669906862755624 seconds, number _of_messages: 24
+17:25:33,481 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002158418506769122 seconds, number _of_messages: 30
+17:25:48,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001880707245368235 seconds, number _of_messages: 33
+17:26:03,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018991688561516887 seconds, number _of_messages: 39
+17:26:18,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018910971739897863 seconds, number _of_messages: 42
+17:26:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020917796956049428 seconds, number _of_messages: 48
+17:26:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018635559065459549 seconds, number _of_messages: 51
+17:27:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0034662534296253673 seconds, number _of_messages: 57
+17:27:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001975253839042526 seconds, number _of_messages: 60
+17:27:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029413506950367665 seconds, number _of_messages: 66
+17:27:48,480 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00203263518171297 seconds, number _of_messages: 69
+17:28:03,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020586456726238113 seconds, number _of_messages: 75
+17:28:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020927067333241923 seconds, number _of_messages: 78
+17:28:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002297745824688705 seconds, number _of_messages: 84
+17:28:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020178688914619424 seconds, number _of_messages: 87
+17:29:03,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002007166130702698 seconds, number _of_messages: 93
+17:29:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006530632523616279 seconds, number _of_messages: 96
+17:29:33,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00265572018219655 seconds, number _of_messages: 102
+17:29:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005485978656502596 seconds, number _of_messages: 105
+17:30:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005877803497846735 seconds, number _of_messages: 111
+17:30:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024538426018426585 seconds, number _of_messages: 114
+17:30:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00243421704262599 seconds, number _of_messages: 120
+17:30:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006727482267581056 seconds, number _of_messages: 123
+17:31:03,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025326427287788848 seconds, number _of_messages: 129
+17:31:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001963039443727976 seconds, number _of_messages: 132
+17:31:33,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026172048754654303 seconds, number _of_messages: 138
+17:31:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005806665208279615 seconds, number _of_messages: 141
+17:32:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019104216959690602 seconds, number _of_messages: 147
+17:32:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020816889214840474 seconds, number _of_messages: 150
+17:32:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018947207785030315 seconds, number _of_messages: 156
+17:32:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018702755850600714 seconds, number _of_messages: 159
+17:33:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029882956458908315 seconds, number _of_messages: 165
+17:33:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021465665215475113 seconds, number _of_messages: 168
+17:33:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00226817783917335 seconds, number _of_messages: 174
+17:33:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002201808315025453 seconds, number _of_messages: 177
+17:34:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004700835993226411 seconds, number _of_messages: 183
+17:34:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002723864770225689 seconds, number _of_messages: 186
+17:34:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023435753468469406 seconds, number _of_messages: 192
+17:34:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001956214530813143 seconds, number _of_messages: 195
+17:35:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019427275599220681 seconds, number _of_messages: 201
+17:35:18,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003441196381315332 seconds, number _of_messages: 204
+17:35:33,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022047028830160815 seconds, number _of_messages: 210
+17:35:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017565248644663657 seconds, number _of_messages: 213
+17:36:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003134304282311837 seconds, number _of_messages: 219
+17:36:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003943926840678384 seconds, number _of_messages: 222
+17:36:33,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027300045941902875 seconds, number _of_messages: 228
+17:36:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019139191266724677 seconds, number _of_messages: 231
+17:37:03,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007422963375779535 seconds, number _of_messages: 237
+17:37:18,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.010963206439581085 seconds, number _of_messages: 240
+17:37:33,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026007779710827796 seconds, number _of_messages: 246
+17:37:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002456469936586153 seconds, number _of_messages: 249
+17:38:03,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004165355792943027 seconds, number _of_messages: 255
+17:38:18,479 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027630260128904613 seconds, number _of_messages: 258
+17:38:33,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032654068285896277 seconds, number _of_messages: 264
+17:38:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002895000842892551 seconds, number _of_messages: 267
+17:39:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00251998198634143 seconds, number _of_messages: 273
+17:39:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024884215153825225 seconds, number _of_messages: 276
+17:39:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019737265866832995 seconds, number _of_messages: 282
+17:39:48,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025958838855454957 seconds, number _of_messages: 285
+17:40:03,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021478493741328977 seconds, number _of_messages: 291
+17:40:18,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020505408412612412 seconds, number _of_messages: 294
+17:40:33,478 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022032208429748766 seconds, number _of_messages: 300
+17:40:48,477 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026822083590797453 seconds, number _of_messages: 303
+17:41:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016364455223083496 seconds, ingestion_rate: 48842.785169321374 byte/secnumber _of_messages: 3
+17:41:39,17 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002013765275478363 seconds, ingestion_rate: 39754.27039982569 byte/secnumber _of_messages: 6
+17:41:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002275181352160871 seconds, ingestion_rate: 40794.2367803242 byte/secnumber _of_messages: 12
+17:42:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017698944284347817 seconds, ingestion_rate: 54003.91416309013 byte/secnumber _of_messages: 15
+17:42:24,17 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0060227940800814395 seconds, ingestion_rate: 13430.911995288749 byte/secnumber _of_messages: 21
+17:42:39,20 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028119513184208245 seconds, ingestion_rate: 40662.40784488522 byte/secnumber _of_messages: 24
+17:42:54,18 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005063273678208358 seconds, ingestion_rate: 29993.789906296235 byte/secnumber _of_messages: 30
+17:43:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002473143012571455 seconds, ingestion_rate: 44790.0390327728 byte/secnumber _of_messages: 33
+17:43:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019891974092654903 seconds, ingestion_rate: 48914.805361930295 byte/secnumber _of_messages: 39
+17:43:39,17 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007317790348841902 seconds, ingestion_rate: 16191.349691618228 byte/secnumber _of_messages: 42
+17:43:54,17 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024239422281507736 seconds, ingestion_rate: 42376.547207060736 byte/secnumber _of_messages: 48
+17:44:09,16 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002537392097213915 seconds, ingestion_rate: 35922.863555818076 byte/secnumber _of_messages: 51
+17:44:24,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016860015460212258 seconds, ingestion_rate: 53678.20653133275 byte/secnumber _of_messages: 57
+17:44:39,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005430924982681364 seconds, ingestion_rate: 13788.71100362757 byte/secnumber _of_messages: 60
+17:44:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004215977901140453 seconds, ingestion_rate: 31560.6683964712 byte/secnumber _of_messages: 66
+17:45:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002130213170488626 seconds, ingestion_rate: 49451.747933324295 byte/secnumber _of_messages: 69
+17:45:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003031468993506704 seconds, ingestion_rate: 27575.33801858989 byte/secnumber _of_messages: 75
+17:45:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005928155855099593 seconds, ingestion_rate: 30861.33694181326 byte/secnumber _of_messages: 78
+17:45:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026231389038848417 seconds, ingestion_rate: 34630.77232608902 byte/secnumber _of_messages: 84
+17:46:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003080285847101206 seconds, ingestion_rate: 27575.33801858989 byte/secnumber _of_messages: 87
+17:46:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002665589210575968 seconds, ingestion_rate: 33881.5643454039 byte/secnumber _of_messages: 93
+17:46:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002665379389771093 seconds, ingestion_rate: 33364.21760994788 byte/secnumber _of_messages: 96
+17:46:54,16 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029921174475402925 seconds, ingestion_rate: 42693.86310986311 byte/secnumber _of_messages: 102
+17:47:09,17 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028534486943092357 seconds, ingestion_rate: 35386.389449185415 byte/secnumber _of_messages: 105
+17:47:24,15 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.002044529584319651 seconds, ingestion_rate: 52751.628979431414 byte/secnumber _of_messages: 111
+17:47:39,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.008134912807155557 seconds, ingestion_rate: 6355.559487938692 byte/secnumber _of_messages: 114
+17:47:54,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028751950611423842 seconds, ingestion_rate: 38520.473767549876 byte/secnumber _of_messages: 120
+17:48:09,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029971433325329346 seconds, ingestion_rate: 29558.88602673147 byte/secnumber _of_messages: 123
+17:48:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002336583771810741 seconds, ingestion_rate: 42499.9357092942 byte/secnumber _of_messages: 129
+17:48:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019237799245250486 seconds, ingestion_rate: 47643.87622405014 byte/secnumber _of_messages: 132
+17:48:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023028176942190347 seconds, ingestion_rate: 36743.978249924476 byte/secnumber _of_messages: 138
+17:49:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022917305668036245 seconds, ingestion_rate: 41023.546711635754 byte/secnumber _of_messages: 141
+17:49:24,16 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0027721047948422533 seconds, ingestion_rate: 32078.8068833652 byte/secnumber _of_messages: 147
+17:49:39,16 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0025896743008323323 seconds, ingestion_rate: 38402.783404864094 byte/secnumber _of_messages: 150
+17:49:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020107100951622364 seconds, ingestion_rate: 47194.05690636316 byte/secnumber _of_messages: 156
+17:50:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024554589210444497 seconds, ingestion_rate: 32407.14458259325 byte/secnumber _of_messages: 159
+17:50:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002267323215210335 seconds, ingestion_rate: 41689.072089569294 byte/secnumber _of_messages: 165
+17:50:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001908565844024705 seconds, ingestion_rate: 46812.62963438101 byte/secnumber _of_messages: 168
+17:50:54,16 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001859963332689763 seconds, ingestion_rate: 48466.52251294993 byte/secnumber _of_messages: 174
+17:51:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0045008436335967185 seconds, ingestion_rate: 16398.72586733777 byte/secnumber _of_messages: 177
+17:51:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002124450752346848 seconds, ingestion_rate: 41452.28308531183 byte/secnumber _of_messages: 183
+17:51:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002331065901767355 seconds, ingestion_rate: 40271.98410771438 byte/secnumber _of_messages: 186
+17:51:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024454601073117792 seconds, ingestion_rate: 36316.12738853503 byte/secnumber _of_messages: 192
+17:52:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002657443377671785 seconds, ingestion_rate: 33928.8189679219 byte/secnumber _of_messages: 195
+17:52:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019175340435979601 seconds, ingestion_rate: 49278.11586765699 byte/secnumber _of_messages: 201
+17:52:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002512297651445839 seconds, ingestion_rate: 34263.328450704226 byte/secnumber _of_messages: 204
+17:52:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025983539972031485 seconds, ingestion_rate: 33400.86480549199 byte/secnumber _of_messages: 210
+17:53:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025032844115461454 seconds, ingestion_rate: 36592.90493381468 byte/secnumber _of_messages: 213
+17:53:24,14 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025690776699054453 seconds, ingestion_rate: 35321.30945697416 byte/secnumber _of_messages: 219
+17:53:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024723557456491916 seconds, ingestion_rate: 35926.40031505366 byte/secnumber _of_messages: 222
+17:53:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020362951293341792 seconds, ingestion_rate: 41617.75182481752 byte/secnumber _of_messages: 228
+17:54:09,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018150460960312744 seconds, ingestion_rate: 49132.1459539518 byte/secnumber _of_messages: 231
+17:54:24,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025115976300119176 seconds, ingestion_rate: 33413.09843420932 byte/secnumber _of_messages: 237
+17:54:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020783365960702154 seconds, ingestion_rate: 47513.6 byte/secnumber _of_messages: 240
+17:54:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024270272832298415 seconds, ingestion_rate: 36011.49195697227 byte/secnumber _of_messages: 246
+17:55:09,16 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002756914205615522 seconds, ingestion_rate: 38618.31389565033 byte/secnumber _of_messages: 249
+17:55:24,16 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.011252840370983891 seconds, ingestion_rate: 6124.09915247126 byte/secnumber _of_messages: 255
+17:55:39,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030639121943527225 seconds, ingestion_rate: 47600.37151056614 byte/secnumber _of_messages: 258
+17:55:54,15 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005248002630369449 seconds, ingestion_rate: 21280.949903773253 byte/secnumber _of_messages: 264
+18:35:42,537 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0035864710807800293 seconds, ingestion_rate: 19857.664780148018 byte/secnumber _of_messages: 3
+18:35:57,539 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021259114146232605 seconds, ingestion_rate: 46290.04795128758 byte/secnumber _of_messages: 6
+18:36:12,541 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027274404419586062 seconds, ingestion_rate: 31298.091431512137 byte/secnumber _of_messages: 12
+18:36:27,542 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019263838039478287 seconds, ingestion_rate: 50957.191453707586 byte/secnumber _of_messages: 15
+18:36:42,541 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019440831217707455 seconds, ingestion_rate: 45335.3768169959 byte/secnumber _of_messages: 21
+18:36:57,539 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032277129773490287 seconds, ingestion_rate: 32618.61517833199 byte/secnumber _of_messages: 24
+18:37:12,540 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002831310069008719 seconds, ingestion_rate: 31706.00816752107 byte/secnumber _of_messages: 30
+18:37:27,541 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002543132756581412 seconds, ingestion_rate: 35764.42693325492 byte/secnumber _of_messages: 33
+18:37:42,538 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025866727228964137 seconds, ingestion_rate: 35631.72033981056 byte/secnumber _of_messages: 39
+18:37:57,538 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004963049046645621 seconds, ingestion_rate: 28577.370819954576 byte/secnumber _of_messages: 42
+18:38:12,540 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.002484155954675905 seconds, ingestion_rate: 38896.173106646056 byte/secnumber _of_messages: 48
+18:38:27,538 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00199232415131691 seconds, ingestion_rate: 51980.690598290596 byte/secnumber _of_messages: 51
+18:38:42,538 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033728532983257065 seconds, ingestion_rate: 24690.74010420191 byte/secnumber _of_messages: 57
+18:39:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004670232534408569 seconds, ingestion_rate: 34779.3030880671 byte/secnumber _of_messages: 3
+18:39:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022485367953777313 seconds, ingestion_rate: 47631.43819344733 byte/secnumber _of_messages: 6
+18:39:40,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027294905739836395 seconds, ingestion_rate: 31634.542522756827 byte/secnumber _of_messages: 12
+18:39:55,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019155238042003475 seconds, ingestion_rate: 49579.40869565217 byte/secnumber _of_messages: 15
+18:40:10,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00329148504567911 seconds, ingestion_rate: 42337.21406195615 byte/secnumber _of_messages: 21
+18:40:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002187415626437428 seconds, ingestion_rate: 44038.67342505431 byte/secnumber _of_messages: 24
+18:40:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017807211209521778 seconds, ingestion_rate: 57646.83222748815 byte/secnumber _of_messages: 30
+18:40:55,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019704963481573523 seconds, ingestion_rate: 40826.185723875584 byte/secnumber _of_messages: 33
+18:41:10,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021109091517145253 seconds, ingestion_rate: 41185.60361173815 byte/secnumber _of_messages: 39
+18:41:25,296 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005097889742215658 seconds, ingestion_rate: 15789.893898745131 byte/secnumber _of_messages: 42
+18:41:40,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002944827449833356 seconds, ingestion_rate: 35239.44451955577 byte/secnumber _of_messages: 48
+18:41:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004051789687637861 seconds, ingestion_rate: 31983.911648698395 byte/secnumber _of_messages: 51
+18:42:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018313580665514553 seconds, ingestion_rate: 50048.61445617885 byte/secnumber _of_messages: 57
+18:42:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0034389875073423696 seconds, ingestion_rate: 43596.7082437276 byte/secnumber _of_messages: 60
+18:42:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006210968490906046 seconds, ingestion_rate: 10465.610692058393 byte/secnumber _of_messages: 66
+18:42:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002978315650978124 seconds, ingestion_rate: 35993.731307950286 byte/secnumber _of_messages: 69
+18:43:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019398441957241303 seconds, ingestion_rate: 48121.383093762364 byte/secnumber _of_messages: 75
+18:43:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005532094725057557 seconds, ingestion_rate: 12904.637974325424 byte/secnumber _of_messages: 78
+18:43:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019480075204137259 seconds, ingestion_rate: 46710.75883256528 byte/secnumber _of_messages: 84
+18:43:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003534988633838337 seconds, ingestion_rate: 26970.025720620844 byte/secnumber _of_messages: 87
+18:44:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022695951795833657 seconds, ingestion_rate: 38054.484096360415 byte/secnumber _of_messages: 93
+18:44:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00190256154954753 seconds, ingestion_rate: 46734.688524590165 byte/secnumber _of_messages: 96
+18:44:40,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002128775870492732 seconds, ingestion_rate: 46254.84193180378 byte/secnumber _of_messages: 102
+18:44:55,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018468419655773387 seconds, ingestion_rate: 50794.04899777283 byte/secnumber _of_messages: 105
+18:45:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001979251267923373 seconds, ingestion_rate: 48627.991471215355 byte/secnumber _of_messages: 111
+18:45:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002071785375775578 seconds, ingestion_rate: 41794.11842858779 byte/secnumber _of_messages: 114
+18:45:40,290 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.004703781372639377 seconds, ingestion_rate: 38318.72706509326 byte/secnumber _of_messages: 120
+18:45:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003241035015177334 seconds, ingestion_rate: 31397.732576148683 byte/secnumber _of_messages: 123
+18:46:10,290 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0027367356647860198 seconds, ingestion_rate: 34592.19793814433 byte/secnumber _of_messages: 129
+18:46:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00214447681146129 seconds, ingestion_rate: 43194.181818181816 byte/secnumber _of_messages: 132
+18:46:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007249156339720709 seconds, ingestion_rate: 13153.027718703817 byte/secnumber _of_messages: 138
+18:46:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002580945653686402 seconds, ingestion_rate: 49138.762186910855 byte/secnumber _of_messages: 141
+18:47:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002931733692731855 seconds, ingestion_rate: 29208.71271912271 byte/secnumber _of_messages: 147
+18:47:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003994392822812796 seconds, ingestion_rate: 14955.71326693717 byte/secnumber _of_messages: 150
+18:47:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020398560829248094 seconds, ingestion_rate: 50117.353110836426 byte/secnumber _of_messages: 156
+18:47:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002384387747288819 seconds, ingestion_rate: 38634.668925357335 byte/secnumber _of_messages: 159
+18:48:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022939884925857355 seconds, ingestion_rate: 40414.71347879057 byte/secnumber _of_messages: 165
+18:48:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024216677281381585 seconds, ingestion_rate: 37759.15231788079 byte/secnumber _of_messages: 168
+18:48:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004718364069755378 seconds, ingestion_rate: 32883.16193565829 byte/secnumber _of_messages: 174
+18:48:55,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002663262286520936 seconds, ingestion_rate: 35983.08332511587 byte/secnumber _of_messages: 177
+18:49:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002225859208633765 seconds, ingestion_rate: 35086.96615384615 byte/secnumber _of_messages: 183
+18:49:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020824351961079074 seconds, ingestion_rate: 43974.98770788142 byte/secnumber _of_messages: 186
+18:49:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004353636377575905 seconds, ingestion_rate: 27221.517941066766 byte/secnumber _of_messages: 192
+18:49:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004295065238267545 seconds, ingestion_rate: 29361.477953009333 byte/secnumber _of_messages: 195
+18:50:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003192513470758224 seconds, ingestion_rate: 28188.833371958284 byte/secnumber _of_messages: 201
+18:50:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028209499126808377 seconds, ingestion_rate: 32668.25854968666 byte/secnumber _of_messages: 204
+18:50:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020783242639249447 seconds, ingestion_rate: 45442.64607721046 byte/secnumber _of_messages: 210
+18:50:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00678056847374074 seconds, ingestion_rate: 30209.82266743936 byte/secnumber _of_messages: 213
+18:51:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019968776608693777 seconds, ingestion_rate: 51452.96785109983 byte/secnumber _of_messages: 219
+18:51:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020795617091803275 seconds, ingestion_rate: 45590.260869565216 byte/secnumber _of_messages: 222
+18:51:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0039031107500011545 seconds, ingestion_rate: 28951.47953030784 byte/secnumber _of_messages: 228
+18:51:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004150266439651633 seconds, ingestion_rate: 34450.94864048338 byte/secnumber _of_messages: 231
+18:52:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030207614568207287 seconds, ingestion_rate: 29108.5232929164 byte/secnumber _of_messages: 237
+18:52:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005784421916645438 seconds, ingestion_rate: 14126.609422786574 byte/secnumber _of_messages: 240
+18:52:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028080814480136097 seconds, ingestion_rate: 42093.02664667205 byte/secnumber _of_messages: 246
+18:52:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002503602124742546 seconds, ingestion_rate: 38948.06788344541 byte/secnumber _of_messages: 249
+18:53:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031914333567254847 seconds, ingestion_rate: 32706.323205162676 byte/secnumber _of_messages: 255
+18:53:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025726807622267938 seconds, ingestion_rate: 34237.610058172264 byte/secnumber _of_messages: 258
+18:53:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003375353683574985 seconds, ingestion_rate: 21629.094185288366 byte/secnumber _of_messages: 264
+18:53:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0037048536377082258 seconds, ingestion_rate: 33502.06096217407 byte/secnumber _of_messages: 267
+18:54:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023509609789850346 seconds, ingestion_rate: 46872.76146435453 byte/secnumber _of_messages: 273
+18:54:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001819778830945517 seconds, ingestion_rate: 52542.03714902808 byte/secnumber _of_messages: 276
+18:54:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018593695224439729 seconds, ingestion_rate: 48440.78693747511 byte/secnumber _of_messages: 282
+18:54:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017692971535165562 seconds, ingestion_rate: 45934.59818731118 byte/secnumber _of_messages: 285
+18:55:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005212448426068512 seconds, ingestion_rate: 29585.247932544185 byte/secnumber _of_messages: 291
+18:55:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004535335102178241 seconds, ingestion_rate: 34001.53261274692 byte/secnumber _of_messages: 294
+18:55:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003715200625957573 seconds, ingestion_rate: 25464.37180739707 byte/secnumber _of_messages: 300
+18:55:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026985311760382756 seconds, ingestion_rate: 37334.19766728054 byte/secnumber _of_messages: 303
+18:56:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005539236441648684 seconds, ingestion_rate: 29851.476439790575 byte/secnumber _of_messages: 309
+18:56:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005410946654205109 seconds, ingestion_rate: 27587.846677251076 byte/secnumber _of_messages: 312
+18:56:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.009534840118868348 seconds, ingestion_rate: 5383.89790046771 byte/secnumber _of_messages: 318
+18:56:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027642851486781236 seconds, ingestion_rate: 52091.9982869379 byte/secnumber _of_messages: 321
+18:57:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002057199374795859 seconds, ingestion_rate: 46806.624935864544 byte/secnumber _of_messages: 327
+18:57:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00572745560307812 seconds, ingestion_rate: 13261.536851286524 byte/secnumber _of_messages: 330
+18:57:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022269028795727083 seconds, ingestion_rate: 46044.72529968454 byte/secnumber _of_messages: 336
+18:57:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002523312200766901 seconds, ingestion_rate: 36881.38750758035 byte/secnumber _of_messages: 339
+18:58:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026439895423387193 seconds, ingestion_rate: 32384.136315228967 byte/secnumber _of_messages: 345
+18:58:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004104217765134258 seconds, ingestion_rate: 18824.062316223884 byte/secnumber _of_messages: 348
+18:58:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022101563848151776 seconds, ingestion_rate: 44839.5733595478 byte/secnumber _of_messages: 354
+18:58:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017462989021973562 seconds, ingestion_rate: 54277.02632753235 byte/secnumber _of_messages: 357
+18:59:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023746621179233564 seconds, ingestion_rate: 37216.15991840897 byte/secnumber _of_messages: 363
+18:59:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021412388926701073 seconds, ingestion_rate: 43286.411387900356 byte/secnumber _of_messages: 366
+18:59:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036557689564395016 seconds, ingestion_rate: 18087.858035094676 byte/secnumber _of_messages: 372
+18:59:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026734890448173888 seconds, ingestion_rate: 33919.35750139431 byte/secnumber _of_messages: 375
+19:00:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026942842669585116 seconds, ingestion_rate: 34115.97307404637 byte/secnumber _of_messages: 381
+19:00:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022772445463550436 seconds, ingestion_rate: 40703.22900167317 byte/secnumber _of_messages: 384
+19:00:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002911811530253869 seconds, ingestion_rate: 28243.378328173374 byte/secnumber _of_messages: 390
+19:00:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002315581522839961 seconds, ingestion_rate: 40707.76974564926 byte/secnumber _of_messages: 393
+19:01:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002723355788154802 seconds, ingestion_rate: 29611.656901728475 byte/secnumber _of_messages: 399
+19:01:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021673614405298483 seconds, ingestion_rate: 39487.54983226924 byte/secnumber _of_messages: 402
+19:01:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019537567077557 seconds, ingestion_rate: 44145.227195741594 byte/secnumber _of_messages: 408
+19:01:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00333144216461082 seconds, ingestion_rate: 26367.833513982223 byte/secnumber _of_messages: 411
+19:02:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029224532887220226 seconds, ingestion_rate: 28445.934518241345 byte/secnumber _of_messages: 417
+19:02:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020337300753205997 seconds, ingestion_rate: 47631.43819344733 byte/secnumber _of_messages: 420
+19:02:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002032015778831532 seconds, ingestion_rate: 45459.629749595115 byte/secnumber _of_messages: 426
+19:02:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002736833450472838 seconds, ingestion_rate: 30237.358965860127 byte/secnumber _of_messages: 429
+19:03:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002083845851900622 seconds, ingestion_rate: 44322.1727195433 byte/secnumber _of_messages: 435
+19:03:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022884095606806928 seconds, ingestion_rate: 43358.41825095057 byte/secnumber _of_messages: 438
+19:03:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0034484836659357 seconds, ingestion_rate: 23909.34661250164 byte/secnumber _of_messages: 444
+19:03:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002914160157262348 seconds, ingestion_rate: 32335.352060256977 byte/secnumber _of_messages: 447
+19:04:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002673860168472849 seconds, ingestion_rate: 46431.40959409594 byte/secnumber _of_messages: 453
+19:04:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028951162815113764 seconds, ingestion_rate: 32073.87254988134 byte/secnumber _of_messages: 456
+19:04:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002302978179603846 seconds, ingestion_rate: 39972.00657246139 byte/secnumber _of_messages: 462
+19:04:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026832339343614915 seconds, ingestion_rate: 32856.51431658563 byte/secnumber _of_messages: 465
+19:05:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020903658078008447 seconds, ingestion_rate: 41494.706390720945 byte/secnumber _of_messages: 471
+19:05:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002196867158088753 seconds, ingestion_rate: 40209.85652892562 byte/secnumber _of_messages: 474
+19:05:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024907526698285352 seconds, ingestion_rate: 35334.99060714631 byte/secnumber _of_messages: 480
+19:05:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019927911128423364 seconds, ingestion_rate: 48615.034372502 byte/secnumber _of_messages: 483
+19:06:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002575246139376458 seconds, ingestion_rate: 37677.27909137842 byte/secnumber _of_messages: 489
+19:06:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022279430980494987 seconds, ingestion_rate: 38553.03201267829 byte/secnumber _of_messages: 492
+19:06:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001897065604656642 seconds, ingestion_rate: 47145.277519379844 byte/secnumber _of_messages: 498
+19:06:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020212790326438477 seconds, ingestion_rate: 41613.005815942524 byte/secnumber _of_messages: 501
+19:07:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020673530501564377 seconds, ingestion_rate: 42619.06657323056 byte/secnumber _of_messages: 507
+19:07:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003190013979902367 seconds, ingestion_rate: 30350.53214671879 byte/secnumber _of_messages: 510
+19:07:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028696950092761235 seconds, ingestion_rate: 29683.92158138778 byte/secnumber _of_messages: 516
+19:07:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032872966902311707 seconds, ingestion_rate: 24183.47458413414 byte/secnumber _of_messages: 519
+19:08:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021742765667178607 seconds, ingestion_rate: 40517.92671552298 byte/secnumber _of_messages: 525
+19:08:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027372114926842153 seconds, ingestion_rate: 29491.99450416229 byte/secnumber _of_messages: 528
+19:08:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001943602029653681 seconds, ingestion_rate: 44033.35923735972 byte/secnumber _of_messages: 534
+19:08:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025985556175525354 seconds, ingestion_rate: 32215.454047850268 byte/secnumber _of_messages: 537
+19:09:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019202758827094849 seconds, ingestion_rate: 47470.33276961103 byte/secnumber _of_messages: 543
+19:09:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003311312819002626 seconds, ingestion_rate: 27652.65595635041 byte/secnumber _of_messages: 546
+19:09:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00270978604481367 seconds, ingestion_rate: 33631.746359447 byte/secnumber _of_messages: 552
+19:09:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0037731726898821046 seconds, ingestion_rate: 17929.66037735849 byte/secnumber _of_messages: 555
+19:10:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025270314265260965 seconds, ingestion_rate: 36922.43731660427 byte/secnumber _of_messages: 561
+19:10:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018127899772049222 seconds, ingestion_rate: 52572.31638092494 byte/secnumber _of_messages: 564
+19:10:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024620607206692936 seconds, ingestion_rate: 34519.3877589632 byte/secnumber _of_messages: 570
+19:10:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021180996635242135 seconds, ingestion_rate: 40725.94285714286 byte/secnumber _of_messages: 573
+19:11:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032403169344779785 seconds, ingestion_rate: 19249.060927361923 byte/secnumber _of_messages: 579
+19:11:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002014096804843805 seconds, ingestion_rate: 49000.19444071438 byte/secnumber _of_messages: 582
+19:11:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026956935759072883 seconds, ingestion_rate: 32653.64187919463 byte/secnumber _of_messages: 588
+19:11:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019848215087712477 seconds, ingestion_rate: 48070.66895007245 byte/secnumber _of_messages: 591
+19:12:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002228610011911114 seconds, ingestion_rate: 36545.26269404106 byte/secnumber _of_messages: 597
+19:12:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021750172343074927 seconds, ingestion_rate: 40011.45263157895 byte/secnumber _of_messages: 600
+19:12:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030907343457859935 seconds, ingestion_rate: 29585.247932544185 byte/secnumber _of_messages: 606
+19:12:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019649410077770824 seconds, ingestion_rate: 48647.44007465671 byte/secnumber _of_messages: 609
+19:13:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001931840777131481 seconds, ingestion_rate: 49424.95570906136 byte/secnumber _of_messages: 615
+19:13:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002474776729908159 seconds, ingestion_rate: 35236.04171494786 byte/secnumber _of_messages: 618
+19:13:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030252932233265067 seconds, ingestion_rate: 33011.077257101504 byte/secnumber _of_messages: 624
+19:13:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002099543794029095 seconds, ingestion_rate: 44861.62380132776 byte/secnumber _of_messages: 627
+19:14:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022746291940416077 seconds, ingestion_rate: 36956.09155357505 byte/secnumber _of_messages: 633
+19:14:25,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.001903906057092115 seconds, ingestion_rate: 52002.21929484696 byte/secnumber _of_messages: 636
+19:14:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002622829976643941 seconds, ingestion_rate: 34597.93761259126 byte/secnumber _of_messages: 642
+19:14:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023800714690195793 seconds, ingestion_rate: 44938.97142857143 byte/secnumber _of_messages: 645
+19:15:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002008418527553956 seconds, ingestion_rate: 43932.632795569465 byte/secnumber _of_messages: 651
+19:15:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018413936455188296 seconds, ingestion_rate: 50950.07651493996 byte/secnumber _of_messages: 654
+19:15:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024508698460943036 seconds, ingestion_rate: 43046.413589713346 byte/secnumber _of_messages: 660
+19:15:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002571126615969918 seconds, ingestion_rate: 34350.41400734256 byte/secnumber _of_messages: 663
+19:16:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002150137300230075 seconds, ingestion_rate: 50822.34651810585 byte/secnumber _of_messages: 669
+19:16:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028419890844495355 seconds, ingestion_rate: 30416.308077019254 byte/secnumber _of_messages: 672
+19:16:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027338123551937307 seconds, ingestion_rate: 30229.84408913926 byte/secnumber _of_messages: 678
+19:16:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005349887612361863 seconds, ingestion_rate: 18340.593486127866 byte/secnumber _of_messages: 681
+19:17:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024870375358018275 seconds, ingestion_rate: 43235.124170616116 byte/secnumber _of_messages: 687
+19:17:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019756672228742763 seconds, ingestion_rate: 46674.91020721412 byte/secnumber _of_messages: 690
+19:17:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002595113772658894 seconds, ingestion_rate: 33061.92334873607 byte/secnumber _of_messages: 696
+19:17:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002534469845209071 seconds, ingestion_rate: 32369.77273130489 byte/secnumber _of_messages: 699
+19:18:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029700783528746654 seconds, ingestion_rate: 36355.927866892496 byte/secnumber _of_messages: 705
+19:18:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00234032903658675 seconds, ingestion_rate: 36018.601125259105 byte/secnumber _of_messages: 708
+19:18:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019457006880621312 seconds, ingestion_rate: 48274.16959915333 byte/secnumber _of_messages: 714
+19:18:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016744691186768338 seconds, ingestion_rate: 57474.31847535045 byte/secnumber _of_messages: 717
+19:19:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020926342626003277 seconds, ingestion_rate: 55975.52508053382 byte/secnumber _of_messages: 723
+19:19:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019642455654788494 seconds, ingestion_rate: 43560.27790378417 byte/secnumber _of_messages: 726
+19:19:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019828365856121117 seconds, ingestion_rate: 53185.31526016616 byte/secnumber _of_messages: 732
+19:19:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017813330716603764 seconds, ingestion_rate: 49152.0 byte/secnumber _of_messages: 735
+19:20:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016594993041001162 seconds, ingestion_rate: 61338.787695410996 byte/secnumber _of_messages: 741
+19:20:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00362171067503644 seconds, ingestion_rate: 15457.468039140933 byte/secnumber _of_messages: 744
+19:20:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017013719512937518 seconds, ingestion_rate: 55288.55272727273 byte/secnumber _of_messages: 750
+19:20:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021013936752319095 seconds, ingestion_rate: 55753.16241405653 byte/secnumber _of_messages: 753
+19:21:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030361484136343 seconds, ingestion_rate: 47347.14519268198 byte/secnumber _of_messages: 759
+19:21:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001977310461875796 seconds, ingestion_rate: 51157.219683162766 byte/secnumber _of_messages: 762
+19:21:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001957678948266385 seconds, ingestion_rate: 46686.85363357216 byte/secnumber _of_messages: 768
+19:21:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001893642563922092 seconds, ingestion_rate: 42980.50035335689 byte/secnumber _of_messages: 771
+19:22:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017252583525345798 seconds, ingestion_rate: 49079.28016139879 byte/secnumber _of_messages: 777
+19:22:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025278406741937754 seconds, ingestion_rate: 53092.45569620253 byte/secnumber _of_messages: 780
+19:22:40,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0022629742780742555 seconds, ingestion_rate: 47685.12363808622 byte/secnumber _of_messages: 786
+19:22:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018946409841306198 seconds, ingestion_rate: 46651.041677320376 byte/secnumber _of_messages: 789
+19:23:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001784308628210064 seconds, ingestion_rate: 50822.34651810585 byte/secnumber _of_messages: 795
+19:23:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016835311894576545 seconds, ingestion_rate: 55710.6027480916 byte/secnumber _of_messages: 798
+19:23:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030764052331524604 seconds, ingestion_rate: 24933.682815169115 byte/secnumber _of_messages: 804
+19:23:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019314699999997704 seconds, ingestion_rate: 53757.284619917504 byte/secnumber _of_messages: 807
+19:24:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022381662292289698 seconds, ingestion_rate: 41760.6372167544 byte/secnumber _of_messages: 813
+19:24:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018252596130347246 seconds, ingestion_rate: 49565.93969030155 byte/secnumber _of_messages: 816
+19:24:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019577804718017206 seconds, ingestion_rate: 43102.34443656981 byte/secnumber _of_messages: 822
+19:24:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001863525106430049 seconds, ingestion_rate: 47837.49973780807 byte/secnumber _of_messages: 825
+19:25:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016890696838796138 seconds, ingestion_rate: 52907.70595911266 byte/secnumber _of_messages: 831
+19:25:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00178138827477023 seconds, ingestion_rate: 46710.75883256528 byte/secnumber _of_messages: 834
+19:25:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001576642259830318 seconds, ingestion_rate: 58789.18124697922 byte/secnumber _of_messages: 840
+19:25:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003429708389549713 seconds, ingestion_rate: 24725.873966662148 byte/secnumber _of_messages: 843
+19:26:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001770959197048552 seconds, ingestion_rate: 47768.614740149234 byte/secnumber _of_messages: 849
+19:26:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00315311375987582 seconds, ingestion_rate: 54914.138148984195 byte/secnumber _of_messages: 852
+19:26:40,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0017683026107233098 seconds, ingestion_rate: 54849.909276665305 byte/secnumber _of_messages: 858
+19:26:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017938851926734215 seconds, ingestion_rate: 49324.74290348743 byte/secnumber _of_messages: 861
+19:27:10,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0018260668957202544 seconds, ingestion_rate: 55301.90688092295 byte/secnumber _of_messages: 867
+19:27:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015944266225393726 seconds, ingestion_rate: 57674.16595542911 byte/secnumber _of_messages: 870
+19:27:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001792902164014516 seconds, ingestion_rate: 51057.00965440045 byte/secnumber _of_messages: 876
+19:28:40,325 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005957870981637679 seconds, ingestion_rate: 20696.752765016165 byte/secnumber _of_messages: 879
+19:28:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004753563466363157 seconds, ingestion_rate: 15366.338821745905 byte/secnumber _of_messages: 882
+19:29:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018768790746525707 seconds, ingestion_rate: 48810.11878009631 byte/secnumber _of_messages: 888
+19:29:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017116427841881387 seconds, ingestion_rate: 55855.571406704425 byte/secnumber _of_messages: 891
+19:29:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018988816074143777 seconds, ingestion_rate: 48121.383093762364 byte/secnumber _of_messages: 897
+19:29:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.011992469034239785 seconds, ingestion_rate: 4417.087687018835 byte/secnumber _of_messages: 900
+19:30:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019172246040410849 seconds, ingestion_rate: 54075.940723177235 byte/secnumber _of_messages: 906
+19:30:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017387694962509852 seconds, ingestion_rate: 51366.05405405405 byte/secnumber _of_messages: 909
+19:30:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016929243797555696 seconds, ingestion_rate: 54051.91053177307 byte/secnumber _of_messages: 915
+19:30:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018507134764703006 seconds, ingestion_rate: 48492.28544850498 byte/secnumber _of_messages: 918
+19:31:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019097903927311796 seconds, ingestion_rate: 50702.299291371404 byte/secnumber _of_messages: 924
+19:31:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019047630275307284 seconds, ingestion_rate: 49284.77147487844 byte/secnumber _of_messages: 927
+19:31:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017101770460062633 seconds, ingestion_rate: 51995.50413223141 byte/secnumber _of_messages: 933
+19:31:55,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.001716941667341359 seconds, ingestion_rate: 59820.70777001931 byte/secnumber _of_messages: 936
+19:32:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017422749672200402 seconds, ingestion_rate: 52151.55752465342 byte/secnumber _of_messages: 942
+19:32:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001814682211402383 seconds, ingestion_rate: 47291.919129082424 byte/secnumber _of_messages: 945
+19:32:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016955298515335241 seconds, ingestion_rate: 53583.61938325991 byte/secnumber _of_messages: 951
+19:32:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002207981575679972 seconds, ingestion_rate: 32644.878153515834 byte/secnumber _of_messages: 954
+19:33:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002739380843769017 seconds, ingestion_rate: 47451.81378413524 byte/secnumber _of_messages: 960
+19:33:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018449364909691739 seconds, ingestion_rate: 52451.40836567486 byte/secnumber _of_messages: 963
+19:33:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017869331855469121 seconds, ingestion_rate: 52869.378151260506 byte/secnumber _of_messages: 969
+19:33:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016976577343902634 seconds, ingestion_rate: 52769.9852494577 byte/secnumber _of_messages: 972
+19:34:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017459597163870335 seconds, ingestion_rate: 50317.76723662438 byte/secnumber _of_messages: 978
+19:34:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017919864005530178 seconds, ingestion_rate: 51678.86248406741 byte/secnumber _of_messages: 981
+19:34:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015612435926787 seconds, ingestion_rate: 62164.30119250426 byte/secnumber _of_messages: 987
+19:34:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017006793691440416 seconds, ingestion_rate: 50366.383436853 byte/secnumber _of_messages: 990
+19:35:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020209408040371473 seconds, ingestion_rate: 53536.45070422535 byte/secnumber _of_messages: 996
+19:35:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002035005095545537 seconds, ingestion_rate: 47377.882108543236 byte/secnumber _of_messages: 999
+19:35:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017556117102960759 seconds, ingestion_rate: 53364.20707809301 byte/secnumber _of_messages: 1005
+19:35:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028431883221549294 seconds, ingestion_rate: 22048.607129909367 byte/secnumber _of_messages: 1008
+19:36:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001930345580549418 seconds, ingestion_rate: 42401.16755751801 byte/secnumber _of_messages: 1014
+19:36:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001905395275052808 seconds, ingestion_rate: 45975.10999118055 byte/secnumber _of_messages: 1017
+19:36:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016560770832886363 seconds, ingestion_rate: 54897.61516473597 byte/secnumber _of_messages: 1023
+19:36:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001851471982441719 seconds, ingestion_rate: 48229.506740682 byte/secnumber _of_messages: 1026
+19:37:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001562616364441228 seconds, ingestion_rate: 59363.01415324549 byte/secnumber _of_messages: 1032
+19:37:25,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0018027749081802756 seconds, ingestion_rate: 52765.45459310706 byte/secnumber _of_messages: 1035
+19:37:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023610792532879118 seconds, ingestion_rate: 51150.04878048781 byte/secnumber _of_messages: 1041
+19:37:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002013924245726541 seconds, ingestion_rate: 44246.93197526373 byte/secnumber _of_messages: 1044
+19:38:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019355528448505245 seconds, ingestion_rate: 45527.6915782907 byte/secnumber _of_messages: 1050
+19:38:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001749882013778923 seconds, ingestion_rate: 48608.55841214866 byte/secnumber _of_messages: 1053
+19:38:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005805848304666284 seconds, ingestion_rate: 12318.697184525015 byte/secnumber _of_messages: 1059
+19:38:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024477986326114838 seconds, ingestion_rate: 44625.71211935918 byte/secnumber _of_messages: 1062
+19:39:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020508274867980067 seconds, ingestion_rate: 53995.92305415803 byte/secnumber _of_messages: 1068
+19:39:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001628064928388203 seconds, ingestion_rate: 59046.02718446602 byte/secnumber _of_messages: 1071
+19:39:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016554951639525532 seconds, ingestion_rate: 52815.81241858446 byte/secnumber _of_messages: 1077
+19:39:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005094964801911916 seconds, ingestion_rate: 14167.195247893776 byte/secnumber _of_messages: 1080
+19:40:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020688020856995818 seconds, ingestion_rate: 45721.6449066533 byte/secnumber _of_messages: 1086
+19:40:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016994531411903529 seconds, ingestion_rate: 52686.17499278083 byte/secnumber _of_messages: 1089
+19:40:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019432977702763202 seconds, ingestion_rate: 47482.68679245283 byte/secnumber _of_messages: 1095
+19:40:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022060508016068054 seconds, ingestion_rate: 47420.98089668616 byte/secnumber _of_messages: 1098
+19:41:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001831318615754629 seconds, ingestion_rate: 49471.861171366596 byte/secnumber _of_messages: 1104
+19:41:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018459888397256764 seconds, ingestion_rate: 45397.418263249565 byte/secnumber _of_messages: 1107
+19:41:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001691861593627992 seconds, ingestion_rate: 51833.01818181818 byte/secnumber _of_messages: 1113
+19:41:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019093806102752763 seconds, ingestion_rate: 48178.56456297861 byte/secnumber _of_messages: 1116
+19:42:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018785987896144391 seconds, ingestion_rate: 46543.93469387755 byte/secnumber _of_messages: 1122
+19:42:25,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0019157354360125958 seconds, ingestion_rate: 50075.01355552792 byte/secnumber _of_messages: 1125
+19:42:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018358162671409895 seconds, ingestion_rate: 47273.53905946366 byte/secnumber _of_messages: 1131
+19:42:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018671146485964812 seconds, ingestion_rate: 43508.3400500775 byte/secnumber _of_messages: 1134
+19:43:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005529106581356625 seconds, ingestion_rate: 12777.213767989075 byte/secnumber _of_messages: 1140
+19:43:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002662561948615623 seconds, ingestion_rate: 50836.50710504319 byte/secnumber _of_messages: 1143
+19:43:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001915326693025702 seconds, ingestion_rate: 49471.861171366596 byte/secnumber _of_messages: 1149
+19:43:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018213231089670798 seconds, ingestion_rate: 50992.79597540526 byte/secnumber _of_messages: 1152
+19:44:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017055130854294934 seconds, ingestion_rate: 52557.17240386 byte/secnumber _of_messages: 1158
+19:44:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017887783156713625 seconds, ingestion_rate: 53686.10386935413 byte/secnumber _of_messages: 1161
+19:44:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020077142121066663 seconds, ingestion_rate: 40803.35994632674 byte/secnumber _of_messages: 1167
+19:44:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001789479367455716 seconds, ingestion_rate: 48686.38398932622 byte/secnumber _of_messages: 1170
+19:45:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015543051826538033 seconds, ingestion_rate: 69824.8082663605 byte/secnumber _of_messages: 1176
+19:45:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030131706131942743 seconds, ingestion_rate: 44332.942291337626 byte/secnumber _of_messages: 1179
+19:45:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017387090383306266 seconds, ingestion_rate: 54872.84932330827 byte/secnumber _of_messages: 1185
+19:45:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002225478716919014 seconds, ingestion_rate: 33011.077257101504 byte/secnumber _of_messages: 1188
+19:46:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015900557275276195 seconds, ingestion_rate: 68398.20955951266 byte/secnumber _of_messages: 1194
+19:46:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017869227259812357 seconds, ingestion_rate: 47906.58369436786 byte/secnumber _of_messages: 1197
+19:46:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019946094495701568 seconds, ingestion_rate: 46698.803173790635 byte/secnumber _of_messages: 1203
+19:46:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001958846997999248 seconds, ingestion_rate: 41074.34128770824 byte/secnumber _of_messages: 1206
+19:47:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001784712075438709 seconds, ingestion_rate: 49939.02394963733 byte/secnumber _of_messages: 1212
+19:47:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001887518912460234 seconds, ingestion_rate: 48505.17718995082 byte/secnumber _of_messages: 1215
+19:47:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017285005305879102 seconds, ingestion_rate: 52511.792775938986 byte/secnumber _of_messages: 1221
+19:47:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018633859363033473 seconds, ingestion_rate: 50200.08914568716 byte/secnumber _of_messages: 1224
+19:48:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020204618837169593 seconds, ingestion_rate: 40712.31150284503 byte/secnumber _of_messages: 1230
+19:48:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017212757873750202 seconds, ingestion_rate: 54996.90248681236 byte/secnumber _of_messages: 1233
+19:48:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002460060842037537 seconds, ingestion_rate: 31883.306946264744 byte/secnumber _of_messages: 1239
+19:48:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002090461344420952 seconds, ingestion_rate: 40495.44423482411 byte/secnumber _of_messages: 1242
+19:49:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016922132312459878 seconds, ingestion_rate: 53061.5745237749 byte/secnumber _of_messages: 1248
+19:49:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016912119604548207 seconds, ingestion_rate: 53200.823443650675 byte/secnumber _of_messages: 1251
+19:49:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015808100144959372 seconds, ingestion_rate: 58459.53989106056 byte/secnumber _of_messages: 1257
+19:49:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033907412817192188 seconds, ingestion_rate: 27623.349583648753 byte/secnumber _of_messages: 1260
+19:50:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015477195371720197 seconds, ingestion_rate: 54099.99229058562 byte/secnumber _of_messages: 1266
+19:50:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018538417293321714 seconds, ingestion_rate: 50893.228451882846 byte/secnumber _of_messages: 1269
+19:50:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018114618054803642 seconds, ingestion_rate: 48927.92276749799 byte/secnumber _of_messages: 1275
+19:50:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017702228276900503 seconds, ingestion_rate: 50935.85259631491 byte/secnumber _of_messages: 1278
+19:51:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021463999624813782 seconds, ingestion_rate: 41372.38639455782 byte/secnumber _of_messages: 1284
+19:51:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001836259780771598 seconds, ingestion_rate: 48172.20435643564 byte/secnumber _of_messages: 1287
+19:51:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016783804883939379 seconds, ingestion_rate: 54422.736465324386 byte/secnumber _of_messages: 1293
+19:51:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001966823279738207 seconds, ingestion_rate: 46872.76146435453 byte/secnumber _of_messages: 1296
+19:52:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017932111574318226 seconds, ingestion_rate: 62270.38361774744 byte/secnumber _of_messages: 1302
+19:52:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017533979633587873 seconds, ingestion_rate: 49863.95845859525 byte/secnumber _of_messages: 1305
+19:52:40,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.001867250666362448 seconds, ingestion_rate: 47952.028581636296 byte/secnumber _of_messages: 1311
+19:52:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018877928536810483 seconds, ingestion_rate: 48941.04721030043 byte/secnumber _of_messages: 1314
+19:53:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002097245220532141 seconds, ingestion_rate: 56251.64914444273 byte/secnumber _of_messages: 1320
+19:53:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018710936313110244 seconds, ingestion_rate: 45704.46492985972 byte/secnumber _of_messages: 1323
+19:53:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018231158536008833 seconds, ingestion_rate: 49458.450528598536 byte/secnumber _of_messages: 1329
+19:53:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016832262908584356 seconds, ingestion_rate: 54798.685688541824 byte/secnumber _of_messages: 1332
+19:54:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001885130862759995 seconds, ingestion_rate: 45715.916812828866 byte/secnumber _of_messages: 1338
+19:54:25,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0033358875488697795 seconds, ingestion_rate: 43567.754165764985 byte/secnumber _of_messages: 1341
+19:54:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019142282250887703 seconds, ingestion_rate: 48868.949779027724 byte/secnumber _of_messages: 1347
+19:54:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017148511141956667 seconds, ingestion_rate: 53788.981132075474 byte/secnumber _of_messages: 1350
+19:55:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001842959250836355 seconds, ingestion_rate: 51951.08883826879 byte/secnumber _of_messages: 1356
+19:55:25,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0020438114213234167 seconds, ingestion_rate: 46017.50674285714 byte/secnumber _of_messages: 1359
+19:55:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017655989766854885 seconds, ingestion_rate: 46514.269980879544 byte/secnumber _of_messages: 1365
+19:55:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018794971361848073 seconds, ingestion_rate: 44527.69347162904 byte/secnumber _of_messages: 1368
+19:56:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019938542781631962 seconds, ingestion_rate: 44097.214259818735 byte/secnumber _of_messages: 1374
+19:56:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018694350413774553 seconds, ingestion_rate: 50624.923418423976 byte/secnumber _of_messages: 1377
+19:56:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023357532131366046 seconds, ingestion_rate: 47569.345326554554 byte/secnumber _of_messages: 1383
+19:56:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018172520114443217 seconds, ingestion_rate: 50117.353110836426 byte/secnumber _of_messages: 1386
+19:57:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017721545226149595 seconds, ingestion_rate: 49884.40847573479 byte/secnumber _of_messages: 1392
+19:57:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018062578082925682 seconds, ingestion_rate: 49579.40869565217 byte/secnumber _of_messages: 1395
+19:57:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001826424130612436 seconds, ingestion_rate: 47476.50897736144 byte/secnumber _of_messages: 1401
+19:57:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016752355705715496 seconds, ingestion_rate: 54601.89256322011 byte/secnumber _of_messages: 1404
+19:58:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017638409407980387 seconds, ingestion_rate: 52769.9852494577 byte/secnumber _of_messages: 1410
+19:58:25,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0017593826387331778 seconds, ingestion_rate: 58790.06920718353 byte/secnumber _of_messages: 1413
+19:58:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00493884975328732 seconds, ingestion_rate: 14837.736266417272 byte/secnumber _of_messages: 1419
+19:58:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021633516930226093 seconds, ingestion_rate: 50695.25534870797 byte/secnumber _of_messages: 1422
+19:59:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018159141937622856 seconds, ingestion_rate: 51423.96392333709 byte/secnumber _of_messages: 1428
+19:59:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020297019531295875 seconds, ingestion_rate: 48993.61546723953 byte/secnumber _of_messages: 1431
+19:59:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030798583739281415 seconds, ingestion_rate: 19512.563392331962 byte/secnumber _of_messages: 1437
+19:59:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001838948199069509 seconds, ingestion_rate: 53956.00295726748 byte/secnumber _of_messages: 1440
+20:00:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019199516914306211 seconds, ingestion_rate: 41414.64623765747 byte/secnumber _of_messages: 1446
+20:00:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017086822110168403 seconds, ingestion_rate: 60645.57885989696 byte/secnumber _of_messages: 1449
+20:00:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020131272548153875 seconds, ingestion_rate: 48460.08605577689 byte/secnumber _of_messages: 1455
+20:00:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005604793658774531 seconds, ingestion_rate: 13154.450180245134 byte/secnumber _of_messages: 1458
+20:01:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017353229539922351 seconds, ingestion_rate: 53512.89749230092 byte/secnumber _of_messages: 1464
+20:01:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019127867223984435 seconds, ingestion_rate: 47956.95203049021 byte/secnumber _of_messages: 1467
+20:01:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017249837853048097 seconds, ingestion_rate: 52907.70595911266 byte/secnumber _of_messages: 1473
+20:01:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018041463610720368 seconds, ingestion_rate: 50596.84525790349 byte/secnumber _of_messages: 1476
+20:02:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016918075766370814 seconds, ingestion_rate: 52640.57241777265 byte/secnumber _of_messages: 1482
+20:02:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017285631682252651 seconds, ingestion_rate: 53788.981132075474 byte/secnumber _of_messages: 1485
+20:02:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017538522161943463 seconds, ingestion_rate: 52406.21111589832 byte/secnumber _of_messages: 1491
+20:02:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001719629447632814 seconds, ingestion_rate: 52233.674205553965 byte/secnumber _of_messages: 1494
+20:03:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001506707253570572 seconds, ingestion_rate: 64539.166607711355 byte/secnumber _of_messages: 1500
+20:03:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018200155574226399 seconds, ingestion_rate: 45653.002377079945 byte/secnumber _of_messages: 1503
+20:03:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017132487093380095 seconds, ingestion_rate: 52808.16903039074 byte/secnumber _of_messages: 1509
+20:03:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017035271499923244 seconds, ingestion_rate: 52451.40836567486 byte/secnumber _of_messages: 1512
+20:04:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005973082448316073 seconds, ingestion_rate: 12495.871789603452 byte/secnumber _of_messages: 1518
+20:04:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002391544687905964 seconds, ingestion_rate: 43373.87947224533 byte/secnumber _of_messages: 1521
+20:04:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018387059325377 seconds, ingestion_rate: 46231.40098821741 byte/secnumber _of_messages: 1527
+20:04:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001693638910283643 seconds, ingestion_rate: 53216.34067376404 byte/secnumber _of_messages: 1530
+20:05:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017167428003846048 seconds, ingestion_rate: 56548.03161320316 byte/secnumber _of_messages: 1536
+20:05:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001705901062328349 seconds, ingestion_rate: 53216.34067376404 byte/secnumber _of_messages: 1539
+20:05:40,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0016563239233543278 seconds, ingestion_rate: 63439.921852843865 byte/secnumber _of_messages: 1545
+20:05:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019291676895922647 seconds, ingestion_rate: 42889.56840620592 byte/secnumber _of_messages: 1548
+20:06:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015886556944144055 seconds, ingestion_rate: 59170.49586508837 byte/secnumber _of_messages: 1554
+20:06:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001709172276666913 seconds, ingestion_rate: 51708.154739974496 byte/secnumber _of_messages: 1557
+20:06:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017803713236626728 seconds, ingestion_rate: 50624.923418423976 byte/secnumber _of_messages: 1563
+20:06:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001863760309348215 seconds, ingestion_rate: 45601.65558610347 byte/secnumber _of_messages: 1566
+20:07:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017924948681911097 seconds, ingestion_rate: 48318.91525423729 byte/secnumber _of_messages: 1572
+20:07:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018482288240085078 seconds, ingestion_rate: 45613.056 byte/secnumber _of_messages: 1575
+20:07:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019292460141683153 seconds, ingestion_rate: 40143.50363036303 byte/secnumber _of_messages: 1581
+20:07:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020028306327524847 seconds, ingestion_rate: 46770.62906946937 byte/secnumber _of_messages: 1584
+20:08:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017713810523386161 seconds, ingestion_rate: 51627.68081494058 byte/secnumber _of_messages: 1590
+20:08:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001733890492717864 seconds, ingestion_rate: 52617.80072098054 byte/secnumber _of_messages: 1593
+20:08:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018114315861060043 seconds, ingestion_rate: 49224.935653581546 byte/secnumber _of_messages: 1599
+20:08:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00185447021565827 seconds, ingestion_rate: 48947.61207243461 byte/secnumber _of_messages: 1602
+20:09:10,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0017441891574986887 seconds, ingestion_rate: 55699.70729008161 byte/secnumber _of_messages: 1608
+20:09:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001747627841235798 seconds, ingestion_rate: 48146.7803140256 byte/secnumber _of_messages: 1611
+20:09:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017861503453739237 seconds, ingestion_rate: 52173.92736631398 byte/secnumber _of_messages: 1617
+20:09:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021984177094162474 seconds, ingestion_rate: 49324.74290348743 byte/secnumber _of_messages: 1620
+20:10:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001617732764006687 seconds, ingestion_rate: 56382.02224969098 byte/secnumber _of_messages: 1626
+20:10:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018376190365256163 seconds, ingestion_rate: 44883.69594095941 byte/secnumber _of_messages: 1629
+20:10:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005286412436050831 seconds, ingestion_rate: 12815.356044110416 byte/secnumber _of_messages: 1635
+20:10:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022509938724690004 seconds, ingestion_rate: 48875.49531208144 byte/secnumber _of_messages: 1638
+20:11:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018001062892499275 seconds, ingestion_rate: 51185.92341141815 byte/secnumber _of_messages: 1644
+20:11:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017269907298513092 seconds, ingestion_rate: 56095.99508070715 byte/secnumber _of_messages: 1647
+20:11:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019603502904108846 seconds, ingestion_rate: 43969.688878178094 byte/secnumber _of_messages: 1653
+20:11:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003777006419434295 seconds, ingestion_rate: 30350.53214671879 byte/secnumber _of_messages: 1656
+20:12:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001842166904855739 seconds, ingestion_rate: 47310.313496693896 byte/secnumber _of_messages: 1662
+20:12:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016559841638119233 seconds, ingestion_rate: 55710.6027480916 byte/secnumber _of_messages: 1665
+20:12:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003311685103931326 seconds, ingestion_rate: 56794.46661478599 byte/secnumber _of_messages: 1671
+20:12:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006363755884115684 seconds, ingestion_rate: 11358.893322957198 byte/secnumber _of_messages: 1674
+20:13:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017184485746911538 seconds, ingestion_rate: 56856.41134309754 byte/secnumber _of_messages: 1680
+20:13:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001723191014844817 seconds, ingestion_rate: 47806.16376260972 byte/secnumber _of_messages: 1683
+20:13:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001760246556126802 seconds, ingestion_rate: 49338.081124932396 byte/secnumber _of_messages: 1689
+20:13:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017663839212461968 seconds, ingestion_rate: 49311.41189189189 byte/secnumber _of_messages: 1692
+20:14:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001743569043079088 seconds, ingestion_rate: 53154.32600145666 byte/secnumber _of_messages: 1698
+20:14:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001704098540892088 seconds, ingestion_rate: 53583.61938325991 byte/secnumber _of_messages: 1701
+20:14:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019896086578311692 seconds, ingestion_rate: 46526.13132729823 byte/secnumber _of_messages: 1707
+20:14:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020878023967735738 seconds, ingestion_rate: 40303.119946984756 byte/secnumber _of_messages: 1710
+20:15:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018698084277808554 seconds, ingestion_rate: 53505.05102639296 byte/secnumber _of_messages: 1716
+20:15:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016384585192166256 seconds, ingestion_rate: 52823.45801968732 byte/secnumber _of_messages: 1719
+20:15:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016798048955238773 seconds, ingestion_rate: 53607.2349052446 byte/secnumber _of_messages: 1725
+20:15:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016050819275532776 seconds, ingestion_rate: 51049.86681589256 byte/secnumber _of_messages: 1728
+20:16:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021190464554319693 seconds, ingestion_rate: 42589.22128851541 byte/secnumber _of_messages: 1734
+20:16:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017845310277999678 seconds, ingestion_rate: 51489.26880203189 byte/secnumber _of_messages: 1737
+20:16:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016667539836020227 seconds, ingestion_rate: 58328.71611253197 byte/secnumber _of_messages: 1743
+20:16:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016938708096873134 seconds, ingestion_rate: 51591.18450445356 byte/secnumber _of_messages: 1746
+20:17:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001811435852619092 seconds, ingestion_rate: 51973.28699615439 byte/secnumber _of_messages: 1752
+20:17:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018953297329659363 seconds, ingestion_rate: 46484.64305732484 byte/secnumber _of_messages: 1755
+20:17:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016498028825234546 seconds, ingestion_rate: 55898.35294117647 byte/secnumber _of_messages: 1761
+20:17:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017857484468632833 seconds, ingestion_rate: 51337.148002250986 byte/secnumber _of_messages: 1764
+20:18:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001931026473096283 seconds, ingestion_rate: 49945.85929373118 byte/secnumber _of_messages: 1770
+20:18:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016010496634308586 seconds, ingestion_rate: 65914.82080924856 byte/secnumber _of_messages: 1773
+20:18:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00173954028266492 seconds, ingestion_rate: 51394.99267605634 byte/secnumber _of_messages: 1779
+20:18:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018753457297606053 seconds, ingestion_rate: 44054.6236870699 byte/secnumber _of_messages: 1782
+20:19:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002062263973413847 seconds, ingestion_rate: 47224.59531512877 byte/secnumber _of_messages: 1788
+20:19:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021449256549103735 seconds, ingestion_rate: 44966.66025878004 byte/secnumber _of_messages: 1791
+20:19:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017027984196472659 seconds, ingestion_rate: 54124.065262533375 byte/secnumber _of_messages: 1797
+20:19:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017221884197807374 seconds, ingestion_rate: 52785.25213366122 byte/secnumber _of_messages: 1800
+20:20:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016727238214680553 seconds, ingestion_rate: 53536.45070422535 byte/secnumber _of_messages: 1806
+20:20:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018261346881174667 seconds, ingestion_rate: 48505.17718995082 byte/secnumber _of_messages: 1809
+20:20:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023081129939366497 seconds, ingestion_rate: 30518.060383039225 byte/secnumber _of_messages: 1815
+20:20:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001722363458958878 seconds, ingestion_rate: 58272.827850526985 byte/secnumber _of_messages: 1818
+20:21:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018659424630752394 seconds, ingestion_rate: 48550.3523150612 byte/secnumber _of_messages: 1824
+20:21:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002084563074608038 seconds, ingestion_rate: 38687.91857506361 byte/secnumber _of_messages: 1827
+20:21:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001964588803209665 seconds, ingestion_rate: 46740.67477904445 byte/secnumber _of_messages: 1833
+20:21:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004306855281462 seconds, ingestion_rate: 13056.549592099613 byte/secnumber _of_messages: 1836
+20:22:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019048164052309735 seconds, ingestion_rate: 51474.742276766825 byte/secnumber _of_messages: 1842
+20:22:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018899255713142721 seconds, ingestion_rate: 46050.53609288238 byte/secnumber _of_messages: 1845
+20:22:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017134879618267184 seconds, ingestion_rate: 52915.37819025522 byte/secnumber _of_messages: 1851
+20:22:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019516613904309765 seconds, ingestion_rate: 42078.464944649444 byte/secnumber _of_messages: 1854
+20:23:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020632738663871964 seconds, ingestion_rate: 48960.74708171206 byte/secnumber _of_messages: 1860
+20:23:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017779766866827989 seconds, ingestion_rate: 51958.486117044 byte/secnumber _of_messages: 1863
+20:23:40,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.001843781675133334 seconds, ingestion_rate: 53679.93387548327 byte/secnumber _of_messages: 1869
+20:23:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017779284970503581 seconds, ingestion_rate: 50456.9203539823 byte/secnumber _of_messages: 1872
+20:24:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003066078471418069 seconds, ingestion_rate: 48908.249296340975 byte/secnumber _of_messages: 1878
+20:24:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002915324723630628 seconds, ingestion_rate: 31063.628841406316 byte/secnumber _of_messages: 1881
+20:24:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0014990857174605981 seconds, ingestion_rate: 58572.14253611557 byte/secnumber _of_messages: 1887
+20:24:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016744619971837955 seconds, ingestion_rate: 52953.77274706138 byte/secnumber _of_messages: 1890
+20:25:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005786658088313922 seconds, ingestion_rate: 12776.319036448303 byte/secnumber _of_messages: 1896
+20:25:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022050739278330635 seconds, ingestion_rate: 54188.36471636472 byte/secnumber _of_messages: 1899
+20:25:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017588352799259347 seconds, ingestion_rate: 52511.792775938986 byte/secnumber _of_messages: 1905
+20:25:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018977847650627634 seconds, ingestion_rate: 45911.48062405636 byte/secnumber _of_messages: 1908
+20:26:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001880339854327 seconds, ingestion_rate: 45172.622926466946 byte/secnumber _of_messages: 1914
+20:26:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001874468236337994 seconds, ingestion_rate: 48108.69452867502 byte/secnumber _of_messages: 1917
+20:26:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018006343007890336 seconds, ingestion_rate: 54003.91416309013 byte/secnumber _of_messages: 1923
+20:26:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019373419180612756 seconds, ingestion_rate: 43353.266959724366 byte/secnumber _of_messages: 1926
+20:27:10,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0018524706399302635 seconds, ingestion_rate: 54273.24221593206 byte/secnumber _of_messages: 1932
+20:27:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019331522290391345 seconds, ingestion_rate: 46102.899305116865 byte/secnumber _of_messages: 1935
+20:27:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019535803352552198 seconds, ingestion_rate: 49324.74290348743 byte/secnumber _of_messages: 1941
+20:28:10,324 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005567782516504863 seconds, ingestion_rate: 9930.994121489222 byte/secnumber _of_messages: 1950
+20:28:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021206728363068823 seconds, ingestion_rate: 54905.87541378273 byte/secnumber _of_messages: 1953
+20:28:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005272838274240544 seconds, ingestion_rate: 13713.572400315683 byte/secnumber _of_messages: 1959
+20:28:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019959177573025287 seconds, ingestion_rate: 60175.53562005277 byte/secnumber _of_messages: 1962
+20:29:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015466566601139494 seconds, ingestion_rate: 57948.935683658885 byte/secnumber _of_messages: 1968
+20:29:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001601313001398521 seconds, ingestion_rate: 54148.15966760647 byte/secnumber _of_messages: 1971
+20:29:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015328243133687146 seconds, ingestion_rate: 57365.89341298538 byte/secnumber _of_messages: 1977
+20:29:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005131904219056954 seconds, ingestion_rate: 13952.146822665749 byte/secnumber _of_messages: 1980
+20:30:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001702166223502187 seconds, ingestion_rate: 53505.05102639296 byte/secnumber _of_messages: 1986
+20:30:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015224040329426562 seconds, ingestion_rate: 60514.83383084577 byte/secnumber _of_messages: 1989
+20:30:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017383337964303326 seconds, ingestion_rate: 51366.05405405405 byte/secnumber _of_messages: 1995
+20:30:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015469521402032057 seconds, ingestion_rate: 60066.57580246914 byte/secnumber _of_messages: 1998
+20:31:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016593016220236676 seconds, ingestion_rate: 56303.725968214785 byte/secnumber _of_messages: 2004
+20:31:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001517075760080229 seconds, ingestion_rate: 62806.27332185886 byte/secnumber _of_messages: 2007
+20:31:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0014255608503848595 seconds, ingestion_rate: 69664.843069874 byte/secnumber _of_messages: 2013
+20:31:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016137133710686152 seconds, ingestion_rate: 53717.71647283969 byte/secnumber _of_messages: 2016
+20:32:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020662486718860513 seconds, ingestion_rate: 39308.89238392761 byte/secnumber _of_messages: 2022
+20:32:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016703747233595358 seconds, ingestion_rate: 57820.38472508319 byte/secnumber _of_messages: 2025
+20:32:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017058292753386714 seconds, ingestion_rate: 49939.02394963733 byte/secnumber _of_messages: 2031
+20:32:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001642458634164038 seconds, ingestion_rate: 53185.31526016616 byte/secnumber _of_messages: 2034
+20:33:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024168862805482327 seconds, ingestion_rate: 30222.332946827893 byte/secnumber _of_messages: 2040
+20:33:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016998993096962146 seconds, ingestion_rate: 53892.25343376163 byte/secnumber _of_messages: 2043
+20:33:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024759355726624134 seconds, ingestion_rate: 34131.928538022636 byte/secnumber _of_messages: 2049
+20:33:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015245326303291395 seconds, ingestion_rate: 67863.94792635298 byte/secnumber _of_messages: 2052
+20:34:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001693861012568772 seconds, ingestion_rate: 57692.4028458498 byte/secnumber _of_messages: 2058
+20:34:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002117263317717947 seconds, ingestion_rate: 37653.95191414715 byte/secnumber _of_messages: 2061
+20:34:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001586472414443484 seconds, ingestion_rate: 54414.6209364748 byte/secnumber _of_messages: 2067
+20:34:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001568142998033463 seconds, ingestion_rate: 59392.0 byte/secnumber _of_messages: 2070
+20:35:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015715258883283426 seconds, ingestion_rate: 57765.46588570524 byte/secnumber _of_messages: 2076
+20:35:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016110377704953885 seconds, ingestion_rate: 56286.35631652013 byte/secnumber _of_messages: 2079
+20:35:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001619503580648228 seconds, ingestion_rate: 52992.22306128377 byte/secnumber _of_messages: 2085
+20:35:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001560827802012181 seconds, ingestion_rate: 59007.83441138422 byte/secnumber _of_messages: 2088
+20:36:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015789813782769847 seconds, ingestion_rate: 58004.2041010968 byte/secnumber _of_messages: 2094
+20:36:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015812733146796426 seconds, ingestion_rate: 57884.58883248731 byte/secnumber _of_messages: 2097
+20:36:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016113383359791862 seconds, ingestion_rate: 57311.834144809174 byte/secnumber _of_messages: 2103
+20:36:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0035320056327566756 seconds, ingestion_rate: 34792.56750572082 byte/secnumber _of_messages: 2106
+20:37:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.010802195613658033 seconds, ingestion_rate: 6709.0356315499175 byte/secnumber _of_messages: 2112
+20:37:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029175189814313754 seconds, ingestion_rate: 49351.42656207736 byte/secnumber _of_messages: 2115
+20:37:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006641879534475109 seconds, ingestion_rate: 14482.634068899826 byte/secnumber _of_messages: 2121
+20:37:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033069569438388077 seconds, ingestion_rate: 29062.157374960178 byte/secnumber _of_messages: 2124
+20:38:10,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024706884575537253 seconds, ingestion_rate: 32679.961311123054 byte/secnumber _of_messages: 2130
+20:38:25,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002415711238392336 seconds, ingestion_rate: 36814.41162227603 byte/secnumber _of_messages: 2133
+20:38:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004512210292033978 seconds, ingestion_rate: 29932.281847264374 byte/secnumber _of_messages: 2139
+20:38:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0030851239465689443 seconds, ingestion_rate: 32621.53119971393 byte/secnumber _of_messages: 2142
+20:39:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018684824843316894 seconds, ingestion_rate: 49673.89708684999 byte/secnumber _of_messages: 2148
+20:39:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00216510842913277 seconds, ingestion_rate: 40940.69875462807 byte/secnumber _of_messages: 2151
+20:39:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016911555936364282 seconds, ingestion_rate: 54823.38461538462 byte/secnumber _of_messages: 2157
+20:39:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004748708625764002 seconds, ingestion_rate: 20929.4205907657 byte/secnumber _of_messages: 2160
+20:40:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031573084279294178 seconds, ingestion_rate: 35431.05621905039 byte/secnumber _of_messages: 2166
+20:40:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004580459337487759 seconds, ingestion_rate: 31811.04071135908 byte/secnumber _of_messages: 2169
+20:40:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005663528438363456 seconds, ingestion_rate: 16745.649488320865 byte/secnumber _of_messages: 2175
+20:40:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033566820616466285 seconds, ingestion_rate: 27094.18235818236 byte/secnumber _of_messages: 2178
+20:41:10,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006031196359537142 seconds, ingestion_rate: 8950.75667189953 byte/secnumber _of_messages: 2184
+20:41:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024999580089924357 seconds, ingestion_rate: 42283.250057937425 byte/secnumber _of_messages: 2187
+20:41:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017537384624665567 seconds, ingestion_rate: 53979.94792899409 byte/secnumber _of_messages: 2193
+20:41:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020633552148365177 seconds, ingestion_rate: 44642.0905309518 byte/secnumber _of_messages: 2196
+20:42:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005996891629066354 seconds, ingestion_rate: 30102.66028708134 byte/secnumber _of_messages: 2202
+20:42:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00381668765984057 seconds, ingestion_rate: 22338.809182736455 byte/secnumber _of_messages: 2205
+20:42:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033042257589042928 seconds, ingestion_rate: 37766.968329538395 byte/secnumber _of_messages: 2211
+20:42:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002410052040740112 seconds, ingestion_rate: 39620.46123778501 byte/secnumber _of_messages: 2214
+20:43:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002189939807782637 seconds, ingestion_rate: 40174.44104370803 byte/secnumber _of_messages: 2220
+20:43:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025233409790856227 seconds, ingestion_rate: 36061.31514971835 byte/secnumber _of_messages: 2223
+20:43:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002245160412646617 seconds, ingestion_rate: 39127.648295089 byte/secnumber _of_messages: 2229
+20:43:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024687911659301925 seconds, ingestion_rate: 35297.392919326754 byte/secnumber _of_messages: 2232
+20:44:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023288237328172685 seconds, ingestion_rate: 36829.27412192168 byte/secnumber _of_messages: 2238
+20:44:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023507414668157817 seconds, ingestion_rate: 39483.27721272452 byte/secnumber _of_messages: 2241
+20:44:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029876035613463497 seconds, ingestion_rate: 34272.98281205974 byte/secnumber _of_messages: 2247
+20:44:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002536055969231404 seconds, ingestion_rate: 34935.801627573004 byte/secnumber _of_messages: 2250
+20:45:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002481415829419982 seconds, ingestion_rate: 34369.826504662335 byte/secnumber _of_messages: 2256
+20:45:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002804482350915657 seconds, ingestion_rate: 30874.392757424484 byte/secnumber _of_messages: 2259
+20:45:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002970322413527872 seconds, ingestion_rate: 43092.16438356164 byte/secnumber _of_messages: 2265
+20:45:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002419782733331609 seconds, ingestion_rate: 40876.49243866921 byte/secnumber _of_messages: 2268
+20:46:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022838052526024865 seconds, ingestion_rate: 41316.17391304348 byte/secnumber _of_messages: 2274
+20:46:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001864760324544061 seconds, ingestion_rate: 53069.29144851658 byte/secnumber _of_messages: 2277
+20:46:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026721260387013723 seconds, ingestion_rate: 32706.323205162676 byte/secnumber _of_messages: 2283
+20:46:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0051906022111365 seconds, ingestion_rate: 21123.267612156294 byte/secnumber _of_messages: 2286
+20:47:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002415072037341366 seconds, ingestion_rate: 37144.182410423455 byte/secnumber _of_messages: 2292
+20:47:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026117726059707714 seconds, ingestion_rate: 32412.901758749333 byte/secnumber _of_messages: 2295
+20:47:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002426577986360765 seconds, ingestion_rate: 36251.18696602424 byte/secnumber _of_messages: 2301
+20:47:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025173069761545925 seconds, ingestion_rate: 35212.24047090611 byte/secnumber _of_messages: 2304
+20:48:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002068133468625371 seconds, ingestion_rate: 51671.54460492778 byte/secnumber _of_messages: 2310
+20:48:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007501643314361253 seconds, ingestion_rate: 7200.877118894919 byte/secnumber _of_messages: 2313
+20:48:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002146941321194167 seconds, ingestion_rate: 46219.68942368588 byte/secnumber _of_messages: 2319
+20:48:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018672026566043491 seconds, ingestion_rate: 47818.69322500328 byte/secnumber _of_messages: 2322
+20:49:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023350887580640845 seconds, ingestion_rate: 37487.61536881036 byte/secnumber _of_messages: 2328
+20:49:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024055264031381373 seconds, ingestion_rate: 36567.23599559074 byte/secnumber _of_messages: 2331
+20:49:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006153771687354102 seconds, ingestion_rate: 11260.397704128865 byte/secnumber _of_messages: 2337
+20:49:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031083759428070803 seconds, ingestion_rate: 32945.50812567714 byte/secnumber _of_messages: 2340
+20:50:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002119177854248954 seconds, ingestion_rate: 43895.63911945146 byte/secnumber _of_messages: 2346
+20:50:25,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.002587690238678092 seconds, ingestion_rate: 37213.78780036968 byte/secnumber _of_messages: 2349
+20:50:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036247877758698484 seconds, ingestion_rate: 34042.769661349004 byte/secnumber _of_messages: 2355
+20:50:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006078644450529873 seconds, ingestion_rate: 14681.329631864815 byte/secnumber _of_messages: 2358
+20:51:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027536328238749325 seconds, ingestion_rate: 36870.207941800545 byte/secnumber _of_messages: 2364
+20:51:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002576845084658561 seconds, ingestion_rate: 35631.72033981056 byte/secnumber _of_messages: 2367
+20:51:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003925521193615957 seconds, ingestion_rate: 16247.582171957789 byte/secnumber _of_messages: 2373
+20:51:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002443993963136321 seconds, ingestion_rate: 40698.689270577735 byte/secnumber _of_messages: 2376
+20:52:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005489937415926004 seconds, ingestion_rate: 10893.320437041017 byte/secnumber _of_messages: 2382
+20:52:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00936423142145181 seconds, ingestion_rate: 6511.96459418945 byte/secnumber _of_messages: 2385
+20:52:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004914885138377253 seconds, ingestion_rate: 30110.11205545012 byte/secnumber _of_messages: 2391
+20:52:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002734140229089149 seconds, ingestion_rate: 36374.04784688995 byte/secnumber _of_messages: 2394
+20:53:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027185708854326213 seconds, ingestion_rate: 38386.750262991794 byte/secnumber _of_messages: 2400
+20:53:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00241808631238501 seconds, ingestion_rate: 39415.04082955282 byte/secnumber _of_messages: 2403
+20:53:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022321760248109014 seconds, ingestion_rate: 50653.03275957801 byte/secnumber _of_messages: 2409
+20:53:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022306270846595903 seconds, ingestion_rate: 42950.146892655364 byte/secnumber _of_messages: 2412
+20:54:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021147352758932713 seconds, ingestion_rate: 40757.78487657768 byte/secnumber _of_messages: 2418
+20:54:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001783962328035243 seconds, ingestion_rate: 54011.907637655415 byte/secnumber _of_messages: 2421
+20:54:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017637814593625348 seconds, ingestion_rate: 53630.87125220458 byte/secnumber _of_messages: 2427
+20:54:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023612927088180217 seconds, ingestion_rate: 37166.88205337136 byte/secnumber _of_messages: 2430
+20:55:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029153711328423256 seconds, ingestion_rate: 32671.183454203598 byte/secnumber _of_messages: 2436
+20:55:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002594171548007879 seconds, ingestion_rate: 35562.26956436995 byte/secnumber _of_messages: 2439
+20:55:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003237909615414201 seconds, ingestion_rate: 45905.70486853692 byte/secnumber _of_messages: 2445
+20:55:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026855104342570976 seconds, ingestion_rate: 34415.20777138546 byte/secnumber _of_messages: 2448
+20:56:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002343292710022801 seconds, ingestion_rate: 39127.648295089 byte/secnumber _of_messages: 2454
+20:56:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025448346730118834 seconds, ingestion_rate: 38540.81622306717 byte/secnumber _of_messages: 2457
+20:56:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0053029500329805634 seconds, ingestion_rate: 11130.565153733529 byte/secnumber _of_messages: 2463
+20:56:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028688068549373898 seconds, ingestion_rate: 35855.79718974158 byte/secnumber _of_messages: 2466
+20:57:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005791822999964995 seconds, ingestion_rate: 13482.521633105487 byte/secnumber _of_messages: 2472
+20:57:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031376977674974554 seconds, ingestion_rate: 33239.610858079795 byte/secnumber _of_messages: 2475
+20:57:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025669688667990477 seconds, ingestion_rate: 36888.84431864133 byte/secnumber _of_messages: 2481
+20:57:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002222765916165433 seconds, ingestion_rate: 44746.100306560395 byte/secnumber _of_messages: 2484
+20:58:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002285845413704352 seconds, ingestion_rate: 38161.93766994352 byte/secnumber _of_messages: 2490
+20:58:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024967947769785467 seconds, ingestion_rate: 33715.64704795343 byte/secnumber _of_messages: 2493
+20:58:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002195605323911683 seconds, ingestion_rate: 41358.31893913635 byte/secnumber _of_messages: 2499
+20:58:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002146513348594429 seconds, ingestion_rate: 45940.38121616518 byte/secnumber _of_messages: 2502
+20:59:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002684198802426692 seconds, ingestion_rate: 29048.276389110015 byte/secnumber _of_messages: 2508
+20:59:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005389849715644523 seconds, ingestion_rate: 13773.617483863662 byte/secnumber _of_messages: 2511
+20:59:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018197993495379637 seconds, ingestion_rate: 50352.483510418104 byte/secnumber _of_messages: 2517
+20:59:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002300762882559433 seconds, ingestion_rate: 38165.929086915596 byte/secnumber _of_messages: 2520
+21:00:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002235133569543699 seconds, ingestion_rate: 40576.49816523963 byte/secnumber _of_messages: 2526
+21:00:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022115954658768 seconds, ingestion_rate: 42093.02664667205 byte/secnumber _of_messages: 2529
+21:00:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028261061895970586 seconds, ingestion_rate: 36777.307800846604 byte/secnumber _of_messages: 2535
+21:00:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002419577494128099 seconds, ingestion_rate: 38342.381843017756 byte/secnumber _of_messages: 2538
+21:01:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017425695194375943 seconds, ingestion_rate: 49525.57654723127 byte/secnumber _of_messages: 2544
+21:01:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0015999038906590695 seconds, ingestion_rate: 55676.601769911504 byte/secnumber _of_messages: 2547
+21:01:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004457285565466459 seconds, ingestion_rate: 16645.58197244777 byte/secnumber _of_messages: 2553
+21:01:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002210355123173542 seconds, ingestion_rate: 50429.02819237148 byte/secnumber _of_messages: 2556
+21:02:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002008467545116496 seconds, ingestion_rate: 45223.00755979675 byte/secnumber _of_messages: 2562
+21:02:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019424296456084342 seconds, ingestion_rate: 48543.89357456432 byte/secnumber _of_messages: 2565
+21:02:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017602523432384955 seconds, ingestion_rate: 57710.65127312984 byte/secnumber _of_messages: 2571
+21:02:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003634006781704861 seconds, ingestion_rate: 19531.362629128085 byte/secnumber _of_messages: 2574
+21:03:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023647700592150235 seconds, ingestion_rate: 37900.33734939759 byte/secnumber _of_messages: 2580
+21:03:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002187894717408592 seconds, ingestion_rate: 43806.05618247299 byte/secnumber _of_messages: 2583
+21:03:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023124802692413545 seconds, ingestion_rate: 37495.319358816276 byte/secnumber _of_messages: 2589
+21:03:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002313889421319964 seconds, ingestion_rate: 38138.00668896321 byte/secnumber _of_messages: 2592
+21:04:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027957676189221442 seconds, ingestion_rate: 36877.66023244063 byte/secnumber _of_messages: 2598
+21:04:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022550314458345063 seconds, ingestion_rate: 40192.14098468994 byte/secnumber _of_messages: 2601
+21:04:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016175332941613697 seconds, ingestion_rate: 56794.46661478599 byte/secnumber _of_messages: 2607
+21:04:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002394480298931426 seconds, ingestion_rate: 34480.24643295852 byte/secnumber _of_messages: 2610
+21:05:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023532441939999506 seconds, ingestion_rate: 38406.95168929586 byte/secnumber _of_messages: 2616
+21:05:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022997624139747255 seconds, ingestion_rate: 39845.43000655165 byte/secnumber _of_messages: 2619
+21:05:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023888383160977954 seconds, ingestion_rate: 37102.63833248602 byte/secnumber _of_messages: 2625
+21:05:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001718476835029192 seconds, ingestion_rate: 53046.1474051461 byte/secnumber _of_messages: 2628
+21:06:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00341997226425659 seconds, ingestion_rate: 29096.917949126862 byte/secnumber _of_messages: 2634
+21:06:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024348319574552914 seconds, ingestion_rate: 41028.15920845514 byte/secnumber _of_messages: 2637
+21:06:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002401841526547382 seconds, ingestion_rate: 39106.68181331047 byte/secnumber _of_messages: 2643
+21:06:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002485366270606631 seconds, ingestion_rate: 34266.54596675744 byte/secnumber _of_messages: 2646
+21:07:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036806590173031036 seconds, ingestion_rate: 21235.12849162011 byte/secnumber _of_messages: 2652
+21:07:25,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0034818292510184787 seconds, ingestion_rate: 38410.994526315786 byte/secnumber _of_messages: 2655
+21:07:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00828870702667111 seconds, ingestion_rate: 7695.483740351765 byte/secnumber _of_messages: 2661
+21:07:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00329152813663467 seconds, ingestion_rate: 34932.45720850086 byte/secnumber _of_messages: 2664
+21:08:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023461195440202926 seconds, ingestion_rate: 41377.07767320558 byte/secnumber _of_messages: 2670
+21:08:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0038824182327974587 seconds, ingestion_rate: 24460.6815927068 byte/secnumber _of_messages: 2673
+21:08:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002409055986715463 seconds, ingestion_rate: 39275.045527930255 byte/secnumber _of_messages: 2679
+21:08:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022470746386439983 seconds, ingestion_rate: 42529.65594405594 byte/secnumber _of_messages: 2682
+21:09:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019332390805526193 seconds, ingestion_rate: 50610.88044382801 byte/secnumber _of_messages: 2688
+21:09:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002285587561384385 seconds, ingestion_rate: 41372.38639455782 byte/secnumber _of_messages: 2691
+21:09:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026272440293843478 seconds, ingestion_rate: 34276.202141649446 byte/secnumber _of_messages: 2697
+21:09:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002943976525706735 seconds, ingestion_rate: 28935.409404488146 byte/secnumber _of_messages: 2700
+21:10:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002273615198275737 seconds, ingestion_rate: 39325.837698027804 byte/secnumber _of_messages: 2706
+21:10:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023729274666484806 seconds, ingestion_rate: 39723.97648595689 byte/secnumber _of_messages: 2709
+21:10:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022904343126903233 seconds, ingestion_rate: 40694.15055202409 byte/secnumber _of_messages: 2715
+21:10:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022678905069665393 seconds, ingestion_rate: 43821.838357151435 byte/secnumber _of_messages: 2718
+21:11:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018027284079228782 seconds, ingestion_rate: 51781.53086419753 byte/secnumber _of_messages: 2724
+21:11:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031759199789841343 seconds, ingestion_rate: 29491.99450416229 byte/secnumber _of_messages: 2727
+21:11:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025332524399143946 seconds, ingestion_rate: 42229.42344636037 byte/secnumber _of_messages: 2733
+21:11:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024982759607357595 seconds, ingestion_rate: 35652.60850024426 byte/secnumber _of_messages: 2736
+21:12:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002511190358010001 seconds, ingestion_rate: 36692.25218702866 byte/secnumber _of_messages: 2742
+21:12:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002266546957593047 seconds, ingestion_rate: 40356.60783012608 byte/secnumber _of_messages: 2745
+21:12:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005466087113955693 seconds, ingestion_rate: 30671.971757585947 byte/secnumber _of_messages: 2751
+21:12:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028178224279407508 seconds, ingestion_rate: 37257.95875025526 byte/secnumber _of_messages: 2754
+21:13:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019658461357683005 seconds, ingestion_rate: 56009.89224865694 byte/secnumber _of_messages: 2760
+21:13:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001910637507159636 seconds, ingestion_rate: 44900.26430417128 byte/secnumber _of_messages: 2763
+21:13:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001948821524302772 seconds, ingestion_rate: 50014.31578947369 byte/secnumber _of_messages: 2769
+21:13:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002229718861421025 seconds, ingestion_rate: 40455.038580931265 byte/secnumber _of_messages: 2772
+21:14:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002386171813083193 seconds, ingestion_rate: 37712.32410086813 byte/secnumber _of_messages: 2778
+21:14:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024787881964535145 seconds, ingestion_rate: 37661.724429765716 byte/secnumber _of_messages: 2781
+21:14:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020839973958117434 seconds, ingestion_rate: 44790.0390327728 byte/secnumber _of_messages: 2787
+21:14:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003236023146308743 seconds, ingestion_rate: 23589.401254121145 byte/secnumber _of_messages: 2790
+21:15:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022469344169894433 seconds, ingestion_rate: 40249.77365982793 byte/secnumber _of_messages: 2796
+21:15:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020357765559231187 seconds, ingestion_rate: 45431.33067729084 byte/secnumber _of_messages: 2799
+21:15:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017309660678789562 seconds, ingestion_rate: 55364.04915794265 byte/secnumber _of_messages: 2805
+21:15:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027702807754984194 seconds, ingestion_rate: 27627.53240460327 byte/secnumber _of_messages: 2808
+21:16:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025348715474374445 seconds, ingestion_rate: 32366.901543374137 byte/secnumber _of_messages: 2814
+21:16:25,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024484700522095877 seconds, ingestion_rate: 36007.93842510361 byte/secnumber _of_messages: 2817
+21:16:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002550917222104456 seconds, ingestion_rate: 37549.33607738218 byte/secnumber _of_messages: 2823
+21:16:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002254972526679683 seconds, ingestion_rate: 42658.92541501052 byte/secnumber _of_messages: 2826
+21:17:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036094078432341763 seconds, ingestion_rate: 28703.252418783923 byte/secnumber _of_messages: 2832
+21:17:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007747916989162816 seconds, ingestion_rate: 11949.97537332984 byte/secnumber _of_messages: 2835
+21:17:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.011894416508150523 seconds, ingestion_rate: 6430.714225292542 byte/secnumber _of_messages: 2841
+21:17:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.009964609108501726 seconds, ingestion_rate: 8068.822925880064 byte/secnumber _of_messages: 2844
+21:18:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004006119816907589 seconds, ingestion_rate: 40015.84033336989 byte/secnumber _of_messages: 2850
+21:18:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002663251291887008 seconds, ingestion_rate: 36926.173649058896 byte/secnumber _of_messages: 2853
+21:18:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.01092549966851833 seconds, ingestion_rate: 6225.23240698091 byte/secnumber _of_messages: 2859
+21:18:55,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0038883348393936486 seconds, ingestion_rate: 28935.409404488146 byte/secnumber _of_messages: 2862
+21:19:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004054422894009233 seconds, ingestion_rate: 29337.87168355041 byte/secnumber _of_messages: 2868
+21:19:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002612038915217951 seconds, ingestion_rate: 41751.08100686499 byte/secnumber _of_messages: 2871
+21:19:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.01233324663814252 seconds, ingestion_rate: 5866.159440559441 byte/secnumber _of_messages: 2877
+21:19:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006217401793818108 seconds, ingestion_rate: 29222.747497397293 byte/secnumber _of_messages: 2880
+21:20:10,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00973626476978294 seconds, ingestion_rate: 7679.773713564137 byte/secnumber _of_messages: 2886
+21:20:25,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.010511691995530119 seconds, ingestion_rate: 9947.779510386566 byte/secnumber _of_messages: 2889
+21:20:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.012159713476090208 seconds, ingestion_rate: 6422.338836284276 byte/secnumber _of_messages: 2895
+21:20:55,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0033138851783162076 seconds, ingestion_rate: 44204.051847365234 byte/secnumber _of_messages: 2898
+21:21:10,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005259213752519162 seconds, ingestion_rate: 20507.162414296956 byte/secnumber _of_messages: 2904
+21:21:25,291 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.005462221541376297 seconds, ingestion_rate: 18078.084856103804 byte/secnumber _of_messages: 2907
+21:21:40,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019228801789130299 seconds, ingestion_rate: 55812.85530743346 byte/secnumber _of_messages: 2913
+21:21:55,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007942263603983393 seconds, ingestion_rate: 7995.277125328659 byte/secnumber _of_messages: 2916
+21:22:10,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00286346401275412 seconds, ingestion_rate: 30487.463280140364 byte/secnumber _of_messages: 2922
+21:22:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005385495381431301 seconds, ingestion_rate: 13854.675677727997 byte/secnumber _of_messages: 2925
+21:22:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.013366510737017985 seconds, ingestion_rate: 6267.574380378214 byte/secnumber _of_messages: 2931
+21:22:55,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0038029315903877463 seconds, ingestion_rate: 35975.98816918072 byte/secnumber _of_messages: 2934
+21:23:10,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.009108884823252596 seconds, ingestion_rate: 7489.367403485007 byte/secnumber _of_messages: 2940
+21:23:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0074256191268476145 seconds, ingestion_rate: 9226.175014538192 byte/secnumber _of_messages: 2943
+21:23:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026613373458616936 seconds, ingestion_rate: 34792.56750572082 byte/secnumber _of_messages: 2949
+21:23:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026508706174819792 seconds, ingestion_rate: 29444.399903171146 byte/secnumber _of_messages: 2952
+21:24:10,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023617020146339653 seconds, ingestion_rate: 35372.66847615355 byte/secnumber _of_messages: 2958
+21:24:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004697492605650047 seconds, ingestion_rate: 20551.050236539762 byte/secnumber _of_messages: 2961
+21:24:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028943893016347604 seconds, ingestion_rate: 50568.79822616408 byte/secnumber _of_messages: 2967
+21:24:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.006955711502593871 seconds, ingestion_rate: 11359.954174708922 byte/secnumber _of_messages: 2970
+21:25:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.007868224265345095 seconds, ingestion_rate: 9201.282162489284 byte/secnumber _of_messages: 2976
+21:25:25,294 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003066799775035202 seconds, ingestion_rate: 37364.78066762236 byte/secnumber _of_messages: 2979
+21:25:40,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0036029856300489205 seconds, ingestion_rate: 26787.876082807223 byte/secnumber _of_messages: 2985
+21:25:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.005914152176381847 seconds, ingestion_rate: 16286.741709439857 byte/secnumber _of_messages: 2988
+21:26:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002272217542417374 seconds, ingestion_rate: 40922.33352024223 byte/secnumber _of_messages: 2994
+21:26:25,293 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022043994404980947 seconds, ingestion_rate: 35541.48709457485 byte/secnumber _of_messages: 2997
+21:26:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002243663822825547 seconds, ingestion_rate: 40931.514077397645 byte/secnumber _of_messages: 3003
+21:26:55,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026253047033170606 seconds, ingestion_rate: 32349.685106382978 byte/secnumber _of_messages: 3006
+21:27:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0027330455408183544 seconds, ingestion_rate: 32685.8158366177 byte/secnumber _of_messages: 3012
+21:27:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0028117067767392573 seconds, ingestion_rate: 30050.60100469406 byte/secnumber _of_messages: 3015
+21:27:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0032559117413330993 seconds, ingestion_rate: 24255.812815740494 byte/secnumber _of_messages: 3021
+21:27:55,295 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001965561021575939 seconds, ingestion_rate: 57096.612110780785 byte/secnumber _of_messages: 3024
+21:28:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0026038518564963343 seconds, ingestion_rate: 32525.576967644174 byte/secnumber _of_messages: 3030
+21:28:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002496252842459381 seconds, ingestion_rate: 35764.42693325492 byte/secnumber _of_messages: 3033
+21:28:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0029381142678936525 seconds, ingestion_rate: 26989.973964497043 byte/secnumber _of_messages: 3039
+21:28:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002462427151986462 seconds, ingestion_rate: 35937.01477250345 byte/secnumber _of_messages: 3042
+21:29:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.003658094138105532 seconds, ingestion_rate: 25510.657718120805 byte/secnumber _of_messages: 3048
+21:29:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0031870948933313066 seconds, ingestion_rate: 40662.40784488522 byte/secnumber _of_messages: 3051
+21:29:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025848472299407387 seconds, ingestion_rate: 32189.877205363446 byte/secnumber _of_messages: 3057
+21:29:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019437561951854633 seconds, ingestion_rate: 51007.05171931787 byte/secnumber _of_messages: 3060
+21:30:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021044489159602344 seconds, ingestion_rate: 46437.318401628916 byte/secnumber _of_messages: 3066
+21:30:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.00187944467383646 seconds, ingestion_rate: 46184.59030502468 byte/secnumber _of_messages: 3069
+21:30:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001709770270858895 seconds, ingestion_rate: 51759.49617021277 byte/secnumber _of_messages: 3075
+21:30:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022794692601604627 seconds, ingestion_rate: 38419.082754264055 byte/secnumber _of_messages: 3078
+21:31:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0041573673003754315 seconds, ingestion_rate: 17740.505031844037 byte/secnumber _of_messages: 3084
+21:31:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0039003271549175344 seconds, ingestion_rate: 19430.48178913738 byte/secnumber _of_messages: 3087
+21:31:40,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018174356139718712 seconds, ingestion_rate: 50667.09913912802 byte/secnumber _of_messages: 3093
+21:31:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023716651637978757 seconds, ingestion_rate: 38737.2025477707 byte/secnumber _of_messages: 3096
+21:32:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001661563235086121 seconds, ingestion_rate: 57574.06879141685 byte/secnumber _of_messages: 3102
+21:32:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021705061591617662 seconds, ingestion_rate: 41405.24770225803 byte/secnumber _of_messages: 3105
+21:32:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001735190908109385 seconds, ingestion_rate: 52976.8362369338 byte/secnumber _of_messages: 3111
+21:32:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020770406176640636 seconds, ingestion_rate: 45284.74162323157 byte/secnumber _of_messages: 3114
+21:33:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002389687075357254 seconds, ingestion_rate: 36236.78728897716 byte/secnumber _of_messages: 3120
+21:33:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023472331183826693 seconds, ingestion_rate: 38290.07848898216 byte/secnumber _of_messages: 3123
+21:33:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022604912864318673 seconds, ingestion_rate: 37027.341248097415 byte/secnumber _of_messages: 3129
+21:33:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023083444727851846 seconds, ingestion_rate: 37829.61310387726 byte/secnumber _of_messages: 3132
+21:34:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0016935948224946142 seconds, ingestion_rate: 66612.71412924425 byte/secnumber _of_messages: 3138
+21:34:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0021724835496654644 seconds, ingestion_rate: 41670.02946214457 byte/secnumber _of_messages: 3141
+21:34:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001720130653836936 seconds, ingestion_rate: 60555.00298705609 byte/secnumber _of_messages: 3147
+21:34:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019289776945683621 seconds, ingestion_rate: 49748.39100204499 byte/secnumber _of_messages: 3150
+21:35:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022448588865259245 seconds, ingestion_rate: 47464.1581685744 byte/secnumber _of_messages: 3156
+21:35:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0050333327235934505 seconds, ingestion_rate: 14364.620241703737 byte/secnumber _of_messages: 3159
+21:35:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0018873338683541823 seconds, ingestion_rate: 50477.85973163646 byte/secnumber _of_messages: 3165
+21:35:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024459377525262063 seconds, ingestion_rate: 35273.50874818753 byte/secnumber _of_messages: 3168
+21:36:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0020894147697805305 seconds, ingestion_rate: 40143.50363036303 byte/secnumber _of_messages: 3174
+21:36:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004651833794312166 seconds, ingestion_rate: 14069.418877236274 byte/secnumber _of_messages: 3177
+21:36:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023075424324379068 seconds, ingestion_rate: 43312.10065281899 byte/secnumber _of_messages: 3183
+21:36:55,292 root INFO Performance of client-streaming: Average_size: 96 bytes, average ingest time: 0.0021144310967488303 seconds, ingestion_rate: 51828.186896640495 byte/secnumber _of_messages: 3186
+21:37:10,290 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002207571889485486 seconds, ingestion_rate: 39780.27341109778 byte/secnumber _of_messages: 3192
+21:37:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023638673903452314 seconds, ingestion_rate: 37076.249542775855 byte/secnumber _of_messages: 3195
+21:37:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0022255919070943986 seconds, ingestion_rate: 40612.62637729549 byte/secnumber _of_messages: 3201
+21:37:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0019379797291247149 seconds, ingestion_rate: 51460.22394584685 byte/secnumber _of_messages: 3204
+21:38:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0024082566653556626 seconds, ingestion_rate: 36384.92850732875 byte/secnumber _of_messages: 3210
+21:38:25,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.001725642697946069 seconds, ingestion_rate: 55966.93987730061 byte/secnumber _of_messages: 3213
+21:38:40,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023548523711806758 seconds, ingestion_rate: 39342.79762803234 byte/secnumber _of_messages: 3219
+21:38:55,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0025002946472124036 seconds, ingestion_rate: 35259.875157020004 byte/secnumber _of_messages: 3222
+21:39:10,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.002314571275710991 seconds, ingestion_rate: 37147.96375852591 byte/secnumber _of_messages: 3228
+21:39:25,292 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.004825860725641242 seconds, ingestion_rate: 32647.79887268498 byte/secnumber _of_messages: 3231
+21:39:40,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023857918640412387 seconds, ingestion_rate: 40055.372996706916 byte/secnumber _of_messages: 3237
+21:39:55,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0023927312004123815 seconds, ingestion_rate: 37372.43424825891 byte/secnumber _of_messages: 3240
+21:40:10,291 root INFO Performance of client-streaming: Average_size: 87 bytes, average ingest time: 0.0017134802119613234 seconds, ingestion_rate: 55096.54959987921 byte/secnumber _of_messages: 3246
